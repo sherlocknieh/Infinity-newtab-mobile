@@ -1,20 +1,23 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import WindiCSS from 'vite-plugin-windicss'
+import { crx } from '@crxjs/vite-plugin'
 import { resolve } from 'path'
+import manifest from './manifest.json'
 
 /**
- * Multi-page Vite config for the Infinity New Tab Chrome extension.
+ * Vite config for the Infinity New Tab Chrome extension, managed by CRXJS.
  *
- * Entry points mirror the three HTML pages declared in manifest.json:
+ * CRXJS reads manifest.json to discover all entry points automatically:
  *   - newtab  → chrome_url_overrides.newtab
- *   - popup   → browser_action.default_popup
- *   - background → background.page
+ *   - popup   → action.default_popup
+ *   - background → background.service_worker
  */
 export default defineConfig({
   plugins: [
     vue(),
     WindiCSS(),
+    crx({ manifest }),
   ],
 
   resolve: {
@@ -24,30 +27,10 @@ export default defineConfig({
   },
 
   build: {
-    // Output into dist/ so existing compiled assets are not overwritten.
     outDir: 'dist',
-    emptyOutDir: false,
+    emptyOutDir: true,
     sourcemap: false,
     minify: 'terser',
-
-    rollupOptions: {
-      input: {
-        newtab: resolve(__dirname, 'src/newtab/index.html'),
-        popup: resolve(__dirname, 'src/popup/index.html'),
-        background: resolve(__dirname, 'src/background/index.html'),
-      },
-      output: {
-        // Keep chunk names readable for debugging.
-        chunkFileNames: 'assets/[name].[hash].js',
-        entryFileNames: 'assets/[name].[hash].js',
-        assetFileNames: 'assets/[name].[hash].[ext]',
-        // Split vendor and windicss into separate chunks as seen in the
-        // compiled output (vendor.*.js, windi.*.js).
-        manualChunks: {
-          vendor: ['vue', 'vue-router', 'pinia', 'vant'],
-        },
-      },
-    },
   },
 
   // During development serve from the project root so Chrome can load the
