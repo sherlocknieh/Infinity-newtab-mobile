@@ -38,6 +38,13 @@ const DEFAULT_SITES: Site[] = [
   { id: 'twitter', name: 'X / Twitter', url: 'https://x.com', icon: 'https://x.com/favicon.ico' },
 ]
 
+let _idCounter = 0
+
+function generateId(): string {
+  _idCounter += 1
+  return `site-${Date.now()}-${_idCounter}`
+}
+
 export const useSitesStore = defineStore(StoreKey.SITES, () => {
   // ---- state ----
   const sites = ref<Site[]>([...DEFAULT_SITES])
@@ -60,7 +67,7 @@ export const useSitesStore = defineStore(StoreKey.SITES, () => {
   async function addSite(site: Omit<Site, 'id'>): Promise<void> {
     const newSite: Site = {
       ...site,
-      id: `site-${Date.now()}`,
+      id: generateId(),
     }
     sites.value = [...sites.value, newSite]
     await persist()

@@ -42,7 +42,7 @@
           </span>
         </div>
         <!-- Label -->
-        <span class="text-white text-xs text-center leading-tight max-w-full truncate w-full text-center opacity-90">
+        <span class="text-white text-xs text-center leading-tight max-w-full truncate w-full opacity-90">
           {{ site.name }}
         </span>
       </div>
