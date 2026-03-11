@@ -8,7 +8,7 @@
 <template>
   <div class="page-container flex-center flex-col bg-white p-8 text-center">
     <img
-      src="/assets/not-support.jpg"
+      src="/assets/not-support.a171583e.jpg"
       alt="Not supported"
       class="w-48 h-48 object-contain mb-6"
     />
@@ -23,7 +23,7 @@
 
     <!-- Firefox download link -->
     <div class="mt-8 flex-center gap-4">
-      <img src="/assets/firefox.png" alt="Firefox" class="w-10 h-10" />
+      <img src="/assets/firefox.efa43abd.png" alt="Firefox" class="w-10 h-10" />
       <van-button
         type="primary"
         round

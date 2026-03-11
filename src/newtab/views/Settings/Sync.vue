@@ -64,7 +64,7 @@ import { computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useSyncStore } from '@/stores/sync'
 import { t } from '@/utils/i18n'
-import { showToast } from 'vant'
+import { Toast } from 'vant'
 
 const router = useRouter()
 const syncStore = useSyncStore()
@@ -78,9 +78,9 @@ async function handlePush() {
   try {
     // TODO: gather current store state and pass it to push().
     await syncStore.push({})
-    showToast(t('sync_push_success'))
+    Toast(t('sync_push_success'))
   } catch {
-    showToast(t('sync_push_failed'))
+    Toast(t('sync_push_failed'))
   }
 }
 
@@ -88,16 +88,16 @@ async function handlePull() {
   try {
     const _data = await syncStore.pull()
     // TODO: apply pulled data to the relevant stores.
-    showToast(t('sync_pull_success'))
+    Toast(t('sync_pull_success'))
   } catch {
-    showToast(t('sync_pull_failed'))
+    Toast(t('sync_pull_failed'))
   }
 }
 
 function handleApplyRestore() {
   // TODO: apply pendingRestore data to all relevant stores.
   syncStore.clearPendingRestore()
-  showToast(t('sync_restore_applied'))
+  Toast(t('sync_restore_applied'))
 }
 </script>
 

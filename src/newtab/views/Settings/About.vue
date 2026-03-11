@@ -42,7 +42,7 @@
 
       <!-- Social QR code -->
       <div class="flex-center flex-col mt-8 pb-8">
-        <img src="/assets/qrcode.jpg" alt="QR Code" class="w-32 h-32 rounded" />
+        <img src="/assets/qrcode.82ec38dd.jpg" alt="QR Code" class="w-32 h-32 rounded" />
         <span class="text-xs text-gray-400 mt-2">{{ t('about_follow_wechat') }}</span>
       </div>
     </div>
