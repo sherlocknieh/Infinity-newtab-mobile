@@ -7,6 +7,13 @@
 
 /// <reference types="chrome" />
 
+// Vue Single File Component shims – allows TypeScript to resolve *.vue imports.
+declare module '*.vue' {
+  import type { DefineComponent } from 'vue'
+  const component: DefineComponent<object, object, unknown>
+  export default component
+}
+
 // Vite's virtual modules (WindiCSS, etc.)
 declare module 'virtual:windi.css' {
   const css: string

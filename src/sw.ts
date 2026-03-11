@@ -16,7 +16,7 @@
  */
 
 import { clientsClaim } from 'workbox-core'
-import { precacheAndRoute } from 'workbox-precaching'
+import { precacheAndRoute, PrecacheEntry } from 'workbox-precaching'
 import { registerRoute } from 'workbox-routing'
 import {
   StaleWhileRevalidate,
@@ -84,6 +84,10 @@ registerRoute(
 
 declare global {
   interface ServiceWorkerGlobalScope {
-    __WB_MANIFEST: Array<{ url: string; revision: string | null }>
+    __WB_MANIFEST: Array<string | PrecacheEntry>
+  }
+  // TypeScript resolves `self` in module context as Window; augment it too.
+  interface Window {
+    __WB_MANIFEST: Array<string | PrecacheEntry>
   }
 }
