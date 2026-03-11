@@ -3,9 +3,6 @@
 **Version**: 3.0.17  
 **Type**: Chrome Extension (Manifest V2)
 
-This repository contains both the **compiled extension files** (in the project root) and the
-reconstructed **source project** (in `src/`) from which it was built.
-
 ---
 
 ## Tech Stack
@@ -28,17 +25,23 @@ reconstructed **source project** (in `src/`) from which it was built.
 
 ```
 .
-├── manifest.json               # Chrome Extension manifest (v2)
-├── _locales/                   # i18n message bundles (20+ languages)
-├── icon/                       # Extension icon files
-├── assets/                     # Compiled JS/CSS/image assets
-├── newtab/                     # Compiled new-tab page
-├── popup/                      # Compiled popup page
-├── background/                 # Compiled background page
-├── sw.js                       # Compiled service worker
-├── vendor/                     # Third-party vendor scripts
+├── public/                     # Static extension assets (copied to dist/ as-is)
+│   ├── manifest.json           # Chrome Extension manifest (v2)
+│   ├── favicon.ico
+│   ├── sw.js                   # Service worker (compiled from src/sw.ts)
+│   ├── _locales/               # i18n message bundles (20+ languages)
+│   ├── icon/                   # Extension icon files
+│   ├── vendor/                 # Third-party vendor scripts (QQ SDK)
+│   └── assets/                 # Static images referenced by source components
 │
-├── src/                        # ← SOURCE CODE (reconstructed)
+├── newtab/
+│   └── index.html              # New-tab HTML entry point
+├── popup/
+│   └── index.html              # Popup HTML entry point
+├── background/
+│   └── index.html              # Background page HTML entry point
+│
+├── src/                        # TypeScript / Vue source code
 │   ├── constants.ts            # App-wide constants & enums
 │   ├── sw.ts                   # Service worker source
 │   ├── types/
@@ -54,7 +57,6 @@ reconstructed **source project** (in `src/`) from which it was built.
 │   │   ├── user.ts             # Pinia: auth / user profile
 │   │   └── sync.ts             # Pinia: cloud sync
 │   ├── newtab/
-│   │   ├── index.html          # New-tab HTML entry
 │   │   ├── main.ts             # Vue app bootstrap
 │   │   ├── App.vue             # Root component
 │   │   ├── router/
@@ -79,11 +81,9 @@ reconstructed **source project** (in `src/`) from which it was built.
 │   │           ├── About.vue
 │   │           └── ThirdParty.vue
 │   ├── popup/
-│   │   ├── index.html
 │   │   ├── main.ts
 │   │   └── App.vue
 │   └── background/
-│       ├── index.html
 │       ├── main.ts
 │       └── App.vue
 │
@@ -114,15 +114,15 @@ npm install
 npm run build
 ```
 
-The compiled extension will be output to `dist/`.
+The compiled extension is output to `dist/`.  After the build completes, `dist/` contains
+everything the browser needs — no extra copy steps required.
 
-### Load in Chrome (development)
+### Load in Chrome
 
-1. Run `npm run build` (or `npm run dev` for the dev server)
+1. Run `npm run build`
 2. Open `chrome://extensions`
 3. Enable **Developer mode**
-4. Click **Load unpacked** and select the project root (for the existing compiled extension)
-   — or the `dist/` directory (for the freshly compiled source)
+4. Click **Load unpacked** and select the `dist/` directory
 
 ---
 
@@ -139,7 +139,7 @@ The compiled extension will be output to `dist/`.
 
 ## i18n
 
-Translation strings live in `_locales/<lang>/messages.json`.  
+Translation strings live in `public/_locales/<lang>/messages.json`.  
 Supported languages include: `en`, `zh_CN`, `zh_TW`, `ja`, `ko`, `de`, `fr`, `es`, `ru`, `pt_BR`, and 15+ more.
 
 The `t()` helper (`src/utils/i18n.ts`) wraps `chrome.i18n.getMessage()` with a fallback to the key itself.
@@ -148,7 +148,7 @@ The `t()` helper (`src/utils/i18n.ts`) wraps `chrome.i18n.getMessage()` with a f
 
 ## Permissions
 
-As declared in `manifest.json`:
+As declared in `public/manifest.json`:
 
 ```json
 "permissions": [
@@ -161,14 +161,3 @@ As declared in `manifest.json`:
   "background"
 ]
 ```
-
----
-
-## Notes
-
-- The source files in `src/` are reconstructed from the compiled output and represent the
-  project structure that would produce the same functionality.  Business logic in each Vue
-  component stub is a faithful approximation based on the compiled code analysis.
-- The compiled files in the repository root are the original production build.
-- Build output hashes will differ from the original compiled files because Vite regenerates
-  content hashes on each build.

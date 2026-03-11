@@ -1,1 +1,0 @@
-import{_ as e}from"./settings-popup-follow.vue_vue&type=script&setup=true&lang.9d1bf0c7.js";export{_ as default}from"./settings-popup-follow.vue_vue&type=script&setup=true&lang.9d1bf0c7.js";import"./vendor.28e7f1f0.js";
