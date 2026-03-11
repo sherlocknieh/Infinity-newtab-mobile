@@ -2,10 +2,20 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Background</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <!--
+      The background page has no visible UI. The blank title prevents any
+      "Untitled" flash. The LRM character matches the original compiled output.
+    -->
+    <title>‎</title>
   </head>
   <body>
-    <div id="app"></div>
+    <!--
+      #pre-render and #background divs mirror the compiled background/index.html.
+      The background page does not render visible UI; these are placeholders.
+    -->
+    <div id="pre-render"></div>
+    <div id="background"></div>
     <script type="module" src="/src/background/main.ts"></script>
   </body>
 </html>
