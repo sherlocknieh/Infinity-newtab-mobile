@@ -1,1 +1,1302 @@
-{"web_name":{"message":"Infinity Homepage"},"extension_name":{"message":"Infinity Nuova scheda per cellulare"},"extension_short_name":{"message":"Infinity"},"name":{"message":"Infinity New Tab "},"extension_des":{"message":"Personalizza la tua nuova scheda Tab.Ow Compatibile con il browser Kiwi, il browser Lemur, ecc."},"extension_edge_des":{"message":"Personalizza la tua nuova scheda, ora adattata al browser mobile"},"add_to_infinity":{"message":"Aggiungi a Infinity New Tab Page"},"network_error":{"message":"Errore di rete"},"no_description":{"message":"Nessuna descrizione"},"done":{"message":"Fine"},"cancel":{"message":"Annulla"},"confirm":{"message":"OK"},"folder":{"message":"Cartella"},"add":{"message":"Aggiungi"},"wallpaper":{"message":"Sfondo"},"ambiguity":{"message":"Sfocatura"},"five_star":{"message":"Vota 5 stelle"},"follow_us":{"message":"Seguici"},"about":{"message":"Informazioni"},"about_us":{"message":"Riguardo a noi"},"contact_us":{"message":"Contattaci"},"privacy_policy":{"message":"Informativa sulla Privacy"},"term_of_use":{"message":"\"Condizioni d'uso\""},"login":{"message":"Accedi"},"forget_password":{"message":"Password dimenticata"},"modify_password":{"message":"Modifica password"},"welcome_infinity":{"message":"Welcome to Infinity"},"next":{"message":"Avanti"},"login_register":{"message":"Entra / Registrati"},"backup_now":{"message":"Effettua ora il backup"},"manage_backup_node":{"message":"Gestire i nodi di backup della cronologia"},"backup_with_device":{"message":"Sincronizza con altri dispositivi"},"ensure_logout":{"message":"Sicuro di volerti disconnettere?"},"logout_tips":{"message":"È necessario cancellare i dati locali prima di disconnettersi dal tuo account per evitare che i dati da diversi account su questo dispositivo da collegare?"},"logout_clear_something":{"message":"Cancella impostazioni personalizzate e altre informazioni su questo dispositivo"},"manul_backup":{"message":"Backup manuale"},"recover_this":{"message":"Recupera da questo nodo"},"scheduled_backup":{"message":"Backup pianificati"},"current_node":{"message":"Nodo corrente"},"mini_mode":{"message":"Modalità minimalista"},"hide_search_input":{"message":"Nascondi la casella di ricerca"},"icon":{"message":"Icona"},"search_input":{"message":"Casella di ricerca"},"set_setting_default":{"message":"Ripristina impostazioni predefinite"},"search_website":{"message":"Cerca siti"},"share_by_user":{"message":"gli utenti condividono"},"application":{"message":"Applicazione"},"news":{"message":"Notizie"},"photos":{"message":"Immagini"},"finance":{"message":"finanza"},"read":{"message":"Leggi"},"others":{"message":"Altri"},"account_format_error":{"message":"Account in formato errato"},"password_dont_empty":{"message":"La password non può essere vuota"},"reset_password_tips":{"message":"Verifica la tua password tramite e-mail o numero di cellulare"},"email_code":{"message":"Verifica via email"},"baidu":{"message":"Baidu"},"most_used_in_chinese":{"message":"Il motore di ricerca ha usato il massimo da cinese"},"html":{"message":"Sito"},"videos":{"message":"Video"},"map":{"message":"Maps"},"google":{"message":"Google"},"google_desc":{"message":"Ricerca Google è un motore di ricerca sviluppato da Google. È il motore di ricerca più grande e più influente su Internet"},"bing":{"message":"Bing"},"bing_desc":{"message":"Bing è un motore di ricerca sviluppato da Microsoft"},"yahoo":{"message":"Yahoo"},"yahoo_desc":{"message":"Yahoo Search è un motore di ricerca gestito da Yahoo"},"yandex_desc":{"message":"Yandex è uno dei più importanti portali di servizio Internet in Russia"},"yandex":{"message":"Yandex"},"duckduckgo":{"message":"DuckDuckGo"},"duckduckgo_desc":{"message":"Dursduckgo si concentra sull'importazione dei contenuti dei principali siti Web 2.0 oltre ad essere un tradizionale motori di ricerca La filosofia del sito Web è di rispettare la privacy degli utenti, promettendo di non monitorare o documentare i contenuti di ricerca."},"n_360":{"message":"360 Search"},"360_desc":{"message":"Motore di ricerca sicuro"},"sougou":{"message":"Sogou"},"sougou_desc":{"message":"Motore di ricerca che può cercare i contenuti pubblicati da WeChat Account ufficiali"},"yarndex_ru":{"message":"YandexRU"},"chrome_app_store":{"message":"Chrome Web Store - Estensioni"},"exfans":{"message":"Extfans"},"tian_mao":{"message":"TMall"},"jindong_shopping":{"message":"Jingdong"},"xie_cheng":{"message":"Ctrip"},"i_taobao":{"message":"taobao"},"no_data":{"message":"Nessun dato"},"edit_icon":{"message":"Modifica icona"},"confirm_cover_remote":{"message":"I dati locali verranno salvati su un nodo di backup manuale"},"del_folder":{"message":"Elimina"},"reset_password":{"message":"Resetta le password"},"wallpaper_library":{"message":"Raccolta di sfondi"},"notes":{"message":"Note"},"weather":{"message":"Meteo"},"history":{"message":"Cronologia"},"bookmarks":{"message":"Preferiti"},"settings":{"message":"Impostazioni"},"extension":{"message":"Estensioni"},"todos":{"message":"Attività"},"infinity_wallpaper":{"message":"Biblioteca di carta da parati Infinity ti offre sfondi ricchi ed eccitanti"},"infinity_extension":{"message":"Gestisci le tue estensioni cromate e le app facilmente con Infinity Extension Manager"},"infinity_weather":{"message":"L'infinito il tempo ti offre previsioni meteorologiche di città in tutto il mondo"},"infinity_history":{"message":"Visualizza rapidamente e gestire la tua storia del browser con la cronologia dell'infinito"},"infinity_bookmarks":{"message":"Appiattire la tua cartella dei segnalibri Gerarchia e trova i segnalibri più facilmente con i segnalibri di infinito"},"infinity_settings":{"message":"Personalizza la tua nuova pagina di scheda Infinity con le impostazioni di Infinity"},"infinity_notes":{"message":"Registrare rapidamente le ispirazioni della vita con le note di infinito"},"infinity_todos":{"message":"Disporre i tuoi compiti in ordine e migliorare la tua efficienza del lavoro con l'elenco degli infiniti"},"reqeust_login_message":{"message":"Per utilizzare questa funzionalità devi eseguire l'accesso"},"send_success":{"message":"E-mail di verifica inviata. Controlla la posta in arrivo"},"hint":{"message":"Suggerimento"},"request_logout_confirm":{"message":"Eliminare il tuo account?"},"edit_avatar":{"message":"Modifica avatar"},"upload_avatar_failure":{"message":"Impossibile caricare l'immagine avatar"},"qq_zone":{"message":"Qzone"},"douban":{"message":"Douban"},"xin_lang_weibo":{"message":"Weibo"},"confirm_recovery_data":{"message":"I dati cloud sostituiranno i dati locali. Sei sicuro di questa azione?"},"use_local":{"message":"Utilizzare i dati locali"},"use_cloud":{"message":"Usa i dati cloud."},"revovery_data":{"message":"Ripristina dati"},"color_icon":{"message":"Icona di colore solido"},"language":{"message":"Lingua"},"icon_all":{"message":"Tutti"},"most_popular":{"message":"I più richiesti"},"video_type":{"message":"Audio e video"},"shopping_type":{"message":"Shopping"},"social_type":{"message":"Social"},"travel_type":{"message":"Viaggio"},"life_type":{"message":"Vita"},"game_type":{"message":"Giochi"},"education_type":{"message":"Educazione"},"tech_type":{"message":"Tecnologia"},"experience_without_login":{"message":"Prova"},"relogin_des":{"message":"L'account non è valido, effettua il login di nuovo"},"relogin_out":{"message":"Esci"},"sync_check_data":{"message":"Selezione dei dati dell'account"},"sync_use_merge":{"message":"Unisci dati locali e cloud"},"sync_login_tips":{"message":"Ti consigliamo di accedere prima al tuo account_#_to ottenere i dati dell'account e sincronizzarli con altri dispositivi"},"please_input_url":{"message":"Si prega di inserire URL"},"please_input_url_search":{"message":"Si prega di inserire l'URL (usa%s invece di termini di ricerca)"},"please_input_name":{"message":"Inserisci un nome"},"online_icon_tab":{"message":"Icona online"},"local_upload":{"message":"Carica"},"url_error_tips1":{"message":"L'URL deve contenere i personaggi%s"},"url_errror_tips_2":{"message":"Per favore inserisci l'URL"},"please_select_icon":{"message":"Si prega di selezionare l'icona"},"text_icon_des":{"message":"Testo dell'icona, 1-2 caratteri consigliati"},"rollback_cropper":{"message":"Ripristina"},"custom_add_icon":{"message":"Aggiunta personalizzata"},"fetching_icon":{"message":"Ottenere..."},"add_success":{"message":"Aggiunto correttamente!"},"all_store":{"message":"Tutti i preferiti"},"search_manage":{"message":"Gestione dei motori di ricerca"},"account_or_password_error":{"message":"Errore account o password"},"tologin":{"message":"Accedi ora per provare ancora più funzionalità"},"rigester_account":{"message":"Registra account"},"other_login_type":{"message":"Altri modi Login"},"please_input_and_continue":{"message":"Inserisci e completa la convalida prima di continuare"},"register_infinity":{"message":"Registrati Infinity"},"password_less":{"message":"Inserisci una password con più di 6 caratteri"},"password_different":{"message":"Le password non corrispondono"},"please_set_password":{"message":"Si prega di impostare una password"},"last_step":{"message":"Passaggio precedente"},"reset_password_des":{"message":"Ripristina la tua nuova password"},"setting_done":{"message":"Impostazioni"},"feed_back":{"message":"Feedback"},"wallpaper_center":{"message":"Centro di carta da parati"},"share_to_friends":{"message":"Quota"},"official_community":{"message":"Comunità ufficiale"},"weixin_public_account":{"message":"WeChat"},"enjoy_right_now":{"message":"Goditi più eccitazione subito"},"shared_to":{"message":"Condividi su:"},"whether_to_reset_all_setting":{"message":"Resettare tutte le impostazioni?"},"newtab_open":{"message":"Apri il sito Web in nuova scheda"},"newtab_open_search":{"message":"Mostra il risultato della ricerca sulla nuova scheda"},"icon_shape":{"message":"Forma icone"},"history_backup":{"message":"Cronologia backup"},"modify_nickname":{"message":"Modifica nickname"},"modify_password_success":{"message":"Password cambiata con successo"},"please_input_origin_password":{"message":"Si prega di inserire il passcode originale"},"please_input_new_password":{"message":"Immetti una nuova password"},"please_input_new_password_2":{"message":"Inserisci nuovamente la password"},"modify_info":{"message":"Modifica profilo"},"nickname":{"message":"Nickname"},"delete_account":{"message":"Elimina account"},"logout_account":{"message":"Esci"},"setting_fail":{"message":"Configurazione non riuscita"},"store_success":{"message":"Aggiunto ai Preferiti"},"cancel_store_success":{"message":"Rimosso"},"mask":{"message":"Maschera"},"collection":{"message":"Colleziona"},"the_end":{"message":"Nessun altro elemento"},"icon_no_pic":{"message":"Nessuna icona correlata è stata ancora abbinata~"},"search_from":{"message":"Ho cercato da: "},"edge_app_store":{"message":"Edge add-on"},"firefox_app_store":{"message":"Firefox Add-on Store"},"version_does_not_support_this_feature":{"message":"La versione corrente non supporta questa funzione!"},"open_failed":{"message":"Impossibile aprire"},"default":{"message":"Predefinito"},"custom":{"message":"Personalizza"},"attach":{"message":"Allega"},"custom_search_engine":{"message":"Motore di ricerca personalizzato"},"attch_search_engine":{"message":"Motore di ricerca allegato"},"edit_custom_search_engine":{"message":"Modifica motore di ricerca personalizzato"},"email":{"message":"E-mail"},"password":{"message":"Password"},"new_password":{"message":"Inserisci la nuova password"},"confirm_password":{"message":"Conferma nuova password"},"chrome":{"message":"Chrome"},"edge":{"message":"Microsoft Edge"},"firefox":{"message":"Firefox"},"not_support_title":{"message":"Visualizzazione dell'errore sulla pagina"},"not_support_text":{"message":"Per godere di un'esperienza utente migliore con Infinity_#_si consiglia di aggiornare il browser all'ultima versione. Utilizzando un broment compatibile con Infinity è anche ricommentato"},"failure":{"message":"non riuscito"},"qq_group":{"message":"Nuova scheda Page 2 Gruppo"},"fb_group":{"message":"Unisciti al gruppo Facebook e chatta con tutti!"},"switch_failed":{"message":"Cambiamento non riuscito"},"nature":{"message":"Natura"},"ocean":{"message":"Oceano"},"architecture":{"message":"Architettura"},"animals":{"message":"Animali"},"travel":{"message":"Viaggi"},"food_drink":{"message":"Alimenti"},"anime":{"message":"Fumetti"},"athletics":{"message":"Sport"},"technology":{"message":"Tecnologia"},"street_photography":{"message":"Strada"},"experience_mode_tips":{"message":"Nella modalità esperienza, i dati che generati non saranno sincronizzati con altri dispositivi e potrebbero essere persi"},"qq_group_dialog_tips":{"message":"Copia il numero di gruppo e continua"},"fb_group_dialog_tips":{"message":"Copia link e continua"},"delete_account_dialog_tips":{"message":"Dopo aver eliminato l'account, tutti i dispositivi in ​​base a questo account saranno rimossi (note e immagini nella libreria di carta da parati personalizzata potrebbe diventare inutilizzabile)"},"verity_code":{"message":"Invia codice di verifica"},"edit":{"message":"Modifica"},"no_collect_wallpaper_tips":{"message":"Non hai ancora raccolto nessuna carta da parati"},"no_custom_search_engine_tips":{"message":"Il motore di ricerca personalizzato non è stato ancora aggiunto"},"no_attach_search_engine_tips":{"message":"Nessun motore di ricerca aggiuntivo è stato ancora aggiunto"},"login_failure":{"message":"Accesso non riuscito"},"choose_user":{"message":"Scegli account"},"upload_failure":{"message":"Caricamento non riuscito"},"uploading":{"message":"Caricamento in corso"},"cancel_upload":{"message":"Annulla caricamento"},"loading":{"message":"Caricamento"},"load_failure":{"message":"Caricamento fallito"},"wallpaper_upload_file_size_exceed":{"message":"Carica file non riuscito. Motivo: la dimensione supera il limite"},"icon_network_error":{"message":"Eccezione di rete, fare clic per ricaricare"},"discover":{"message":"Scopri"},"backup_failed":{"message":"Backup non riuscito"},"download_failure":{"message":"Download non riuscito"},"search":{"message":"Cerca"},"current_wallpaper":{"message":"Corrente"},"cancel_collect":{"message":"Rimuovi dai Preferiti"},"qq_login_not_supported":{"message":"QQ Login non è supportato in modalità Desktop"},"search_engine_error":{"message":"Inserire il nome del motore di ricerca"},"cannot_change_profile":{"message":"Gli utenti di terze parti che accedono non possono modificare le informazioni del profilo"},"password_not_some":{"message":"Le password immesse non corrispondono"},"no_permission":{"message":"Nessuna autorizzazione"},"qrcode_success":{"message":"Scansione riuscita"},"qrcode_failed":{"message":"Scansione non riuscita"},"camera_not_found":{"message":"Impossibile trovare la fotocamera"},"qrcode_login":{"message":"Scansione del codice QR per accedere"},"phone_number":{"message":"Numero di telefono"},"password_login":{"message":"Accedi tramite password"},"phone_login":{"message":"Accesso mobile"},"enter_valid_phone_tips":{"message":"Si prega di inserire il numero di telefono corretto"},"enter_valid_email_tips":{"message":"Inserire l'indirizzo e-mail corretto"},"third_party":{"message":"Conti di terze parti"},"add_todo":{"message":"Aggiungi To-Do"},"todo_content":{"message":"Attività da eseguire"},"todo_dont_empty":{"message":"A-dos non può essere vuoto"},"no_reminders":{"message":"Nessuna cosa da fare"},"clear_done_todo":{"message":"Elimina completati"},"todo_tip_time":{"message":"Ora promemoria"},"confirm_delete_done_todos":{"message":"Sei sicuro di voler eliminare gli articoli completati?"},"add_note":{"message":"Aggiungi una nota"},"add_first_note":{"message":"Scrivi la tua prima nota"},"set_top":{"message":"In alto"},"cancel_set_top":{"message":"Rimuovi da primo piano"},"note_title":{"message":"Digita il titolo"},"limit_input_length":{"message":"Lunghezza del testo oltre il limite"},"no_title":{"message":"Senza titolo"},"add_link":{"message":"Aggiungi un link"},"please_input_right_link":{"message":"Per favore, inserisci un URL valido"},"note_upload_img_15":{"message":"Questa dimensione dell'immagine non può superare 15M"},"confirm_delete_note":{"message":"Conferma notifica eliminazione?"},"no_permission_title":{"message":"Questa autorizzazione non è stata concessa"},"no_permission_text":{"message":"Si consiglia di provare ad andare alla barra degli indirizzi del browser o nella settings Center per aprire e concedere questa autorizzazione."},"have_todo_item":{"message":"Attualmente hai un compito da fare"},"bind":{"message":"Associa"},"unbind":{"message":"Elimina"},"unbind_2":{"message":"Dissocia"},"unbind_success":{"message":"Eliminazione completata"},"phone_bind":{"message":"Associa telefono"},"phone_unbind":{"message":"Disaccoppiare il numero di telefono"},"email_unbind":{"message":"Separazione della email"},"phone_unbind_tips":{"message":"Sei sicuro di voler annullare l'associazione del tuo numero di telefono $phone_number$?","placeholders":{"phone_number":{"content":"$1"}}},"confirm_unbind_email":{"message":"Sei sicuro di voler annullare la tua email $email$?","placeholders":{"email":{"content":"$1"}}},"email_bind":{"message":"Collega Email"},"verification_code":{"message":"Codice di verifica"},"bind_success":{"message":"Associazione riuscita"},"unbind_email_title":{"message":"Scollegare l'indirizzo di posta elettronica"},"unbind_tips":{"message":"Per la sicurezza del tuo account, inserisci una password dell'account"},"enter_password_tips":{"message":"Inserisci passphrase"},"enter_verification_code_tips":{"message":"Inserisci il codice di verifica"},"email_or_phone_number_tips":{"message":"Email o numero di cellulare"},"email_format_error":{"message":"Il formato e-mail non è corretto"},"input_note_content":{"message":"Inserisci le note qui..."},"confirm_unbind":{"message":"Confermerai lo sblocco?"},"popup_title":{"message":"Aggiungi a Infinity Collection"},"icon_name":{"message":"Nome Icona"},"add_icon_success":{"message":"aggiunto con successo"},"no_more_reminder":{"message":"Non mostrare più"},"username_cannot_empty":{"message":"Il nome utente non può essere vuoto"},"change_phone":{"message":"Modifica il numero di telefono"},"safety_verification":{"message":"Convalida di sicurezza"},"safety_verification_tips":{"message":"Si prega di inserire il codice di verifica dell'immagine"},"click_img_to_refresh":{"message":"Clicca sull'immagine per aggiornare"},"modify_email":{"message":"Modifica indirizzo e-mail"}}
+{
+  "web_name": {
+    "message": "Infinity Homepage"
+  },
+  "extension_name": {
+    "message": "Infinity Nuova scheda per cellulare"
+  },
+  "extension_short_name": {
+    "message": "Infinity"
+  },
+  "name": {
+    "message": "Infinity New Tab "
+  },
+  "extension_des": {
+    "message": "Personalizza la tua nuova scheda Tab.Ow Compatibile con il browser Kiwi, il browser Lemur, ecc."
+  },
+  "extension_edge_des": {
+    "message": "Personalizza la tua nuova scheda, ora adattata al browser mobile"
+  },
+  "add_to_infinity": {
+    "message": "Aggiungi a Infinity New Tab Page"
+  },
+  "network_error": {
+    "message": "Errore di rete"
+  },
+  "no_description": {
+    "message": "Nessuna descrizione"
+  },
+  "done": {
+    "message": "Fine"
+  },
+  "cancel": {
+    "message": "Annulla"
+  },
+  "confirm": {
+    "message": "OK"
+  },
+  "folder": {
+    "message": "Cartella"
+  },
+  "add": {
+    "message": "Aggiungi"
+  },
+  "wallpaper": {
+    "message": "Sfondo"
+  },
+  "ambiguity": {
+    "message": "Sfocatura"
+  },
+  "five_star": {
+    "message": "Vota 5 stelle"
+  },
+  "follow_us": {
+    "message": "Seguici"
+  },
+  "about": {
+    "message": "Informazioni"
+  },
+  "about_us": {
+    "message": "Riguardo a noi"
+  },
+  "contact_us": {
+    "message": "Contattaci"
+  },
+  "privacy_policy": {
+    "message": "Informativa sulla Privacy"
+  },
+  "term_of_use": {
+    "message": "\"Condizioni d'uso\""
+  },
+  "login": {
+    "message": "Accedi"
+  },
+  "forget_password": {
+    "message": "Password dimenticata"
+  },
+  "modify_password": {
+    "message": "Modifica password"
+  },
+  "welcome_infinity": {
+    "message": "Welcome to Infinity"
+  },
+  "next": {
+    "message": "Avanti"
+  },
+  "login_register": {
+    "message": "Entra / Registrati"
+  },
+  "backup_now": {
+    "message": "Effettua ora il backup"
+  },
+  "manage_backup_node": {
+    "message": "Gestire i nodi di backup della cronologia"
+  },
+  "backup_with_device": {
+    "message": "Sincronizza con altri dispositivi"
+  },
+  "ensure_logout": {
+    "message": "Sicuro di volerti disconnettere?"
+  },
+  "logout_tips": {
+    "message": "È necessario cancellare i dati locali prima di disconnettersi dal tuo account per evitare che i dati da diversi account su questo dispositivo da collegare?"
+  },
+  "logout_clear_something": {
+    "message": "Cancella impostazioni personalizzate e altre informazioni su questo dispositivo"
+  },
+  "manul_backup": {
+    "message": "Backup manuale"
+  },
+  "recover_this": {
+    "message": "Recupera da questo nodo"
+  },
+  "scheduled_backup": {
+    "message": "Backup pianificati"
+  },
+  "current_node": {
+    "message": "Nodo corrente"
+  },
+  "mini_mode": {
+    "message": "Modalità minimalista"
+  },
+  "hide_search_input": {
+    "message": "Nascondi la casella di ricerca"
+  },
+  "icon": {
+    "message": "Icona"
+  },
+  "search_input": {
+    "message": "Casella di ricerca"
+  },
+  "set_setting_default": {
+    "message": "Ripristina impostazioni predefinite"
+  },
+  "search_website": {
+    "message": "Cerca siti"
+  },
+  "share_by_user": {
+    "message": "gli utenti condividono"
+  },
+  "application": {
+    "message": "Applicazione"
+  },
+  "news": {
+    "message": "Notizie"
+  },
+  "photos": {
+    "message": "Immagini"
+  },
+  "finance": {
+    "message": "finanza"
+  },
+  "read": {
+    "message": "Leggi"
+  },
+  "others": {
+    "message": "Altri"
+  },
+  "account_format_error": {
+    "message": "Account in formato errato"
+  },
+  "password_dont_empty": {
+    "message": "La password non può essere vuota"
+  },
+  "reset_password_tips": {
+    "message": "Verifica la tua password tramite e-mail o numero di cellulare"
+  },
+  "email_code": {
+    "message": "Verifica via email"
+  },
+  "baidu": {
+    "message": "Baidu"
+  },
+  "most_used_in_chinese": {
+    "message": "Il motore di ricerca ha usato il massimo da cinese"
+  },
+  "html": {
+    "message": "Sito"
+  },
+  "videos": {
+    "message": "Video"
+  },
+  "map": {
+    "message": "Maps"
+  },
+  "google": {
+    "message": "Google"
+  },
+  "google_desc": {
+    "message": "Ricerca Google è un motore di ricerca sviluppato da Google. È il motore di ricerca più grande e più influente su Internet"
+  },
+  "bing": {
+    "message": "Bing"
+  },
+  "bing_desc": {
+    "message": "Bing è un motore di ricerca sviluppato da Microsoft"
+  },
+  "yahoo": {
+    "message": "Yahoo"
+  },
+  "yahoo_desc": {
+    "message": "Yahoo Search è un motore di ricerca gestito da Yahoo"
+  },
+  "yandex_desc": {
+    "message": "Yandex è uno dei più importanti portali di servizio Internet in Russia"
+  },
+  "yandex": {
+    "message": "Yandex"
+  },
+  "duckduckgo": {
+    "message": "DuckDuckGo"
+  },
+  "duckduckgo_desc": {
+    "message": "Dursduckgo si concentra sull'importazione dei contenuti dei principali siti Web 2.0 oltre ad essere un tradizionale motori di ricerca La filosofia del sito Web è di rispettare la privacy degli utenti, promettendo di non monitorare o documentare i contenuti di ricerca."
+  },
+  "n_360": {
+    "message": "360 Search"
+  },
+  "360_desc": {
+    "message": "Motore di ricerca sicuro"
+  },
+  "sougou": {
+    "message": "Sogou"
+  },
+  "sougou_desc": {
+    "message": "Motore di ricerca che può cercare i contenuti pubblicati da WeChat Account ufficiali"
+  },
+  "yarndex_ru": {
+    "message": "YandexRU"
+  },
+  "chrome_app_store": {
+    "message": "Chrome Web Store - Estensioni"
+  },
+  "exfans": {
+    "message": "Extfans"
+  },
+  "tian_mao": {
+    "message": "TMall"
+  },
+  "jindong_shopping": {
+    "message": "Jingdong"
+  },
+  "xie_cheng": {
+    "message": "Ctrip"
+  },
+  "i_taobao": {
+    "message": "taobao"
+  },
+  "no_data": {
+    "message": "Nessun dato"
+  },
+  "edit_icon": {
+    "message": "Modifica icona"
+  },
+  "confirm_cover_remote": {
+    "message": "I dati locali verranno salvati su un nodo di backup manuale"
+  },
+  "del_folder": {
+    "message": "Elimina"
+  },
+  "reset_password": {
+    "message": "Resetta le password"
+  },
+  "wallpaper_library": {
+    "message": "Raccolta di sfondi"
+  },
+  "notes": {
+    "message": "Note"
+  },
+  "weather": {
+    "message": "Meteo"
+  },
+  "history": {
+    "message": "Cronologia"
+  },
+  "bookmarks": {
+    "message": "Preferiti"
+  },
+  "settings": {
+    "message": "Impostazioni"
+  },
+  "extension": {
+    "message": "Estensioni"
+  },
+  "todos": {
+    "message": "Attività"
+  },
+  "infinity_wallpaper": {
+    "message": "Biblioteca di carta da parati Infinity ti offre sfondi ricchi ed eccitanti"
+  },
+  "infinity_extension": {
+    "message": "Gestisci le tue estensioni cromate e le app facilmente con Infinity Extension Manager"
+  },
+  "infinity_weather": {
+    "message": "L'infinito il tempo ti offre previsioni meteorologiche di città in tutto il mondo"
+  },
+  "infinity_history": {
+    "message": "Visualizza rapidamente e gestire la tua storia del browser con la cronologia dell'infinito"
+  },
+  "infinity_bookmarks": {
+    "message": "Appiattire la tua cartella dei segnalibri Gerarchia e trova i segnalibri più facilmente con i segnalibri di infinito"
+  },
+  "infinity_settings": {
+    "message": "Personalizza la tua nuova pagina di scheda Infinity con le impostazioni di Infinity"
+  },
+  "infinity_notes": {
+    "message": "Registrare rapidamente le ispirazioni della vita con le note di infinito"
+  },
+  "infinity_todos": {
+    "message": "Disporre i tuoi compiti in ordine e migliorare la tua efficienza del lavoro con l'elenco degli infiniti"
+  },
+  "reqeust_login_message": {
+    "message": "Per utilizzare questa funzionalità devi eseguire l'accesso"
+  },
+  "send_success": {
+    "message": "E-mail di verifica inviata. Controlla la posta in arrivo"
+  },
+  "hint": {
+    "message": "Suggerimento"
+  },
+  "request_logout_confirm": {
+    "message": "Eliminare il tuo account?"
+  },
+  "edit_avatar": {
+    "message": "Modifica avatar"
+  },
+  "upload_avatar_failure": {
+    "message": "Impossibile caricare l'immagine avatar"
+  },
+  "qq_zone": {
+    "message": "Qzone"
+  },
+  "douban": {
+    "message": "Douban"
+  },
+  "xin_lang_weibo": {
+    "message": "Weibo"
+  },
+  "confirm_recovery_data": {
+    "message": "I dati cloud sostituiranno i dati locali. Sei sicuro di questa azione?"
+  },
+  "use_local": {
+    "message": "Utilizzare i dati locali"
+  },
+  "use_cloud": {
+    "message": "Usa i dati cloud."
+  },
+  "revovery_data": {
+    "message": "Ripristina dati"
+  },
+  "color_icon": {
+    "message": "Icona di colore solido"
+  },
+  "language": {
+    "message": "Lingua"
+  },
+  "icon_all": {
+    "message": "Tutti"
+  },
+  "most_popular": {
+    "message": "I più richiesti"
+  },
+  "video_type": {
+    "message": "Audio e video"
+  },
+  "shopping_type": {
+    "message": "Shopping"
+  },
+  "social_type": {
+    "message": "Social"
+  },
+  "travel_type": {
+    "message": "Viaggio"
+  },
+  "life_type": {
+    "message": "Vita"
+  },
+  "game_type": {
+    "message": "Giochi"
+  },
+  "education_type": {
+    "message": "Educazione"
+  },
+  "tech_type": {
+    "message": "Tecnologia"
+  },
+  "experience_without_login": {
+    "message": "Prova"
+  },
+  "relogin_des": {
+    "message": "L'account non è valido, effettua il login di nuovo"
+  },
+  "relogin_out": {
+    "message": "Esci"
+  },
+  "sync_check_data": {
+    "message": "Selezione dei dati dell'account"
+  },
+  "sync_use_merge": {
+    "message": "Unisci dati locali e cloud"
+  },
+  "sync_login_tips": {
+    "message": "Ti consigliamo di accedere prima al tuo account_#_to ottenere i dati dell'account e sincronizzarli con altri dispositivi"
+  },
+  "please_input_url": {
+    "message": "Si prega di inserire URL"
+  },
+  "please_input_url_search": {
+    "message": "Si prega di inserire l'URL (usa%s invece di termini di ricerca)"
+  },
+  "please_input_name": {
+    "message": "Inserisci un nome"
+  },
+  "online_icon_tab": {
+    "message": "Icona online"
+  },
+  "local_upload": {
+    "message": "Carica"
+  },
+  "url_error_tips1": {
+    "message": "L'URL deve contenere i personaggi%s"
+  },
+  "url_errror_tips_2": {
+    "message": "Per favore inserisci l'URL"
+  },
+  "please_select_icon": {
+    "message": "Si prega di selezionare l'icona"
+  },
+  "text_icon_des": {
+    "message": "Testo dell'icona, 1-2 caratteri consigliati"
+  },
+  "rollback_cropper": {
+    "message": "Ripristina"
+  },
+  "custom_add_icon": {
+    "message": "Aggiunta personalizzata"
+  },
+  "fetching_icon": {
+    "message": "Ottenere..."
+  },
+  "add_success": {
+    "message": "Aggiunto correttamente!"
+  },
+  "all_store": {
+    "message": "Tutti i preferiti"
+  },
+  "search_manage": {
+    "message": "Gestione dei motori di ricerca"
+  },
+  "account_or_password_error": {
+    "message": "Errore account o password"
+  },
+  "tologin": {
+    "message": "Accedi ora per provare ancora più funzionalità"
+  },
+  "rigester_account": {
+    "message": "Registra account"
+  },
+  "other_login_type": {
+    "message": "Altri modi Login"
+  },
+  "please_input_and_continue": {
+    "message": "Inserisci e completa la convalida prima di continuare"
+  },
+  "register_infinity": {
+    "message": "Registrati Infinity"
+  },
+  "password_less": {
+    "message": "Inserisci una password con più di 6 caratteri"
+  },
+  "password_different": {
+    "message": "Le password non corrispondono"
+  },
+  "please_set_password": {
+    "message": "Si prega di impostare una password"
+  },
+  "last_step": {
+    "message": "Passaggio precedente"
+  },
+  "reset_password_des": {
+    "message": "Ripristina la tua nuova password"
+  },
+  "setting_done": {
+    "message": "Impostazioni"
+  },
+  "feed_back": {
+    "message": "Feedback"
+  },
+  "wallpaper_center": {
+    "message": "Centro di carta da parati"
+  },
+  "share_to_friends": {
+    "message": "Quota"
+  },
+  "official_community": {
+    "message": "Comunità ufficiale"
+  },
+  "weixin_public_account": {
+    "message": "WeChat"
+  },
+  "enjoy_right_now": {
+    "message": "Goditi più eccitazione subito"
+  },
+  "shared_to": {
+    "message": "Condividi su:"
+  },
+  "whether_to_reset_all_setting": {
+    "message": "Resettare tutte le impostazioni?"
+  },
+  "newtab_open": {
+    "message": "Apri il sito Web in nuova scheda"
+  },
+  "newtab_open_search": {
+    "message": "Mostra il risultato della ricerca sulla nuova scheda"
+  },
+  "icon_shape": {
+    "message": "Forma icone"
+  },
+  "history_backup": {
+    "message": "Cronologia backup"
+  },
+  "modify_nickname": {
+    "message": "Modifica nickname"
+  },
+  "modify_password_success": {
+    "message": "Password cambiata con successo"
+  },
+  "please_input_origin_password": {
+    "message": "Si prega di inserire il passcode originale"
+  },
+  "please_input_new_password": {
+    "message": "Immetti una nuova password"
+  },
+  "please_input_new_password_2": {
+    "message": "Inserisci nuovamente la password"
+  },
+  "modify_info": {
+    "message": "Modifica profilo"
+  },
+  "nickname": {
+    "message": "Nickname"
+  },
+  "delete_account": {
+    "message": "Elimina account"
+  },
+  "logout_account": {
+    "message": "Esci"
+  },
+  "setting_fail": {
+    "message": "Configurazione non riuscita"
+  },
+  "store_success": {
+    "message": "Aggiunto ai Preferiti"
+  },
+  "cancel_store_success": {
+    "message": "Rimosso"
+  },
+  "mask": {
+    "message": "Maschera"
+  },
+  "collection": {
+    "message": "Colleziona"
+  },
+  "the_end": {
+    "message": "Nessun altro elemento"
+  },
+  "icon_no_pic": {
+    "message": "Nessuna icona correlata è stata ancora abbinata~"
+  },
+  "search_from": {
+    "message": "Ho cercato da: "
+  },
+  "edge_app_store": {
+    "message": "Edge add-on"
+  },
+  "firefox_app_store": {
+    "message": "Firefox Add-on Store"
+  },
+  "version_does_not_support_this_feature": {
+    "message": "La versione corrente non supporta questa funzione!"
+  },
+  "open_failed": {
+    "message": "Impossibile aprire"
+  },
+  "default": {
+    "message": "Predefinito"
+  },
+  "custom": {
+    "message": "Personalizza"
+  },
+  "attach": {
+    "message": "Allega"
+  },
+  "custom_search_engine": {
+    "message": "Motore di ricerca personalizzato"
+  },
+  "attch_search_engine": {
+    "message": "Motore di ricerca allegato"
+  },
+  "edit_custom_search_engine": {
+    "message": "Modifica motore di ricerca personalizzato"
+  },
+  "email": {
+    "message": "E-mail"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "new_password": {
+    "message": "Inserisci la nuova password"
+  },
+  "confirm_password": {
+    "message": "Conferma nuova password"
+  },
+  "chrome": {
+    "message": "Chrome"
+  },
+  "edge": {
+    "message": "Microsoft Edge"
+  },
+  "firefox": {
+    "message": "Firefox"
+  },
+  "not_support_title": {
+    "message": "Visualizzazione dell'errore sulla pagina"
+  },
+  "not_support_text": {
+    "message": "Per godere di un'esperienza utente migliore con Infinity_#_si consiglia di aggiornare il browser all'ultima versione. Utilizzando un broment compatibile con Infinity è anche ricommentato"
+  },
+  "failure": {
+    "message": "non riuscito"
+  },
+  "qq_group": {
+    "message": "Nuova scheda Page 2 Gruppo"
+  },
+  "fb_group": {
+    "message": "Unisciti al gruppo Facebook e chatta con tutti!"
+  },
+  "switch_failed": {
+    "message": "Cambiamento non riuscito"
+  },
+  "nature": {
+    "message": "Natura"
+  },
+  "ocean": {
+    "message": "Oceano"
+  },
+  "architecture": {
+    "message": "Architettura"
+  },
+  "animals": {
+    "message": "Animali"
+  },
+  "travel": {
+    "message": "Viaggi"
+  },
+  "food_drink": {
+    "message": "Alimenti"
+  },
+  "anime": {
+    "message": "Fumetti"
+  },
+  "athletics": {
+    "message": "Sport"
+  },
+  "technology": {
+    "message": "Tecnologia"
+  },
+  "street_photography": {
+    "message": "Strada"
+  },
+  "experience_mode_tips": {
+    "message": "Nella modalità esperienza, i dati che generati non saranno sincronizzati con altri dispositivi e potrebbero essere persi"
+  },
+  "qq_group_dialog_tips": {
+    "message": "Copia il numero di gruppo e continua"
+  },
+  "fb_group_dialog_tips": {
+    "message": "Copia link e continua"
+  },
+  "delete_account_dialog_tips": {
+    "message": "Dopo aver eliminato l'account, tutti i dispositivi in ​​base a questo account saranno rimossi (note e immagini nella libreria di carta da parati personalizzata potrebbe diventare inutilizzabile)"
+  },
+  "verity_code": {
+    "message": "Invia codice di verifica"
+  },
+  "edit": {
+    "message": "Modifica"
+  },
+  "no_collect_wallpaper_tips": {
+    "message": "Non hai ancora raccolto nessuna carta da parati"
+  },
+  "no_custom_search_engine_tips": {
+    "message": "Il motore di ricerca personalizzato non è stato ancora aggiunto"
+  },
+  "no_attach_search_engine_tips": {
+    "message": "Nessun motore di ricerca aggiuntivo è stato ancora aggiunto"
+  },
+  "login_failure": {
+    "message": "Accesso non riuscito"
+  },
+  "choose_user": {
+    "message": "Scegli account"
+  },
+  "upload_failure": {
+    "message": "Caricamento non riuscito"
+  },
+  "uploading": {
+    "message": "Caricamento in corso"
+  },
+  "cancel_upload": {
+    "message": "Annulla caricamento"
+  },
+  "loading": {
+    "message": "Caricamento"
+  },
+  "load_failure": {
+    "message": "Caricamento fallito"
+  },
+  "wallpaper_upload_file_size_exceed": {
+    "message": "Carica file non riuscito. Motivo: la dimensione supera il limite"
+  },
+  "icon_network_error": {
+    "message": "Eccezione di rete, fare clic per ricaricare"
+  },
+  "discover": {
+    "message": "Scopri"
+  },
+  "backup_failed": {
+    "message": "Backup non riuscito"
+  },
+  "download_failure": {
+    "message": "Download non riuscito"
+  },
+  "search": {
+    "message": "Cerca"
+  },
+  "current_wallpaper": {
+    "message": "Corrente"
+  },
+  "cancel_collect": {
+    "message": "Rimuovi dai Preferiti"
+  },
+  "qq_login_not_supported": {
+    "message": "QQ Login non è supportato in modalità Desktop"
+  },
+  "search_engine_error": {
+    "message": "Inserire il nome del motore di ricerca"
+  },
+  "cannot_change_profile": {
+    "message": "Gli utenti di terze parti che accedono non possono modificare le informazioni del profilo"
+  },
+  "password_not_some": {
+    "message": "Le password immesse non corrispondono"
+  },
+  "no_permission": {
+    "message": "Nessuna autorizzazione"
+  },
+  "qrcode_success": {
+    "message": "Scansione riuscita"
+  },
+  "qrcode_failed": {
+    "message": "Scansione non riuscita"
+  },
+  "camera_not_found": {
+    "message": "Impossibile trovare la fotocamera"
+  },
+  "qrcode_login": {
+    "message": "Scansione del codice QR per accedere"
+  },
+  "phone_number": {
+    "message": "Numero di telefono"
+  },
+  "password_login": {
+    "message": "Accedi tramite password"
+  },
+  "phone_login": {
+    "message": "Accesso mobile"
+  },
+  "enter_valid_phone_tips": {
+    "message": "Si prega di inserire il numero di telefono corretto"
+  },
+  "enter_valid_email_tips": {
+    "message": "Inserire l'indirizzo e-mail corretto"
+  },
+  "third_party": {
+    "message": "Conti di terze parti"
+  },
+  "add_todo": {
+    "message": "Aggiungi To-Do"
+  },
+  "todo_content": {
+    "message": "Attività da eseguire"
+  },
+  "todo_dont_empty": {
+    "message": "A-dos non può essere vuoto"
+  },
+  "no_reminders": {
+    "message": "Nessuna cosa da fare"
+  },
+  "clear_done_todo": {
+    "message": "Elimina completati"
+  },
+  "todo_tip_time": {
+    "message": "Ora promemoria"
+  },
+  "confirm_delete_done_todos": {
+    "message": "Sei sicuro di voler eliminare gli articoli completati?"
+  },
+  "add_note": {
+    "message": "Aggiungi una nota"
+  },
+  "add_first_note": {
+    "message": "Scrivi la tua prima nota"
+  },
+  "set_top": {
+    "message": "In alto"
+  },
+  "cancel_set_top": {
+    "message": "Rimuovi da primo piano"
+  },
+  "note_title": {
+    "message": "Digita il titolo"
+  },
+  "limit_input_length": {
+    "message": "Lunghezza del testo oltre il limite"
+  },
+  "no_title": {
+    "message": "Senza titolo"
+  },
+  "add_link": {
+    "message": "Aggiungi un link"
+  },
+  "please_input_right_link": {
+    "message": "Per favore, inserisci un URL valido"
+  },
+  "note_upload_img_15": {
+    "message": "Questa dimensione dell'immagine non può superare 15M"
+  },
+  "confirm_delete_note": {
+    "message": "Conferma notifica eliminazione?"
+  },
+  "no_permission_title": {
+    "message": "Questa autorizzazione non è stata concessa"
+  },
+  "no_permission_text": {
+    "message": "Si consiglia di provare ad andare alla barra degli indirizzi del browser o nella settings Center per aprire e concedere questa autorizzazione."
+  },
+  "have_todo_item": {
+    "message": "Attualmente hai un compito da fare"
+  },
+  "bind": {
+    "message": "Associa"
+  },
+  "unbind": {
+    "message": "Elimina"
+  },
+  "unbind_2": {
+    "message": "Dissocia"
+  },
+  "unbind_success": {
+    "message": "Eliminazione completata"
+  },
+  "phone_bind": {
+    "message": "Associa telefono"
+  },
+  "phone_unbind": {
+    "message": "Disaccoppiare il numero di telefono"
+  },
+  "email_unbind": {
+    "message": "Separazione della email"
+  },
+  "phone_unbind_tips": {
+    "message": "Sei sicuro di voler annullare l'associazione del tuo numero di telefono $phone_number$?",
+    "placeholders": {
+      "phone_number": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirm_unbind_email": {
+    "message": "Sei sicuro di voler annullare la tua email $email$?",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "email_bind": {
+    "message": "Collega Email"
+  },
+  "verification_code": {
+    "message": "Codice di verifica"
+  },
+  "bind_success": {
+    "message": "Associazione riuscita"
+  },
+  "unbind_email_title": {
+    "message": "Scollegare l'indirizzo di posta elettronica"
+  },
+  "unbind_tips": {
+    "message": "Per la sicurezza del tuo account, inserisci una password dell'account"
+  },
+  "enter_password_tips": {
+    "message": "Inserisci passphrase"
+  },
+  "enter_verification_code_tips": {
+    "message": "Inserisci il codice di verifica"
+  },
+  "email_or_phone_number_tips": {
+    "message": "Email o numero di cellulare"
+  },
+  "email_format_error": {
+    "message": "Il formato e-mail non è corretto"
+  },
+  "input_note_content": {
+    "message": "Inserisci le note qui..."
+  },
+  "confirm_unbind": {
+    "message": "Confermerai lo sblocco?"
+  },
+  "popup_title": {
+    "message": "Aggiungi a Infinity Collection"
+  },
+  "icon_name": {
+    "message": "Nome Icona"
+  },
+  "add_icon_success": {
+    "message": "aggiunto con successo"
+  },
+  "no_more_reminder": {
+    "message": "Non mostrare più"
+  },
+  "username_cannot_empty": {
+    "message": "Il nome utente non può essere vuoto"
+  },
+  "change_phone": {
+    "message": "Modifica il numero di telefono"
+  },
+  "safety_verification": {
+    "message": "Convalida di sicurezza"
+  },
+  "safety_verification_tips": {
+    "message": "Si prega di inserire il codice di verifica dell'immagine"
+  },
+  "click_img_to_refresh": {
+    "message": "Clicca sull'immagine per aggiornare"
+  },
+  "modify_email": {
+    "message": "Modifica indirizzo e-mail"
+  },
+  "search_placeholder": {
+    "message": "Cerca sul web..."
+  },
+  "your_shortcuts": {
+    "message": "I tuoi siti preferiti"
+  },
+  "wallpaper_title": {
+    "message": "Sfondo"
+  },
+  "no_wallpaper": {
+    "message": "Nessuno sfondo"
+  },
+  "upload_wallpaper": {
+    "message": "Carica sfondo"
+  },
+  "mask_opacity": {
+    "message": "Opacità maschera"
+  },
+  "wallpaper_blur": {
+    "message": "Sfocatura"
+  },
+  "settings_title": {
+    "message": "Impostazioni"
+  },
+  "settings_appearance": {
+    "message": "Aspetto"
+  },
+  "settings_wallpaper": {
+    "message": "Sfondo"
+  },
+  "settings_search_radius": {
+    "message": "Angoli barra di ricerca"
+  },
+  "settings_icon_radius": {
+    "message": "Angoli icone"
+  },
+  "settings_widgets": {
+    "message": "Widget"
+  },
+  "settings_show_search": {
+    "message": "Mostra barra di ricerca"
+  },
+  "settings_show_clock": {
+    "message": "Mostra orologio"
+  },
+  "settings_show_sites": {
+    "message": "Mostra preferiti"
+  },
+  "settings_account": {
+    "message": "Account"
+  },
+  "settings_login": {
+    "message": "Accedi"
+  },
+  "settings_sync": {
+    "message": "Sincronizzazione"
+  },
+  "settings_other": {
+    "message": "Altro"
+  },
+  "settings_language": {
+    "message": "Lingua"
+  },
+  "settings_about": {
+    "message": "Informazioni"
+  },
+  "settings_third_party": {
+    "message": "Licenze di terze parti"
+  },
+  "settings_user_title": {
+    "message": "Profilo"
+  },
+  "sync_title": {
+    "message": "Sincronizzazione"
+  },
+  "sync_last_synced": {
+    "message": "Ultima sincronizzazione"
+  },
+  "sync_status": {
+    "message": "Stato"
+  },
+  "sync_push": {
+    "message": "Carica nel cloud"
+  },
+  "sync_pull": {
+    "message": "Scarica dal cloud"
+  },
+  "sync_pending_restore_notice": {
+    "message": "Dati cloud in attesa. Applicare o scartare?"
+  },
+  "sync_apply_restore": {
+    "message": "Applica dati cloud"
+  },
+  "sync_discard_restore": {
+    "message": "Scarta"
+  },
+  "sync_push_success": {
+    "message": "Dati caricati nel cloud"
+  },
+  "sync_push_failed": {
+    "message": "Caricamento fallito"
+  },
+  "sync_pull_success": {
+    "message": "Dati scaricati dal cloud"
+  },
+  "sync_pull_failed": {
+    "message": "Download fallito"
+  },
+  "sync_restore_applied": {
+    "message": "Dati cloud applicati"
+  },
+  "never": {
+    "message": "Mai"
+  },
+  "login_title": {
+    "message": "Accedi"
+  },
+  "login_account": {
+    "message": "Account"
+  },
+  "login_account_placeholder": {
+    "message": "Email o numero di telefono"
+  },
+  "login_password": {
+    "message": "Password"
+  },
+  "login_password_placeholder": {
+    "message": "Inserisci la password"
+  },
+  "login_submit": {
+    "message": "Accedi"
+  },
+  "login_forgot_password": {
+    "message": "Password dimenticata?"
+  },
+  "register_title": {
+    "message": "Crea account"
+  },
+  "register_username": {
+    "message": "Nome utente"
+  },
+  "register_username_placeholder": {
+    "message": "Inserisci il nome utente"
+  },
+  "register_account": {
+    "message": "Email / Telefono"
+  },
+  "register_account_placeholder": {
+    "message": "Email o numero di telefono"
+  },
+  "register_password": {
+    "message": "Password"
+  },
+  "register_password_placeholder": {
+    "message": "Inserisci la password"
+  },
+  "register_code": {
+    "message": "Codice di verifica"
+  },
+  "register_code_placeholder": {
+    "message": "Inserisci il codice di verifica"
+  },
+  "register_submit": {
+    "message": "Registrati"
+  },
+  "reset_password_title": {
+    "message": "Reimposta password"
+  },
+  "reset_account": {
+    "message": "Email / Telefono"
+  },
+  "reset_account_placeholder": {
+    "message": "Email o numero di telefono"
+  },
+  "reset_code": {
+    "message": "Codice di verifica"
+  },
+  "reset_code_placeholder": {
+    "message": "Inserisci il codice di verifica"
+  },
+  "reset_new_password": {
+    "message": "Nuova password"
+  },
+  "reset_new_password_placeholder": {
+    "message": "Inserisci la nuova password"
+  },
+  "reset_submit": {
+    "message": "Invia"
+  },
+  "reset_failed": {
+    "message": "Reimpostazione fallita"
+  },
+  "reset_success": {
+    "message": "Password reimpostata con successo"
+  },
+  "change_email_title": {
+    "message": "Cambia email"
+  },
+  "change_email_new": {
+    "message": "Nuova email"
+  },
+  "change_email_placeholder": {
+    "message": "Inserisci la nuova email"
+  },
+  "change_email_code": {
+    "message": "Codice di verifica"
+  },
+  "change_phone_title": {
+    "message": "Cambia telefono"
+  },
+  "change_phone_new": {
+    "message": "Nuovo numero"
+  },
+  "change_phone_placeholder": {
+    "message": "Inserisci il numero di telefono"
+  },
+  "change_phone_code": {
+    "message": "Codice di verifica"
+  },
+  "change_submit": {
+    "message": "Invia"
+  },
+  "change_success": {
+    "message": "Modifica riuscita"
+  },
+  "change_failed": {
+    "message": "Modifica fallita"
+  },
+  "change_code_placeholder": {
+    "message": "Inserisci il codice di verifica"
+  },
+  "change": {
+    "message": "Modifica"
+  },
+  "send_code": {
+    "message": "Invia codice"
+  },
+  "send_code_failed": {
+    "message": "Invio codice fallito"
+  },
+  "code_sent": {
+    "message": "Codice inviato"
+  },
+  "set_password_title": {
+    "message": "Cambia password"
+  },
+  "set_password_old": {
+    "message": "Password attuale"
+  },
+  "set_password_old_placeholder": {
+    "message": "Inserisci la password attuale"
+  },
+  "set_password_new": {
+    "message": "Nuova password"
+  },
+  "set_password_new_placeholder": {
+    "message": "Inserisci la nuova password"
+  },
+  "set_password_confirm": {
+    "message": "Conferma password"
+  },
+  "set_password_confirm_placeholder": {
+    "message": "Reinserisci la nuova password"
+  },
+  "set_password_submit": {
+    "message": "Invia"
+  },
+  "set_password_success": {
+    "message": "Password modificata"
+  },
+  "set_password_failed": {
+    "message": "Modifica password fallita"
+  },
+  "not_support_desc": {
+    "message": "Aggiorna il browser all'ultima versione."
+  },
+  "not_support_download_chrome": {
+    "message": "Scarica Chrome"
+  },
+  "not_support_download_firefox": {
+    "message": "Scarica Firefox"
+  },
+  "about_title": {
+    "message": "Informazioni"
+  },
+  "about_website": {
+    "message": "Sito ufficiale"
+  },
+  "about_feedback": {
+    "message": "Feedback"
+  },
+  "about_rate": {
+    "message": "Valutaci"
+  },
+  "about_follow_wechat": {
+    "message": "Seguici su WeChat"
+  },
+  "about_privacy": {
+    "message": "Informativa sulla privacy"
+  },
+  "language_title": {
+    "message": "Lingua"
+  },
+  "language_changed": {
+    "message": "Lingua aggiornata"
+  },
+  "third_party_title": {
+    "message": "Licenze di terze parti"
+  },
+  "popup_open_newtab": {
+    "message": "Apri nuova scheda"
+  },
+  "popup_open_settings": {
+    "message": "Impostazioni"
+  },
+  "popup_footer": {
+    "message": "Infinity Nuova Scheda"
+  },
+  "account_required": {
+    "message": "Inserisci il tuo account"
+  },
+  "field_required": {
+    "message": "Questo campo è obbligatorio"
+  },
+  "email_invalid": {
+    "message": "Indirizzo email non valido"
+  },
+  "password_mismatch": {
+    "message": "Le password non corrispondono"
+  },
+  "password_too_short": {
+    "message": "La password deve essere di almeno 6 caratteri"
+  },
+  "user_email": {
+    "message": "Email"
+  },
+  "user_phone": {
+    "message": "Telefono"
+  },
+  "user_password": {
+    "message": "Password"
+  },
+  "logout": {
+    "message": "Esci"
+  },
+  "logout_confirm": {
+    "message": "Sei sicuro di voler uscire?"
+  },
+  "not_set": {
+    "message": "Non impostato"
+  }
+}

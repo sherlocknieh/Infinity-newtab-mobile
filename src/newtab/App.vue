@@ -37,6 +37,7 @@ import { useWallpaperStore } from '@/stores/wallpaper'
 import { useSettingsStore } from '@/stores/settings'
 import { useUserStore } from '@/stores/user'
 import { useSyncStore } from '@/stores/sync'
+import { useSitesStore } from '@/stores/sites'
 import { isSupportedChrome, isChrome } from '@/utils/platform'
 
 const router = useRouter()
@@ -44,6 +45,7 @@ const wallpaperStore = useWallpaperStore()
 const settingsStore = useSettingsStore()
 const userStore = useUserStore()
 const syncStore = useSyncStore()
+const sitesStore = useSitesStore()
 
 // Apply CSS custom properties for user-defined border radii.
 const backgroundStyle = computed(() => ({
@@ -64,6 +66,7 @@ onMounted(async () => {
     settingsStore.load(),
     userStore.load(),
     syncStore.load(),
+    sitesStore.load(),
   ])
 
   // If the user is logged in, refresh their profile in the background.

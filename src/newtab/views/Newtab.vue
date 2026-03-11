@@ -25,19 +25,7 @@
       v-if="settingsStore.settings.showSearch"
       class="px-4 pb-4"
     >
-      <!-- TODO: replace with the SearchBar component -->
-      <div
-        class="flex items-center bg-white bg-opacity-80 h-12 px-4"
-        :style="{ borderRadius: `${settingsStore.settings.searchRadius}px` }"
-      >
-        <span class="iconfont text-gray-400 mr-2">🔍</span>
-        <input
-          v-model="searchQuery"
-          class="flex-1 bg-transparent outline-none text-gray-700"
-          :placeholder="t('search_placeholder')"
-          @keydown.enter="handleSearch"
-        />
-      </div>
+      <SearchBar />
     </section>
 
     <!-- Site shortcuts grid -->
@@ -45,8 +33,7 @@
       v-if="settingsStore.settings.showSites"
       class="px-4 pb-safe"
     >
-      <!-- TODO: replace with the SiteGrid component -->
-      <p class="text-white text-center text-sm opacity-60">{{ t('your_shortcuts') }}</p>
+      <SiteGrid />
     </section>
 
     <!-- FAB – opens settings -->
@@ -63,13 +50,13 @@
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useSettingsStore } from '@/stores/settings'
-import { t } from '@/utils/i18n'
 import { RouteType } from '@/constants'
+import SearchBar from '@/newtab/components/SearchBar.vue'
+import SiteGrid from '@/newtab/components/SiteGrid.vue'
 
 const router = useRouter()
 const settingsStore = useSettingsStore()
 
-const searchQuery = ref('')
 const now = ref(new Date())
 let clockTimer: ReturnType<typeof setInterval>
 
@@ -91,21 +78,6 @@ const formattedDate = computed(() =>
     day: 'numeric',
   }),
 )
-
-// --- Search ---
-function handleSearch() {
-  if (!searchQuery.value.trim()) return
-
-  const engines: Record<string, string> = {
-    google: 'https://www.google.com/search?q=',
-    baidu: 'https://www.baidu.com/s?wd=',
-    bing: 'https://www.bing.com/search?q=',
-    duckduckgo: 'https://duckduckgo.com/?q=',
-  }
-
-  const base = engines[settingsStore.settings.searchEngine] ?? engines.google
-  window.location.href = base + encodeURIComponent(searchQuery.value)
-}
 
 function goToSettings() {
   router.push({ name: RouteType.SETTINGS })
