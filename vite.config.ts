@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import WindiCSS from 'vite-plugin-windicss'
 import { crx } from '@crxjs/vite-plugin'
 import { resolve } from 'path'
-import manifest from './manifest.json'
+import manifest from './public/manifest.json'
 
 /**
  * Vite config for the Infinity New Tab Chrome extension, managed by CRXJS.
@@ -35,5 +35,7 @@ export default defineConfig({
 
   server: {
     port: 3000,
+    strictPort: true,
+    cors: true,
   },
 })
