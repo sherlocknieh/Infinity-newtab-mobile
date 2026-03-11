@@ -1,0 +1,29 @@
+{
+  "name": "infinity-newtab-mobile",
+  "version": "3.0.17",
+  "description": "Infinity New Tab for Mobile – Chrome Extension",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^7.0.0",
+    "idb": "^7.0.0",
+    "pinia": "^2.0.0",
+    "vant": "^3.4.0",
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.174",
+    "@types/node": "^17.0.0",
+    "@vitejs/plugin-vue": "^2.2.0",
+    "typescript": "^4.5.0",
+    "vite": "^2.8.0",
+    "vite-plugin-windicss": "^1.7.0",
+    "windicss": "^3.5.0",
+    "workbox-build": "^6.2.4"
+  }
+}
