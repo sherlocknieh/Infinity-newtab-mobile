@@ -1,1 +1,1307 @@
-{"web_name":{"message":"Infinity 主頁"},"extension_name":{"message":"Infinity 新分頁移動版"},"extension_short_name":{"message":"Infinity"},"name":{"message":"Infinity 新分頁"},"extension_des":{"message":"自定義你的新分頁，現已適配移動端瀏覽器，包括Kiwi瀏覽器，狐猴瀏覽器等"},"extension_edge_des":{"message":"自定義你的新分頁，現已適配移動端瀏覽器"},"add_to_infinity":{"message":"添加Infinity新分頁"},"network_error":{"message":"網路錯誤"},"no_description":{"message":"沒有描述"},"done":{"message":"完成"},"cancel":{"message":"取消"},"confirm":{"message":"確定"},"folder":{"message":"資料夾"},"add":{"message":"新增"},"wallpaper":{"message":"桌布"},"ambiguity":{"message":"模糊"},"five_star":{"message":"五星好評"},"follow_us":{"message":"關注我們"},"about":{"message":"關於"},"about_us":{"message":"關於我們"},"contact_us":{"message":"聯絡我們"},"privacy_policy":{"message":"隱私政策"},"term_of_use":{"message":"使用條款"},"login":{"message":"登入"},"forget_password":{"message":"忘記密碼"},"modify_password":{"message":"修改密碼"},"welcome_infinity":{"message":"歡迎使用Infinity"},"next":{"message":"繼續"},"login_register":{"message":"登入 | 入會"},"backup_now":{"message":"立即備份"},"manage_backup_node":{"message":"管理歷史備份節點"},"backup_with_device":{"message":"與其他設備保持同步"},"ensure_logout":{"message":"確認退出帳號？"},"logout_tips":{"message":"在您退出帳號前是否需要清除本地數據，以防止此設備不同帳號數據串聯"},"logout_clear_something":{"message":"清除此設備上的個性化設定等資訊"},"manul_backup":{"message":"手動備份"},"recover_this":{"message":"從此節點恢復"},"scheduled_backup":{"message":"定時備份"},"current_node":{"message":"當前節點"},"mini_mode":{"message":"極簡主義模式"},"hide_search_input":{"message":"隱藏搜尋框"},"icon":{"message":"圖示"},"search_input":{"message":"搜尋框"},"set_setting_default":{"message":"恢復默認設置"},"search_website":{"message":"搜尋網站"},"share_by_user":{"message":"用戶分享"},"application":{"message":"應用程式"},"news":{"message":"新聞"},"photos":{"message":"圖片"},"finance":{"message":"金融"},"read":{"message":"閱讀"},"others":{"message":"其他"},"account_format_error":{"message":"账號格式不正確"},"password_dont_empty":{"message":"密碼不可為空"},"reset_password_tips":{"message":"通過郵箱或手機號碼驗證重新設定您的密碼"},"email_code":{"message":"郵箱驗證碼"},"baidu":{"message":"百度"},"most_used_in_chinese":{"message":"中國人用的最多的搜尋引擎"},"html":{"message":"網站"},"videos":{"message":"影片"},"map":{"message":"地圖"},"google":{"message":"Google"},"google_desc":{"message":"Google搜索是由Google公司推出的一個互聯網搜索引擎，它是互聯網上最大、影響最廣泛的搜索引擎"},"bing":{"message":"Bing"},"bing_desc":{"message":"必應是一款由微軟公司推出的網絡搜尋引擎"},"yahoo":{"message":"雅虎"},"yahoo_desc":{"message":"雅虎搜索是一個由Yahoo！運營的互聯網搜尋引擎"},"yandex_desc":{"message":"Yandex是俄羅斯重要網路服務門戶之一"},"yandex":{"message":"Yandex"},"duckduckgo":{"message":"DuckDuckGo"},"duckduckgo_desc":{"message":"DuckDuckGo強調在傳統搜尋引擎的基礎上引入各大Web 2.0網站的內容。其辦站哲學主張維護使用者的隱私權，並承諾不監控、不記錄使用者的搜尋內容。"},"n_360":{"message":"360搜索"},"360_desc":{"message":"安全搜索引擎"},"sougou":{"message":"搜狗"},"sougou_desc":{"message":"能搜微信公眾號內容的搜尋引擎"},"yarndex_ru":{"message":"YandexRU"},"chrome_app_store":{"message":"Chrome 線上應用程式商店"},"exfans":{"message":"擴展迷"},"tian_mao":{"message":"天猫精選"},"jindong_shopping":{"message":"京東商城"},"xie_cheng":{"message":"攜程網"},"i_taobao":{"message":"愛淘寶"},"no_data":{"message":"尚無數據"},"edit_icon":{"message":"編輯圖示"},"confirm_cover_remote":{"message":"本地數據將保存至手動備份節點"},"del_folder":{"message":"刪除"},"reset_password":{"message":"重置密碼"},"wallpaper_library":{"message":"桌布集"},"notes":{"message":"筆記"},"weather":{"message":"天氣"},"history":{"message":"歷史記錄"},"bookmarks":{"message":"書籤"},"settings":{"message":"設定"},"extension":{"message":"擴展管理"},"todos":{"message":"待辦事項"},"infinity_wallpaper":{"message":"Infinity壁紙庫，為您提供豐富、精彩的桌面"},"infinity_extension":{"message":"Infinity擴展管理，簡單明瞭的管理您的$browser$擴展和App","placeholders":{"browser":{"content":"$1"}}},"infinity_weather":{"message":"Infinity天氣，為您提供全球都市的天氣預報"},"infinity_history":{"message":"Infinity歷史記錄，快速查看和管理您瀏覽器的歷史記錄"},"infinity_bookmarks":{"message":"Infinity書簽，扁平化您的書簽資料夾層級，更方便的查找書簽"},"infinity_settings":{"message":"Infinity設定，對您的Infinity新標籤頁進行個性化設定"},"infinity_notes":{"message":"Infinity筆記，快速記錄您的生活靈感"},"infinity_todos":{"message":"Infinity待辦事項，將您的任務安排的井然有序，提高您的工作效率"},"reqeust_login_message":{"message":"此功能需要登入之後使用"},"send_success":{"message":"已發送，請查收"},"hint":{"message":"提示"},"request_logout_confirm":{"message":"確認删除帳號？"},"edit_avatar":{"message":"編輯大頭貼"},"upload_avatar_failure":{"message":"頭像上傳失敗"},"qq_zone":{"message":"QQ空間"},"douban":{"message":"豆瓣"},"xin_lang_weibo":{"message":"微博"},"confirm_recovery_data":{"message":"雲端資料將覆蓋本地數據，確定嗎？"},"use_local":{"message":"使用本地數據"},"use_cloud":{"message":"使用雲端數據"},"revovery_data":{"message":"恢復數據"},"color_icon":{"message":"純色圖標"},"language":{"message":"語言"},"icon_all":{"message":"全部"},"most_popular":{"message":"最受歡迎"},"video_type":{"message":"影音"},"shopping_type":{"message":"購物"},"social_type":{"message":"社交通訊"},"travel_type":{"message":"出行"},"life_type":{"message":"生活"},"game_type":{"message":"遊戲"},"education_type":{"message":"教育"},"tech_type":{"message":"科技"},"experience_without_login":{"message":"體驗"},"relogin_des":{"message":"您的帳號登入已失效，為確保帳號安全請您重新登入"},"relogin_out":{"message":"登出"},"sync_check_data":{"message":"帳號數據選擇"},"sync_use_merge":{"message":"合併本地與雲端數據"},"sync_login_tips":{"message":"建議您先登入帳號_#_ 以獲取帳號數據與其他設備同步"},"please_input_url":{"message":"請輸入網址"},"please_input_url_search":{"message":"請輸入網址（用%s 代替搜尋字詞）"},"please_input_name":{"message":"請輸入一個名稱"},"online_icon_tab":{"message":"線上圖標"},"local_upload":{"message":"上傳本機"},"url_error_tips1":{"message":"url必須包含%s字元"},"url_errror_tips_2":{"message":"請輸入鏈接地址"},"please_select_icon":{"message":"請選取圖示"},"text_icon_des":{"message":"圖標文字，建議1-2個字元"},"rollback_cropper":{"message":"還原"},"custom_add_icon":{"message":"自訂新增"},"fetching_icon":{"message":"獲取中..."},"add_success":{"message":"新增成功！"},"all_store":{"message":"所有最愛"},"search_manage":{"message":"搜尋引擎管理"},"account_or_password_error":{"message":"帳號或密碼錯誤"},"tologin":{"message":"現在登入，體驗更多功能"},"rigester_account":{"message":"註冊帳號"},"other_login_type":{"message":"其他登陸"},"please_input_and_continue":{"message":"請輸入完成驗證後繼續"},"register_infinity":{"message":"註冊Infinity"},"password_less":{"message":"密碼不能低於6位"},"password_different":{"message":"密碼不一致"},"please_set_password":{"message":"請設定密碼"},"last_step":{"message":"上一步"},"reset_password_des":{"message":"重新設定您的新密碼"},"setting_done":{"message":"設定"},"feed_back":{"message":"回饋"},"wallpaper_center":{"message":"壁紙中心"},"share_to_friends":{"message":"分享給好友"},"official_community":{"message":"官方社群"},"weixin_public_account":{"message":"微信公眾號"},"enjoy_right_now":{"message":"即刻享受更多精彩"},"shared_to":{"message":"分享至"},"whether_to_reset_all_setting":{"message":"是否重置所有設定？"},"newtab_open":{"message":"新分頁打開網站"},"newtab_open_search":{"message":"在新分頁中開啟搜尋結果"},"icon_shape":{"message":"變更圖示形狀"},"history_backup":{"message":"歷史備份"},"modify_nickname":{"message":"編輯暱稱"},"modify_password_success":{"message":"修改密碼成功"},"please_input_origin_password":{"message":"請輸入原密碼"},"please_input_new_password":{"message":"請輸入新密碼"},"please_input_new_password_2":{"message":"再次輸入新密碼"},"modify_info":{"message":"編輯個人資料"},"nickname":{"message":"暱稱"},"delete_account":{"message":"刪除帳號"},"logout_account":{"message":"退出帳號"},"setting_fail":{"message":"設定失敗"},"store_success":{"message":"收藏成功"},"cancel_store_success":{"message":"取消最愛項成功"},"mask":{"message":"遮罩"},"collection":{"message":"收藏"},"the_end":{"message":"到底了"},"icon_no_pic":{"message":"暫未匹配到相關圖標~"},"search_from":{"message":"搜尋自："},"edge_app_store":{"message":"Edge外接程式"},"firefox_app_store":{"message":"Firefox附加組件"},"version_does_not_support_this_feature":{"message":"The current version doesn't support this function!"},"open_failed":{"message":"打开失败"},"default":{"message":"預設"},"custom":{"message":"自訂"},"attach":{"message":"附加"},"custom_search_engine":{"message":"自定義搜尋引擎"},"attch_search_engine":{"message":"附加搜索引擎"},"edit_custom_search_engine":{"message":"編輯自定義搜尋引擎"},"email":{"message":"Email"},"password":{"message":"密碼"},"new_password":{"message":"輸入新密碼"},"confirm_password":{"message":"確認新密碼"},"chrome":{"message":"Chrome"},"edge":{"message":"Microsoft Edge"},"firefox":{"message":"Firefox"},"not_support_title":{"message":"页面存在错误显示"},"not_support_text":{"message":"為了您獲得Infinity更好的使用體驗_#_ 建議將瀏覽器陞級到最新版本，推薦使用相容Infinity的瀏覽器"},"failure":{"message":"失敗"},"qq_group":{"message":"新分頁2群"},"fb_group":{"message":"加入Facebook組，和大家一起暢聊吧！"},"switch_failed":{"message":"切換失敗"},"nature":{"message":"自然"},"ocean":{"message":"海洋"},"architecture":{"message":"建築"},"animals":{"message":"動物"},"travel":{"message":"旅行"},"food_drink":{"message":"美食"},"anime":{"message":"漫畫"},"athletics":{"message":"運動"},"technology":{"message":"科技資訊"},"street_photography":{"message":"街頭"},"experience_mode_tips":{"message":"體驗模式下您所產生的數據不會與其他設備同步，同時可能會遺失"},"qq_group_dialog_tips":{"message":"複製群號並繼續"},"fb_group_dialog_tips":{"message":"複製連結並繼續"},"delete_account_dialog_tips":{"message":"删除帳號後，此帳號下的所有設備均會被清除（筆記和自定義壁紙庫的圖片可能會不可用）"},"verity_code":{"message":"發送驗證碼"},"edit":{"message":"編輯"},"no_collect_wallpaper_tips":{"message":"你當前還沒收藏桌面哦"},"no_custom_search_engine_tips":{"message":"暫未添加自定義搜尋引擎"},"no_attach_search_engine_tips":{"message":"暫未添加附加搜尋引擎"},"login_failure":{"message":"登入失敗"},"choose_user":{"message":"選擇帳戶"},"upload_failure":{"message":"上傳失敗"},"uploading":{"message":"上傳中"},"cancel_upload":{"message":"取消上傳"},"loading":{"message":"載入中"},"load_failure":{"message":"無法載入"},"wallpaper_upload_file_size_exceed":{"message":"文件上傳失敗，原因：大小超過限制"},"icon_network_error":{"message":"網絡錯誤，點擊重新加載"},"discover":{"message":"發現"},"backup_failed":{"message":"備份失敗"},"download_failure":{"message":"下載失敗"},"search":{"message":"搜尋"},"current_wallpaper":{"message":"當前"},"cancel_collect":{"message":"取消收藏"},"qq_login_not_supported":{"message":"桌面模式暫不支援QQ登錄"},"search_engine_error":{"message":"請輸入搜尋引擎名稱"},"cannot_change_profile":{"message":"第三方登錄使用者不能修改個人資料"},"password_not_some":{"message":"兩次密碼輸入不壹致"},"no_permission":{"message":"暂無權限"},"qrcode_success":{"message":"掃碼成功"},"qrcode_failed":{"message":"掃碼失敗"},"camera_not_found":{"message":"沒有找到攝像頭"},"qrcode_login":{"message":"掃描二維碼登陸"},"phone_number":{"message":"電話號碼"},"password_login":{"message":"使用密碼登入"},"phone_login":{"message":"手機登入"},"enter_valid_phone_tips":{"message":"請輸入正確的手機號"},"enter_valid_email_tips":{"message":"請輸入正確的電郵"},"third_party":{"message":"第三方帳號"},"add_todo":{"message":"添加待辦事項"},"todo_content":{"message":"待辦内容"},"todo_dont_empty":{"message":"待辦內容不能為空"},"no_reminders":{"message":"暫無待辦事項"},"clear_done_todo":{"message":"清除完成項目"},"todo_tip_time":{"message":"提醒時間"},"confirm_delete_done_todos":{"message":"確認删除已完成的事項？"},"add_note":{"message":"新增筆記"},"add_first_note":{"message":"快來添加第一條筆記吧"},"set_top":{"message":"置頂"},"cancel_set_top":{"message":"移除釘選"},"note_title":{"message":"輸入記事標題"},"limit_input_length":{"message":"文字長度超出限制"},"no_title":{"message":"無標題"},"add_link":{"message":"新增連結"},"please_input_right_link":{"message":"請輸入正確的網址"},"note_upload_img_15":{"message":"圖片不能超過15M"},"confirm_delete_note":{"message":"確認删除當前筆記？"},"no_permission_title":{"message":"暫未授予該許可權"},"no_permission_text":{"message":"建議您嘗試前往瀏覽器位址列或設置中心開啟並授予該許可權。"},"have_todo_item":{"message":"您當前有一個待辦事項"},"bind":{"message":"關聯"},"unbind":{"message":"解綁"},"unbind_2":{"message":"解除綁定"},"unbind_success":{"message":"解綁成功"},"phone_bind":{"message":"關聯手機"},"phone_unbind":{"message":"手機號解綁"},"email_unbind":{"message":"郵箱解綁"},"phone_unbind_tips":{"message":"確定要將手機號$phone_number$解除綁定嗎？","placeholders":{"phone_number":{"content":"$1"}}},"confirm_unbind_email":{"message":"確定要將郵箱$email$解除綁定嗎？","placeholders":{"email":{"content":"$1"}}},"email_bind":{"message":"郵箱綁定"},"verification_code":{"message":"驗證碼"},"bind_success":{"message":"關聯成功"},"unbind_email_title":{"message":"解除郵箱綁定"},"unbind_tips":{"message":"為了您的帳號安全，請輸入帳號密碼"},"enter_password_tips":{"message":"輸入通關密語"},"enter_verification_code_tips":{"message":"請輸入驗證碼"},"email_or_phone_number_tips":{"message":"郵箱或手機號碼"},"email_format_error":{"message":"郵箱格式不正確"},"input_note_content":{"message":"在此輸入筆記內容…"},"confirm_unbind":{"message":"確認解除綁定嗎？"},"popup_title":{"message":"添加到Infinity收藏"},"icon_name":{"message":"Icon Name"},"add_icon_success":{"message":"添加成功"},"no_more_reminder":{"message":"不再顯示"},"username_cannot_empty":{"message":"用戶名不能為空"},"change_phone":{"message":"修改手機號"},"safety_verification":{"message":"安全驗證"},"safety_verification_tips":{"message":"请输入图片验证码"},"click_img_to_refresh":{"message":"點擊圖片刷新"},"modify_email":{"message":"修改電子郵件"}}
+{
+  "web_name": {
+    "message": "Infinity 主頁"
+  },
+  "extension_name": {
+    "message": "Infinity 新分頁移動版"
+  },
+  "extension_short_name": {
+    "message": "Infinity"
+  },
+  "name": {
+    "message": "Infinity 新分頁"
+  },
+  "extension_des": {
+    "message": "自定義你的新分頁，現已適配移動端瀏覽器，包括Kiwi瀏覽器，狐猴瀏覽器等"
+  },
+  "extension_edge_des": {
+    "message": "自定義你的新分頁，現已適配移動端瀏覽器"
+  },
+  "add_to_infinity": {
+    "message": "添加Infinity新分頁"
+  },
+  "network_error": {
+    "message": "網路錯誤"
+  },
+  "no_description": {
+    "message": "沒有描述"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "confirm": {
+    "message": "確定"
+  },
+  "folder": {
+    "message": "資料夾"
+  },
+  "add": {
+    "message": "新增"
+  },
+  "wallpaper": {
+    "message": "桌布"
+  },
+  "ambiguity": {
+    "message": "模糊"
+  },
+  "five_star": {
+    "message": "五星好評"
+  },
+  "follow_us": {
+    "message": "關注我們"
+  },
+  "about": {
+    "message": "關於"
+  },
+  "about_us": {
+    "message": "關於我們"
+  },
+  "contact_us": {
+    "message": "聯絡我們"
+  },
+  "privacy_policy": {
+    "message": "隱私政策"
+  },
+  "term_of_use": {
+    "message": "使用條款"
+  },
+  "login": {
+    "message": "登入"
+  },
+  "forget_password": {
+    "message": "忘記密碼"
+  },
+  "modify_password": {
+    "message": "修改密碼"
+  },
+  "welcome_infinity": {
+    "message": "歡迎使用Infinity"
+  },
+  "next": {
+    "message": "繼續"
+  },
+  "login_register": {
+    "message": "登入 | 入會"
+  },
+  "backup_now": {
+    "message": "立即備份"
+  },
+  "manage_backup_node": {
+    "message": "管理歷史備份節點"
+  },
+  "backup_with_device": {
+    "message": "與其他設備保持同步"
+  },
+  "ensure_logout": {
+    "message": "確認退出帳號？"
+  },
+  "logout_tips": {
+    "message": "在您退出帳號前是否需要清除本地數據，以防止此設備不同帳號數據串聯"
+  },
+  "logout_clear_something": {
+    "message": "清除此設備上的個性化設定等資訊"
+  },
+  "manul_backup": {
+    "message": "手動備份"
+  },
+  "recover_this": {
+    "message": "從此節點恢復"
+  },
+  "scheduled_backup": {
+    "message": "定時備份"
+  },
+  "current_node": {
+    "message": "當前節點"
+  },
+  "mini_mode": {
+    "message": "極簡主義模式"
+  },
+  "hide_search_input": {
+    "message": "隱藏搜尋框"
+  },
+  "icon": {
+    "message": "圖示"
+  },
+  "search_input": {
+    "message": "搜尋框"
+  },
+  "set_setting_default": {
+    "message": "恢復默認設置"
+  },
+  "search_website": {
+    "message": "搜尋網站"
+  },
+  "share_by_user": {
+    "message": "用戶分享"
+  },
+  "application": {
+    "message": "應用程式"
+  },
+  "news": {
+    "message": "新聞"
+  },
+  "photos": {
+    "message": "圖片"
+  },
+  "finance": {
+    "message": "金融"
+  },
+  "read": {
+    "message": "閱讀"
+  },
+  "others": {
+    "message": "其他"
+  },
+  "account_format_error": {
+    "message": "账號格式不正確"
+  },
+  "password_dont_empty": {
+    "message": "密碼不可為空"
+  },
+  "reset_password_tips": {
+    "message": "通過郵箱或手機號碼驗證重新設定您的密碼"
+  },
+  "email_code": {
+    "message": "郵箱驗證碼"
+  },
+  "baidu": {
+    "message": "百度"
+  },
+  "most_used_in_chinese": {
+    "message": "中國人用的最多的搜尋引擎"
+  },
+  "html": {
+    "message": "網站"
+  },
+  "videos": {
+    "message": "影片"
+  },
+  "map": {
+    "message": "地圖"
+  },
+  "google": {
+    "message": "Google"
+  },
+  "google_desc": {
+    "message": "Google搜索是由Google公司推出的一個互聯網搜索引擎，它是互聯網上最大、影響最廣泛的搜索引擎"
+  },
+  "bing": {
+    "message": "Bing"
+  },
+  "bing_desc": {
+    "message": "必應是一款由微軟公司推出的網絡搜尋引擎"
+  },
+  "yahoo": {
+    "message": "雅虎"
+  },
+  "yahoo_desc": {
+    "message": "雅虎搜索是一個由Yahoo！運營的互聯網搜尋引擎"
+  },
+  "yandex_desc": {
+    "message": "Yandex是俄羅斯重要網路服務門戶之一"
+  },
+  "yandex": {
+    "message": "Yandex"
+  },
+  "duckduckgo": {
+    "message": "DuckDuckGo"
+  },
+  "duckduckgo_desc": {
+    "message": "DuckDuckGo強調在傳統搜尋引擎的基礎上引入各大Web 2.0網站的內容。其辦站哲學主張維護使用者的隱私權，並承諾不監控、不記錄使用者的搜尋內容。"
+  },
+  "n_360": {
+    "message": "360搜索"
+  },
+  "360_desc": {
+    "message": "安全搜索引擎"
+  },
+  "sougou": {
+    "message": "搜狗"
+  },
+  "sougou_desc": {
+    "message": "能搜微信公眾號內容的搜尋引擎"
+  },
+  "yarndex_ru": {
+    "message": "YandexRU"
+  },
+  "chrome_app_store": {
+    "message": "Chrome 線上應用程式商店"
+  },
+  "exfans": {
+    "message": "擴展迷"
+  },
+  "tian_mao": {
+    "message": "天猫精選"
+  },
+  "jindong_shopping": {
+    "message": "京東商城"
+  },
+  "xie_cheng": {
+    "message": "攜程網"
+  },
+  "i_taobao": {
+    "message": "愛淘寶"
+  },
+  "no_data": {
+    "message": "尚無數據"
+  },
+  "edit_icon": {
+    "message": "編輯圖示"
+  },
+  "confirm_cover_remote": {
+    "message": "本地數據將保存至手動備份節點"
+  },
+  "del_folder": {
+    "message": "刪除"
+  },
+  "reset_password": {
+    "message": "重置密碼"
+  },
+  "wallpaper_library": {
+    "message": "桌布集"
+  },
+  "notes": {
+    "message": "筆記"
+  },
+  "weather": {
+    "message": "天氣"
+  },
+  "history": {
+    "message": "歷史記錄"
+  },
+  "bookmarks": {
+    "message": "書籤"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "extension": {
+    "message": "擴展管理"
+  },
+  "todos": {
+    "message": "待辦事項"
+  },
+  "infinity_wallpaper": {
+    "message": "Infinity壁紙庫，為您提供豐富、精彩的桌面"
+  },
+  "infinity_extension": {
+    "message": "Infinity擴展管理，簡單明瞭的管理您的$browser$擴展和App",
+    "placeholders": {
+      "browser": {
+        "content": "$1"
+      }
+    }
+  },
+  "infinity_weather": {
+    "message": "Infinity天氣，為您提供全球都市的天氣預報"
+  },
+  "infinity_history": {
+    "message": "Infinity歷史記錄，快速查看和管理您瀏覽器的歷史記錄"
+  },
+  "infinity_bookmarks": {
+    "message": "Infinity書簽，扁平化您的書簽資料夾層級，更方便的查找書簽"
+  },
+  "infinity_settings": {
+    "message": "Infinity設定，對您的Infinity新標籤頁進行個性化設定"
+  },
+  "infinity_notes": {
+    "message": "Infinity筆記，快速記錄您的生活靈感"
+  },
+  "infinity_todos": {
+    "message": "Infinity待辦事項，將您的任務安排的井然有序，提高您的工作效率"
+  },
+  "reqeust_login_message": {
+    "message": "此功能需要登入之後使用"
+  },
+  "send_success": {
+    "message": "已發送，請查收"
+  },
+  "hint": {
+    "message": "提示"
+  },
+  "request_logout_confirm": {
+    "message": "確認删除帳號？"
+  },
+  "edit_avatar": {
+    "message": "編輯大頭貼"
+  },
+  "upload_avatar_failure": {
+    "message": "頭像上傳失敗"
+  },
+  "qq_zone": {
+    "message": "QQ空間"
+  },
+  "douban": {
+    "message": "豆瓣"
+  },
+  "xin_lang_weibo": {
+    "message": "微博"
+  },
+  "confirm_recovery_data": {
+    "message": "雲端資料將覆蓋本地數據，確定嗎？"
+  },
+  "use_local": {
+    "message": "使用本地數據"
+  },
+  "use_cloud": {
+    "message": "使用雲端數據"
+  },
+  "revovery_data": {
+    "message": "恢復數據"
+  },
+  "color_icon": {
+    "message": "純色圖標"
+  },
+  "language": {
+    "message": "語言"
+  },
+  "icon_all": {
+    "message": "全部"
+  },
+  "most_popular": {
+    "message": "最受歡迎"
+  },
+  "video_type": {
+    "message": "影音"
+  },
+  "shopping_type": {
+    "message": "購物"
+  },
+  "social_type": {
+    "message": "社交通訊"
+  },
+  "travel_type": {
+    "message": "出行"
+  },
+  "life_type": {
+    "message": "生活"
+  },
+  "game_type": {
+    "message": "遊戲"
+  },
+  "education_type": {
+    "message": "教育"
+  },
+  "tech_type": {
+    "message": "科技"
+  },
+  "experience_without_login": {
+    "message": "體驗"
+  },
+  "relogin_des": {
+    "message": "您的帳號登入已失效，為確保帳號安全請您重新登入"
+  },
+  "relogin_out": {
+    "message": "登出"
+  },
+  "sync_check_data": {
+    "message": "帳號數據選擇"
+  },
+  "sync_use_merge": {
+    "message": "合併本地與雲端數據"
+  },
+  "sync_login_tips": {
+    "message": "建議您先登入帳號_#_ 以獲取帳號數據與其他設備同步"
+  },
+  "please_input_url": {
+    "message": "請輸入網址"
+  },
+  "please_input_url_search": {
+    "message": "請輸入網址（用%s 代替搜尋字詞）"
+  },
+  "please_input_name": {
+    "message": "請輸入一個名稱"
+  },
+  "online_icon_tab": {
+    "message": "線上圖標"
+  },
+  "local_upload": {
+    "message": "上傳本機"
+  },
+  "url_error_tips1": {
+    "message": "url必須包含%s字元"
+  },
+  "url_errror_tips_2": {
+    "message": "請輸入鏈接地址"
+  },
+  "please_select_icon": {
+    "message": "請選取圖示"
+  },
+  "text_icon_des": {
+    "message": "圖標文字，建議1-2個字元"
+  },
+  "rollback_cropper": {
+    "message": "還原"
+  },
+  "custom_add_icon": {
+    "message": "自訂新增"
+  },
+  "fetching_icon": {
+    "message": "獲取中..."
+  },
+  "add_success": {
+    "message": "新增成功！"
+  },
+  "all_store": {
+    "message": "所有最愛"
+  },
+  "search_manage": {
+    "message": "搜尋引擎管理"
+  },
+  "account_or_password_error": {
+    "message": "帳號或密碼錯誤"
+  },
+  "tologin": {
+    "message": "現在登入，體驗更多功能"
+  },
+  "rigester_account": {
+    "message": "註冊帳號"
+  },
+  "other_login_type": {
+    "message": "其他登陸"
+  },
+  "please_input_and_continue": {
+    "message": "請輸入完成驗證後繼續"
+  },
+  "register_infinity": {
+    "message": "註冊Infinity"
+  },
+  "password_less": {
+    "message": "密碼不能低於6位"
+  },
+  "password_different": {
+    "message": "密碼不一致"
+  },
+  "please_set_password": {
+    "message": "請設定密碼"
+  },
+  "last_step": {
+    "message": "上一步"
+  },
+  "reset_password_des": {
+    "message": "重新設定您的新密碼"
+  },
+  "setting_done": {
+    "message": "設定"
+  },
+  "feed_back": {
+    "message": "回饋"
+  },
+  "wallpaper_center": {
+    "message": "壁紙中心"
+  },
+  "share_to_friends": {
+    "message": "分享給好友"
+  },
+  "official_community": {
+    "message": "官方社群"
+  },
+  "weixin_public_account": {
+    "message": "微信公眾號"
+  },
+  "enjoy_right_now": {
+    "message": "即刻享受更多精彩"
+  },
+  "shared_to": {
+    "message": "分享至"
+  },
+  "whether_to_reset_all_setting": {
+    "message": "是否重置所有設定？"
+  },
+  "newtab_open": {
+    "message": "新分頁打開網站"
+  },
+  "newtab_open_search": {
+    "message": "在新分頁中開啟搜尋結果"
+  },
+  "icon_shape": {
+    "message": "變更圖示形狀"
+  },
+  "history_backup": {
+    "message": "歷史備份"
+  },
+  "modify_nickname": {
+    "message": "編輯暱稱"
+  },
+  "modify_password_success": {
+    "message": "修改密碼成功"
+  },
+  "please_input_origin_password": {
+    "message": "請輸入原密碼"
+  },
+  "please_input_new_password": {
+    "message": "請輸入新密碼"
+  },
+  "please_input_new_password_2": {
+    "message": "再次輸入新密碼"
+  },
+  "modify_info": {
+    "message": "編輯個人資料"
+  },
+  "nickname": {
+    "message": "暱稱"
+  },
+  "delete_account": {
+    "message": "刪除帳號"
+  },
+  "logout_account": {
+    "message": "退出帳號"
+  },
+  "setting_fail": {
+    "message": "設定失敗"
+  },
+  "store_success": {
+    "message": "收藏成功"
+  },
+  "cancel_store_success": {
+    "message": "取消最愛項成功"
+  },
+  "mask": {
+    "message": "遮罩"
+  },
+  "collection": {
+    "message": "收藏"
+  },
+  "the_end": {
+    "message": "到底了"
+  },
+  "icon_no_pic": {
+    "message": "暫未匹配到相關圖標~"
+  },
+  "search_from": {
+    "message": "搜尋自："
+  },
+  "edge_app_store": {
+    "message": "Edge外接程式"
+  },
+  "firefox_app_store": {
+    "message": "Firefox附加組件"
+  },
+  "version_does_not_support_this_feature": {
+    "message": "The current version doesn't support this function!"
+  },
+  "open_failed": {
+    "message": "打开失败"
+  },
+  "default": {
+    "message": "預設"
+  },
+  "custom": {
+    "message": "自訂"
+  },
+  "attach": {
+    "message": "附加"
+  },
+  "custom_search_engine": {
+    "message": "自定義搜尋引擎"
+  },
+  "attch_search_engine": {
+    "message": "附加搜索引擎"
+  },
+  "edit_custom_search_engine": {
+    "message": "編輯自定義搜尋引擎"
+  },
+  "email": {
+    "message": "Email"
+  },
+  "password": {
+    "message": "密碼"
+  },
+  "new_password": {
+    "message": "輸入新密碼"
+  },
+  "confirm_password": {
+    "message": "確認新密碼"
+  },
+  "chrome": {
+    "message": "Chrome"
+  },
+  "edge": {
+    "message": "Microsoft Edge"
+  },
+  "firefox": {
+    "message": "Firefox"
+  },
+  "not_support_title": {
+    "message": "页面存在错误显示"
+  },
+  "not_support_text": {
+    "message": "為了您獲得Infinity更好的使用體驗_#_ 建議將瀏覽器陞級到最新版本，推薦使用相容Infinity的瀏覽器"
+  },
+  "failure": {
+    "message": "失敗"
+  },
+  "qq_group": {
+    "message": "新分頁2群"
+  },
+  "fb_group": {
+    "message": "加入Facebook組，和大家一起暢聊吧！"
+  },
+  "switch_failed": {
+    "message": "切換失敗"
+  },
+  "nature": {
+    "message": "自然"
+  },
+  "ocean": {
+    "message": "海洋"
+  },
+  "architecture": {
+    "message": "建築"
+  },
+  "animals": {
+    "message": "動物"
+  },
+  "travel": {
+    "message": "旅行"
+  },
+  "food_drink": {
+    "message": "美食"
+  },
+  "anime": {
+    "message": "漫畫"
+  },
+  "athletics": {
+    "message": "運動"
+  },
+  "technology": {
+    "message": "科技資訊"
+  },
+  "street_photography": {
+    "message": "街頭"
+  },
+  "experience_mode_tips": {
+    "message": "體驗模式下您所產生的數據不會與其他設備同步，同時可能會遺失"
+  },
+  "qq_group_dialog_tips": {
+    "message": "複製群號並繼續"
+  },
+  "fb_group_dialog_tips": {
+    "message": "複製連結並繼續"
+  },
+  "delete_account_dialog_tips": {
+    "message": "删除帳號後，此帳號下的所有設備均會被清除（筆記和自定義壁紙庫的圖片可能會不可用）"
+  },
+  "verity_code": {
+    "message": "發送驗證碼"
+  },
+  "edit": {
+    "message": "編輯"
+  },
+  "no_collect_wallpaper_tips": {
+    "message": "你當前還沒收藏桌面哦"
+  },
+  "no_custom_search_engine_tips": {
+    "message": "暫未添加自定義搜尋引擎"
+  },
+  "no_attach_search_engine_tips": {
+    "message": "暫未添加附加搜尋引擎"
+  },
+  "login_failure": {
+    "message": "登入失敗"
+  },
+  "choose_user": {
+    "message": "選擇帳戶"
+  },
+  "upload_failure": {
+    "message": "上傳失敗"
+  },
+  "uploading": {
+    "message": "上傳中"
+  },
+  "cancel_upload": {
+    "message": "取消上傳"
+  },
+  "loading": {
+    "message": "載入中"
+  },
+  "load_failure": {
+    "message": "無法載入"
+  },
+  "wallpaper_upload_file_size_exceed": {
+    "message": "文件上傳失敗，原因：大小超過限制"
+  },
+  "icon_network_error": {
+    "message": "網絡錯誤，點擊重新加載"
+  },
+  "discover": {
+    "message": "發現"
+  },
+  "backup_failed": {
+    "message": "備份失敗"
+  },
+  "download_failure": {
+    "message": "下載失敗"
+  },
+  "search": {
+    "message": "搜尋"
+  },
+  "current_wallpaper": {
+    "message": "當前"
+  },
+  "cancel_collect": {
+    "message": "取消收藏"
+  },
+  "qq_login_not_supported": {
+    "message": "桌面模式暫不支援QQ登錄"
+  },
+  "search_engine_error": {
+    "message": "請輸入搜尋引擎名稱"
+  },
+  "cannot_change_profile": {
+    "message": "第三方登錄使用者不能修改個人資料"
+  },
+  "password_not_some": {
+    "message": "兩次密碼輸入不壹致"
+  },
+  "no_permission": {
+    "message": "暂無權限"
+  },
+  "qrcode_success": {
+    "message": "掃碼成功"
+  },
+  "qrcode_failed": {
+    "message": "掃碼失敗"
+  },
+  "camera_not_found": {
+    "message": "沒有找到攝像頭"
+  },
+  "qrcode_login": {
+    "message": "掃描二維碼登陸"
+  },
+  "phone_number": {
+    "message": "電話號碼"
+  },
+  "password_login": {
+    "message": "使用密碼登入"
+  },
+  "phone_login": {
+    "message": "手機登入"
+  },
+  "enter_valid_phone_tips": {
+    "message": "請輸入正確的手機號"
+  },
+  "enter_valid_email_tips": {
+    "message": "請輸入正確的電郵"
+  },
+  "third_party": {
+    "message": "第三方帳號"
+  },
+  "add_todo": {
+    "message": "添加待辦事項"
+  },
+  "todo_content": {
+    "message": "待辦内容"
+  },
+  "todo_dont_empty": {
+    "message": "待辦內容不能為空"
+  },
+  "no_reminders": {
+    "message": "暫無待辦事項"
+  },
+  "clear_done_todo": {
+    "message": "清除完成項目"
+  },
+  "todo_tip_time": {
+    "message": "提醒時間"
+  },
+  "confirm_delete_done_todos": {
+    "message": "確認删除已完成的事項？"
+  },
+  "add_note": {
+    "message": "新增筆記"
+  },
+  "add_first_note": {
+    "message": "快來添加第一條筆記吧"
+  },
+  "set_top": {
+    "message": "置頂"
+  },
+  "cancel_set_top": {
+    "message": "移除釘選"
+  },
+  "note_title": {
+    "message": "輸入記事標題"
+  },
+  "limit_input_length": {
+    "message": "文字長度超出限制"
+  },
+  "no_title": {
+    "message": "無標題"
+  },
+  "add_link": {
+    "message": "新增連結"
+  },
+  "please_input_right_link": {
+    "message": "請輸入正確的網址"
+  },
+  "note_upload_img_15": {
+    "message": "圖片不能超過15M"
+  },
+  "confirm_delete_note": {
+    "message": "確認删除當前筆記？"
+  },
+  "no_permission_title": {
+    "message": "暫未授予該許可權"
+  },
+  "no_permission_text": {
+    "message": "建議您嘗試前往瀏覽器位址列或設置中心開啟並授予該許可權。"
+  },
+  "have_todo_item": {
+    "message": "您當前有一個待辦事項"
+  },
+  "bind": {
+    "message": "關聯"
+  },
+  "unbind": {
+    "message": "解綁"
+  },
+  "unbind_2": {
+    "message": "解除綁定"
+  },
+  "unbind_success": {
+    "message": "解綁成功"
+  },
+  "phone_bind": {
+    "message": "關聯手機"
+  },
+  "phone_unbind": {
+    "message": "手機號解綁"
+  },
+  "email_unbind": {
+    "message": "郵箱解綁"
+  },
+  "phone_unbind_tips": {
+    "message": "確定要將手機號$phone_number$解除綁定嗎？",
+    "placeholders": {
+      "phone_number": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirm_unbind_email": {
+    "message": "確定要將郵箱$email$解除綁定嗎？",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "email_bind": {
+    "message": "郵箱綁定"
+  },
+  "verification_code": {
+    "message": "驗證碼"
+  },
+  "bind_success": {
+    "message": "關聯成功"
+  },
+  "unbind_email_title": {
+    "message": "解除郵箱綁定"
+  },
+  "unbind_tips": {
+    "message": "為了您的帳號安全，請輸入帳號密碼"
+  },
+  "enter_password_tips": {
+    "message": "輸入通關密語"
+  },
+  "enter_verification_code_tips": {
+    "message": "請輸入驗證碼"
+  },
+  "email_or_phone_number_tips": {
+    "message": "郵箱或手機號碼"
+  },
+  "email_format_error": {
+    "message": "郵箱格式不正確"
+  },
+  "input_note_content": {
+    "message": "在此輸入筆記內容…"
+  },
+  "confirm_unbind": {
+    "message": "確認解除綁定嗎？"
+  },
+  "popup_title": {
+    "message": "添加到Infinity收藏"
+  },
+  "icon_name": {
+    "message": "Icon Name"
+  },
+  "add_icon_success": {
+    "message": "添加成功"
+  },
+  "no_more_reminder": {
+    "message": "不再顯示"
+  },
+  "username_cannot_empty": {
+    "message": "用戶名不能為空"
+  },
+  "change_phone": {
+    "message": "修改手機號"
+  },
+  "safety_verification": {
+    "message": "安全驗證"
+  },
+  "safety_verification_tips": {
+    "message": "请输入图片验证码"
+  },
+  "click_img_to_refresh": {
+    "message": "點擊圖片刷新"
+  },
+  "modify_email": {
+    "message": "修改電子郵件"
+  },
+  "search_placeholder": {
+    "message": "搜尋網頁..."
+  },
+  "your_shortcuts": {
+    "message": "你的快捷方式"
+  },
+  "wallpaper_title": {
+    "message": "桌布"
+  },
+  "no_wallpaper": {
+    "message": "無桌布"
+  },
+  "upload_wallpaper": {
+    "message": "上傳桌布"
+  },
+  "mask_opacity": {
+    "message": "遮罩透明度"
+  },
+  "wallpaper_blur": {
+    "message": "模糊"
+  },
+  "settings_title": {
+    "message": "設定"
+  },
+  "settings_appearance": {
+    "message": "外觀"
+  },
+  "settings_wallpaper": {
+    "message": "桌布"
+  },
+  "settings_search_radius": {
+    "message": "搜尋框圓角"
+  },
+  "settings_icon_radius": {
+    "message": "圖示圓角"
+  },
+  "settings_widgets": {
+    "message": "小工具"
+  },
+  "settings_show_search": {
+    "message": "顯示搜尋欄"
+  },
+  "settings_show_clock": {
+    "message": "顯示時鐘"
+  },
+  "settings_show_sites": {
+    "message": "顯示快捷方式"
+  },
+  "settings_account": {
+    "message": "帳戶"
+  },
+  "settings_login": {
+    "message": "登入"
+  },
+  "settings_sync": {
+    "message": "同步"
+  },
+  "settings_other": {
+    "message": "其他"
+  },
+  "settings_language": {
+    "message": "語言"
+  },
+  "settings_about": {
+    "message": "關於"
+  },
+  "settings_third_party": {
+    "message": "第三方函式庫"
+  },
+  "settings_user_title": {
+    "message": "個人資料"
+  },
+  "sync_title": {
+    "message": "同步"
+  },
+  "sync_last_synced": {
+    "message": "上次同步"
+  },
+  "sync_status": {
+    "message": "狀態"
+  },
+  "sync_push": {
+    "message": "推送到雲端"
+  },
+  "sync_pull": {
+    "message": "從雲端拉取"
+  },
+  "sync_pending_restore_notice": {
+    "message": "有待處理的雲端資料，是否套用？"
+  },
+  "sync_apply_restore": {
+    "message": "套用雲端資料"
+  },
+  "sync_discard_restore": {
+    "message": "捨棄"
+  },
+  "sync_push_success": {
+    "message": "已推送到雲端"
+  },
+  "sync_push_failed": {
+    "message": "推送失敗"
+  },
+  "sync_pull_success": {
+    "message": "已從雲端拉取"
+  },
+  "sync_pull_failed": {
+    "message": "拉取失敗"
+  },
+  "sync_restore_applied": {
+    "message": "雲端資料已套用"
+  },
+  "never": {
+    "message": "從未"
+  },
+  "login_title": {
+    "message": "登入"
+  },
+  "login_account": {
+    "message": "帳號"
+  },
+  "login_account_placeholder": {
+    "message": "電子郵件或手機號碼"
+  },
+  "login_password": {
+    "message": "密碼"
+  },
+  "login_password_placeholder": {
+    "message": "請輸入密碼"
+  },
+  "login_submit": {
+    "message": "登入"
+  },
+  "login_forgot_password": {
+    "message": "忘記密碼？"
+  },
+  "register_title": {
+    "message": "建立帳戶"
+  },
+  "register_username": {
+    "message": "用戶名"
+  },
+  "register_username_placeholder": {
+    "message": "請輸入用戶名"
+  },
+  "register_account": {
+    "message": "電子郵件/手機號"
+  },
+  "register_account_placeholder": {
+    "message": "電子郵件或手機號碼"
+  },
+  "register_password": {
+    "message": "密碼"
+  },
+  "register_password_placeholder": {
+    "message": "請輸入密碼"
+  },
+  "register_code": {
+    "message": "驗證碼"
+  },
+  "register_code_placeholder": {
+    "message": "請輸入驗證碼"
+  },
+  "register_submit": {
+    "message": "註冊"
+  },
+  "reset_password_title": {
+    "message": "重置密碼"
+  },
+  "reset_account": {
+    "message": "電子郵件/手機號"
+  },
+  "reset_account_placeholder": {
+    "message": "電子郵件或手機號碼"
+  },
+  "reset_code": {
+    "message": "驗證碼"
+  },
+  "reset_code_placeholder": {
+    "message": "請輸入驗證碼"
+  },
+  "reset_new_password": {
+    "message": "新密碼"
+  },
+  "reset_new_password_placeholder": {
+    "message": "請輸入新密碼"
+  },
+  "reset_submit": {
+    "message": "提交"
+  },
+  "reset_failed": {
+    "message": "重置失敗"
+  },
+  "reset_success": {
+    "message": "密碼重置成功"
+  },
+  "change_email_title": {
+    "message": "變更電子郵件"
+  },
+  "change_email_new": {
+    "message": "新電子郵件"
+  },
+  "change_email_placeholder": {
+    "message": "請輸入新電子郵件"
+  },
+  "change_email_code": {
+    "message": "驗證碼"
+  },
+  "change_phone_title": {
+    "message": "變更手機號碼"
+  },
+  "change_phone_new": {
+    "message": "新手機號碼"
+  },
+  "change_phone_placeholder": {
+    "message": "請輸入手機號碼"
+  },
+  "change_phone_code": {
+    "message": "驗證碼"
+  },
+  "change_submit": {
+    "message": "提交"
+  },
+  "change_success": {
+    "message": "變更成功"
+  },
+  "change_failed": {
+    "message": "變更失敗"
+  },
+  "change_code_placeholder": {
+    "message": "請輸入驗證碼"
+  },
+  "change": {
+    "message": "變更"
+  },
+  "send_code": {
+    "message": "發送驗證碼"
+  },
+  "send_code_failed": {
+    "message": "發送失敗"
+  },
+  "code_sent": {
+    "message": "驗證碼已發送"
+  },
+  "set_password_title": {
+    "message": "變更密碼"
+  },
+  "set_password_old": {
+    "message": "目前密碼"
+  },
+  "set_password_old_placeholder": {
+    "message": "請輸入目前密碼"
+  },
+  "set_password_new": {
+    "message": "新密碼"
+  },
+  "set_password_new_placeholder": {
+    "message": "請輸入新密碼"
+  },
+  "set_password_confirm": {
+    "message": "確認密碼"
+  },
+  "set_password_confirm_placeholder": {
+    "message": "請再次輸入新密碼"
+  },
+  "set_password_submit": {
+    "message": "提交"
+  },
+  "set_password_success": {
+    "message": "密碼變更成功"
+  },
+  "set_password_failed": {
+    "message": "密碼變更失敗"
+  },
+  "not_support_desc": {
+    "message": "請將瀏覽器更新到最新版本以使用此擴充功能。"
+  },
+  "not_support_download_chrome": {
+    "message": "下載 Chrome"
+  },
+  "not_support_download_firefox": {
+    "message": "下載 Firefox"
+  },
+  "about_title": {
+    "message": "關於"
+  },
+  "about_website": {
+    "message": "官方網站"
+  },
+  "about_feedback": {
+    "message": "意見回饋"
+  },
+  "about_rate": {
+    "message": "為我們評分"
+  },
+  "about_follow_wechat": {
+    "message": "關注我們的微信公眾號"
+  },
+  "about_privacy": {
+    "message": "隱私政策"
+  },
+  "language_title": {
+    "message": "語言"
+  },
+  "language_changed": {
+    "message": "語言已更新"
+  },
+  "third_party_title": {
+    "message": "第三方函式庫"
+  },
+  "popup_open_newtab": {
+    "message": "開啟新分頁"
+  },
+  "popup_open_settings": {
+    "message": "設定"
+  },
+  "popup_footer": {
+    "message": "Infinity 新分頁"
+  },
+  "account_required": {
+    "message": "請輸入帳號"
+  },
+  "field_required": {
+    "message": "此欄位為必填"
+  },
+  "email_invalid": {
+    "message": "電子郵件格式不正確"
+  },
+  "password_mismatch": {
+    "message": "兩次輸入的密碼不一致"
+  },
+  "password_too_short": {
+    "message": "密碼至少需要6個字元"
+  },
+  "user_email": {
+    "message": "電子郵件"
+  },
+  "user_phone": {
+    "message": "手機號碼"
+  },
+  "user_password": {
+    "message": "密碼"
+  },
+  "logout": {
+    "message": "登出"
+  },
+  "logout_confirm": {
+    "message": "確定要登出嗎？"
+  },
+  "not_set": {
+    "message": "未設定"
+  }
+}

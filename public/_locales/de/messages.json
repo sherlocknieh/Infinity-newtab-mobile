@@ -1,1 +1,1307 @@
-{"web_name":{"message":"Homepage der Infinity"},"extension_name":{"message":"Infinity New Tab für Mobile"},"extension_short_name":{"message":"Infinity"},"name":{"message":"Infinity New Tab "},"extension_des":{"message":"Passen Sie Ihre neue Registerkarte an. Sie kompatibel mit Kiwi-Browser, Lemurbrowser usw."},"extension_edge_des":{"message":"Passen Sie Ihren neuen Tab an, der jetzt an den mobilen Browser angepasst ist"},"add_to_infinity":{"message":"Infinity Neue Tab-Seite hinzufügen"},"network_error":{"message":"Netzwerkfehler"},"no_description":{"message":"Keine Beschreibung"},"done":{"message":"Fertig"},"cancel":{"message":"Abbrechen"},"confirm":{"message":"Ok"},"folder":{"message":"Ordner"},"add":{"message":"Hinzufügen"},"wallpaper":{"message":"Hintergrund"},"ambiguity":{"message":"Weichzeichnen"},"five_star":{"message":"Bewerte uns mit 5 Sternen"},"follow_us":{"message":"Folge uns"},"about":{"message":"Über"},"about_us":{"message":"Über uns"},"contact_us":{"message":"Kontaktiere uns"},"privacy_policy":{"message":"Datenschutzrichtlinien"},"term_of_use":{"message":"AGB"},"login":{"message":"Anmelden"},"forget_password":{"message":"Passwort vergessen"},"modify_password":{"message":"Passwort ändern"},"welcome_infinity":{"message":"Welcome to Infinity"},"next":{"message":"Weiter"},"login_register":{"message":"Anmelden / Registrieren"},"backup_now":{"message":"Jetzt sichern"},"manage_backup_node":{"message":"Verwalten von History-Backup-Knoten"},"backup_with_device":{"message":"Mit anderen Geräten synchronisieren"},"ensure_logout":{"message":"Bist du sicher, dass du dich abmelden willst?"},"logout_tips":{"message":"Müssen Sie lokale Daten löschen, bevor Sie sich Ihres Kontos abmelden, um Daten aus verschiedenen Konten auf diesem Gerät von der Verbindung zu verhindern?"},"logout_clear_something":{"message":"Klare personalisierte Einstellungen und andere Informationen zu diesem Gerät"},"manul_backup":{"message":"Manueller Backup"},"recover_this":{"message":"Wiederherstellen von diesem Knoten"},"scheduled_backup":{"message":"Sicherung planen"},"current_node":{"message":"Aktueller Knoten"},"mini_mode":{"message":"Minimalistischer Stil"},"hide_search_input":{"message":"Suchbox ausblenden"},"icon":{"message":"Symbol"},"search_input":{"message":"Suchfeld"},"set_setting_default":{"message":"Standard wiederherstellen"},"search_website":{"message":"Nach Websites suchen"},"share_by_user":{"message":"Von anderen Nutzern geteilt"},"application":{"message":"App"},"news":{"message":"Nachrichten"},"photos":{"message":"Bilder"},"finance":{"message":"Finanzen"},"read":{"message":"Lesen"},"others":{"message":"Sonstige"},"account_format_error":{"message":"Konto mit falschem Format"},"password_dont_empty":{"message":"Das Passwortfeld darf nicht leer sein"},"reset_password_tips":{"message":"Überprüfen Sie Ihr Passwort per E-Mail oder Mobiltelefonnummer"},"email_code":{"message":"E-Mail-Verifizierung"},"baidu":{"message":"Baidu"},"most_used_in_chinese":{"message":"Die Suchmaschine benutzte am meisten von Chinesisch"},"html":{"message":"Webseite"},"videos":{"message":"Videos"},"map":{"message":"Maps"},"google":{"message":"Google"},"google_desc":{"message":"Die Google-Suche ist eine von Google entwickelte Suchmaschine. Es ist die größte, einflussreichste Suchmaschine im Internet"},"bing":{"message":"Bing"},"bing_desc":{"message":"Bing ist eine von Microsoft entwickelte Suchmaschinen"},"yahoo":{"message":"Yahoo"},"yahoo_desc":{"message":"Yahoo-Suche ist eine von Yahoo betriebene Suchmaschine"},"yandex_desc":{"message":"Yandex ist eines der wichtigsten Internet-Service-Portale in Russland"},"yandex":{"message":"Yandex"},"duckduckgo":{"message":"DuckDuckGo"},"duckduckgo_desc":{"message":"Duckduckgo konzentriert sich auf den Import von Inhalten von den wichtigsten Web 2.0-Websites, außerdem ein traditioneller Suchmaschinen ist, ist die Philosophie der Website, die Privatsphäre der Benutzer zu respektieren, und vielversprechend, um den Inhalt nicht zu überwachen oder zu dokumentieren."},"n_360":{"message":"360 Search"},"360_desc":{"message":"Sichere Suchmaschine"},"sougou":{"message":"Sogou"},"sougou_desc":{"message":"Suchmaschine, die nach Inhalte suchen kann, die von Wechat offiziellen Konten gepostet hat"},"yarndex_ru":{"message":"YandexRU"},"chrome_app_store":{"message":"Chrome Web Store - Erweiterungen"},"exfans":{"message":"Extfans"},"tian_mao":{"message":"TMall"},"jindong_shopping":{"message":"Jingdong"},"xie_cheng":{"message":"Ctrip"},"i_taobao":{"message":"taobao"},"no_data":{"message":"Keine Daten"},"edit_icon":{"message":"Symbol bearbeiten"},"confirm_cover_remote":{"message":"Lokale Daten werden in einem manuellen Sicherungsknoten gespeichert"},"del_folder":{"message":"Löschen"},"reset_password":{"message":"Passwörter zurücksetzen"},"wallpaper_library":{"message":"Hintergrund-Bibliothek"},"notes":{"message":"Notizen"},"weather":{"message":"Wetter"},"history":{"message":"Verlauf"},"bookmarks":{"message":"Lesezeichen"},"settings":{"message":"Einstellungen"},"extension":{"message":"Erweiterungen"},"todos":{"message":"Aufgaben"},"infinity_wallpaper":{"message":"Infinity Wallpaper Library bietet Ihnen reiche und aufregende Tapeten"},"infinity_extension":{"message":"Verwalten Sie Ihre $browser$-Erweiterungen und -Apps einfach mit Infinity Extension Manager","placeholders":{"browser":{"content":"$1"}}},"infinity_weather":{"message":"Infinity-Wetter bietet Ihnen Wettervorhersagen von Städten auf der ganzen Welt"},"infinity_history":{"message":"Schnell ansehen und verwalten Sie Ihre Browsergeschichte mit der Infinity-Historie"},"infinity_bookmarks":{"message":"Flogen Sie Ihre Bookmark-Ordnerhierarchie und finden Sie Lesezeichen noch einfacher mit der Infinity-Lesezeichen"},"infinity_settings":{"message":"Personalisieren Sie Ihre Infinity-Registerkarte mit der Infinity-Registerkarte mit Infinity-Einstellungen"},"infinity_notes":{"message":"Notieren Sie die Inspirationen des Lebens schnell mit Infinity-Notizen"},"infinity_todos":{"message":"Ordnen Sie Ihre Aufgaben in der Reihenfolge an und verbessern Sie Ihre Arbeitseffizienz mit der Infinity-To-Do-Liste"},"reqeust_login_message":{"message":"Um diese Funktion nutzen zu können, musst du angemeldet sein"},"send_success":{"message":"Bestätigungs-E-Mail gesendet. Bitte Nachrichteneingang überprüfen"},"hint":{"message":"Trinkgeld"},"request_logout_confirm":{"message":"Dein Konto löschen?"},"edit_avatar":{"message":"Avatar bearbeiten"},"upload_avatar_failure":{"message":"Fehler beim Hochladen Ihres Avatar-Bildes"},"qq_zone":{"message":"Qzone"},"douban":{"message":"Douban"},"xin_lang_weibo":{"message":"Weibo"},"confirm_recovery_data":{"message":"Cloud-Daten ersetzen lokale Daten. Bist du sicher über diese Aktion?"},"use_local":{"message":"Verwenden Sie lokale Daten"},"use_cloud":{"message":"Verwenden Sie Cloud-Daten"},"revovery_data":{"message":"Daten wiederherstellen"},"color_icon":{"message":"Massivfarbsymbol"},"language":{"message":"Sprache"},"icon_all":{"message":"Alle"},"most_popular":{"message":"Am Beliebtesten"},"video_type":{"message":"Audio und Video"},"shopping_type":{"message":"Shopping"},"social_type":{"message":"Soziales"},"travel_type":{"message":"Reise"},"life_type":{"message":"Leben"},"game_type":{"message":"Spiele"},"education_type":{"message":"Bildung"},"tech_type":{"message":"Tech"},"experience_without_login":{"message":"Testen"},"relogin_des":{"message":"Das Konto ist ungültig. Melden Sie sich erneut an."},"relogin_out":{"message":"Abmelden"},"sync_check_data":{"message":"Auswahl der Kontodaten"},"sync_use_merge":{"message":"Zusammenführen von lokalen und Cloud-Daten"},"sync_login_tips":{"message":"Vi anbefaler, at du først logger ind på din konto_#_for at få kontodata og synkronisere med andre enheder"},"please_input_url":{"message":"Bitte geben Sie die URL ein"},"please_input_url_search":{"message":"Bitte geben Sie die URL ein (verwenden Sie%s anstelle von Suchbegriffen)"},"please_input_name":{"message":"Bitte einen Namen angeben"},"online_icon_tab":{"message":"Online-Symbol"},"local_upload":{"message":"Hochladen"},"url_error_tips1":{"message":"URL muss%s Zeichen enthalten"},"url_errror_tips_2":{"message":"geben sie eine url-adresse ein"},"please_select_icon":{"message":"Bitte wählen Sie das Symbol"},"text_icon_des":{"message":"Text des Symbols, 1-2 Zeichen empfohlen"},"rollback_cropper":{"message":"Rückgängig machen"},"custom_add_icon":{"message":"Benutzerdefiniertes Hinzufügen"},"fetching_icon":{"message":"Übertragen..."},"add_success":{"message":"Erfolgreich hinzugefügt!"},"all_store":{"message":"Favoritinnen"},"search_manage":{"message":"Suchmaschinenmanagement"},"account_or_password_error":{"message":"Nutzername oder Passwort inkorrekt!"},"tologin":{"message":"Melden Sie sich jetzt an, um noch mehr Funktionen zu erleben"},"rigester_account":{"message":"Konto registrieren"},"other_login_type":{"message":"Andere Wege einloggen"},"please_input_and_continue":{"message":"Bitte geben Sie die Validierung ein und schließen Sie sie ab, bevor Sie fortfahren"},"register_infinity":{"message":"Registrieren Sie Infinity"},"password_less":{"message":"Gebe ein Passwort mit mehr als 6 Zeichen ein"},"password_different":{"message":"Die Passwörter stimmen nicht überein"},"please_set_password":{"message":"Bitte ein Passwort festlegen"},"last_step":{"message":"Vorheriger Schritt"},"reset_password_des":{"message":"Setzen Sie Ihr neues Passwort zurück"},"setting_done":{"message":"Einstellungen"},"feed_back":{"message":"Feedback"},"wallpaper_center":{"message":"Wallpaper Center"},"share_to_friends":{"message":"Teilen"},"official_community":{"message":"Offizielle Community"},"weixin_public_account":{"message":"WeChat"},"enjoy_right_now":{"message":"Genießen Sie sofort mehr Aufregung"},"shared_to":{"message":"Teilen mit"},"whether_to_reset_all_setting":{"message":"Alle Einstellungen zurücksetzen?"},"newtab_open":{"message":"Öffnen Sie die Website auf neuer Registerkarte"},"newtab_open_search":{"message":"Suchergebnis auf neuer Registerkarte anzeigen"},"icon_shape":{"message":"Icon-Form"},"history_backup":{"message":"Backup-Chronik"},"modify_nickname":{"message":"Alias bearbeiten"},"modify_password_success":{"message":"Passwort erfolgreich geändert"},"please_input_origin_password":{"message":"Bitte geben Sie den Originalcode ein"},"please_input_new_password":{"message":"Gib ein neues Passwort ein"},"please_input_new_password_2":{"message":"Geben Sie das neue Kennwort noch einmal ein."},"modify_info":{"message":"Profil bearbeiten"},"nickname":{"message":"Spitzname"},"delete_account":{"message":"Account löschen"},"logout_account":{"message":"Abmelden"},"setting_fail":{"message":"Einrichtung fehlgeschlagen"},"store_success":{"message":"Zu Favoriten hinzugefügt"},"cancel_store_success":{"message":"Gelöscht"},"mask":{"message":"Maskieren"},"collection":{"message":"Sammlungen"},"the_end":{"message":"Keine Artikel mehr"},"icon_no_pic":{"message":"Kein verwandtes Symbol wurde noch nicht abgestimmt~"},"search_from":{"message":"Suche von: "},"edge_app_store":{"message":"Edge add-on"},"firefox_app_store":{"message":"Firefox Add-on-Store"},"version_does_not_support_this_feature":{"message":"Die aktuelle Version unterstützt diese Funktion nicht!"},"open_failed":{"message":"Gescheitert zu öffnen"},"default":{"message":"Standardeinstellung"},"custom":{"message":"Anpassen"},"attach":{"message":"Anhang"},"custom_search_engine":{"message":"Benutzerdefinierte Suchmaschine"},"attch_search_engine":{"message":"Angepasste Suchmaschine"},"edit_custom_search_engine":{"message":"Benutzerdefinierte Suchmaschine bearbeiten"},"email":{"message":"E-Mail"},"password":{"message":"Passwort"},"new_password":{"message":"Neues Passwort eingeben"},"confirm_password":{"message":"Passwort bestätigen"},"chrome":{"message":"Chrome"},"edge":{"message":"Microsoft Edge"},"firefox":{"message":"Firefox"},"not_support_title":{"message":"Fehleranzeige auf Seite"},"not_support_text":{"message":"Damit Sie Infinity Experience_#_empfohlen, um Ihren Browser auf die neueste Version zu aktualisieren, empfehlen Sie den Browser, der mit Infinity kompatibel ist"},"failure":{"message":"fehlgeschlagen"},"qq_group":{"message":"Neue Registerkarte Seite 2 Gruppe"},"fb_group":{"message":"Treten Sie der Facebook-Gruppe bei und chatten Sie mit jedem!"},"switch_failed":{"message":"Umstellen fehlgeschlagen"},"nature":{"message":"Natur"},"ocean":{"message":"Ozean"},"architecture":{"message":"Architektur"},"animals":{"message":"Tier"},"travel":{"message":"Reisen"},"food_drink":{"message":"Essen"},"anime":{"message":"Comics"},"athletics":{"message":"Sport"},"technology":{"message":"Technik"},"street_photography":{"message":"Straße"},"experience_mode_tips":{"message":"Im Erstellungsmodus werden die von Ihnen generierten Daten nicht mit anderen Geräten synchronisiert und können verloren gehen"},"qq_group_dialog_tips":{"message":"Kopieren Sie die Gruppennummer und fahren fort"},"fb_group_dialog_tips":{"message":"Link kopieren und fortfahren"},"delete_account_dialog_tips":{"message":"Nach dem Löschen des Kontos werden alle Geräte gemäß diesem Konto entfernt (Anmerkungen und Bilder in der benutzerdefinierten Tapetenbibliothek werden möglicherweise unbrauchbar)"},"verity_code":{"message":"Bestätigungscode senden"},"edit":{"message":"Bearbeiten"},"no_collect_wallpaper_tips":{"message":"Sie haben noch keine Tapete gesammelt"},"no_custom_search_engine_tips":{"message":"Benutzerdefinierte Suchmaschine wurde noch nicht hinzugefügt"},"no_attach_search_engine_tips":{"message":"Es wurde noch keine zusätzliche Suchmaschine hinzugefügt"},"login_failure":{"message":"Anmeldung fehlgeschlagen"},"choose_user":{"message":"Konto auswählen"},"upload_failure":{"message":"Upload fehlgeschlagen"},"uploading":{"message":"Wird hochgeladen"},"cancel_upload":{"message":"Upload abbrechen"},"loading":{"message":"Wird geladen"},"load_failure":{"message":"Beim Laden ist ein Fehler aufgetreten"},"wallpaper_upload_file_size_exceed":{"message":"Datei-Upload fehlgeschlagen. Grund: Größe überschreitet die Grenze"},"icon_network_error":{"message":"Netzwerkausnahmefehler, zum Neuladen klicken"},"discover":{"message":"Entdecken"},"backup_failed":{"message":"Sicherung fehlgeschlagen"},"download_failure":{"message":"Downloadfehler"},"search":{"message":"Suche"},"current_wallpaper":{"message":"Aktuell"},"cancel_collect":{"message":"Aus Favoriten entfernen"},"qq_login_not_supported":{"message":"QQ-Login wird im Desktop-Modus nicht unterstützt"},"search_engine_error":{"message":"Name der Suchmaschine eingeben"},"cannot_change_profile":{"message":"Benutzer von Drittanbietern, die sich anmelden, können die Profilinformationen nicht ändern"},"password_not_some":{"message":"Die eingegebenen Passwörter stimmen nicht überein."},"no_permission":{"message":"Keine Berechtigung"},"qrcode_success":{"message":"Scan erfolgreich"},"qrcode_failed":{"message":"Scannen fehlgeschlagen."},"camera_not_found":{"message":"Kamera kann nicht gefunden werden"},"qrcode_login":{"message":"Scannen Sie den QR-Code, um sich anzumelden"},"phone_number":{"message":"Handynummer"},"password_login":{"message":"Anmelden per Passwort"},"phone_login":{"message":"Mobil-Anmeldung"},"enter_valid_phone_tips":{"message":"Bitte gib die richtige Telefonnummer ein"},"enter_valid_email_tips":{"message":"Geben Sie eine richtige E-Mail-Adresse ein"},"third_party":{"message":"Konten von Drittanbietern"},"add_todo":{"message":"Neue To-Do hinzufügen"},"todo_content":{"message":"To-Do-Listen"},"todo_dont_empty":{"message":"To-dos kann nicht leer sein"},"no_reminders":{"message":"Keine Aufgaben"},"clear_done_todo":{"message":"Erledigte löschen"},"todo_tip_time":{"message":"Erinnerungszeit"},"confirm_delete_done_todos":{"message":"Möchten Sie sicher, dass Sie die fertigen Artikel löschen möchten?"},"add_note":{"message":"Notiz hinzufügen"},"add_first_note":{"message":"Erstellen Sie Ihre erste Notiz"},"set_top":{"message":"Oben"},"cancel_set_top":{"message":"Anheften aufheben"},"note_title":{"message":"Bitte Titel für Notiz eingeben"},"limit_input_length":{"message":"Textlänge außerhalb der Grenze"},"no_title":{"message":"Kein Titel"},"add_link":{"message":"Link hinzufügen"},"please_input_right_link":{"message":"Bitte eine gültige URL eingeben"},"note_upload_img_15":{"message":"die bildgröße nicht über 15 mio"},"confirm_delete_note":{"message":"Löschen von Notizen bestätigen?"},"no_permission_title":{"message":"Diese Erlaubnis wurde noch nicht erteilt"},"no_permission_text":{"message":"Es wird empfohlen, dass Sie versuchen, in die Browser-Adressleiste oder das Settings Center zu gelangen, um diese Erlaubnis zu eröffnen und zu gewähren."},"have_todo_item":{"message":"Sie haben derzeit eine Aufgabe zu tun"},"bind":{"message":"Verknüpfen"},"unbind":{"message":"Löschen"},"unbind_2":{"message":"Trennen"},"unbind_success":{"message":"Erfolgreich gelöscht"},"phone_bind":{"message":"Telefon zuordnen"},"phone_unbind":{"message":"Handy-Nummer entkoppeln"},"email_unbind":{"message":"E-Mail-Adresse trennen"},"phone_unbind_tips":{"message":"Sind Sie sicher, dass Sie die Bindung Ihrer Telefonnummer $phone_number$ aufheben möchten?","placeholders":{"phone_number":{"content":"$1"}}},"confirm_unbind_email":{"message":"Sind Sie sicher, dass Sie die Bindung Ihrer E-Mail $email$ aufheben möchten?","placeholders":{"email":{"content":"$1"}}},"email_bind":{"message":"E-Mail-Bindung"},"verification_code":{"message":"Bestätigungscode"},"bind_success":{"message":"Zuordnung erfolgreich"},"unbind_email_title":{"message":"Verknüpfung der E-Mail Adresse aufgehoben"},"unbind_tips":{"message":"Geben Sie für Ihre Kontosicherheit ein Konto ein Konto ein"},"enter_password_tips":{"message":"Passphrase eingeben"},"enter_verification_code_tips":{"message":"Geben Sie den Bestätigungscode ein"},"email_or_phone_number_tips":{"message":"E-Mail oder Mobiltelefonnummer"},"email_format_error":{"message":"E-Mail-Format ist falsch"},"input_note_content":{"message":"Geben Sie hier die Notizen ein..."},"confirm_unbind":{"message":"Bestätigen Sie das Unbinding?"},"popup_title":{"message":"In der Infinity -Kollektion hinzufügen"},"icon_name":{"message":"Icon-Name"},"add_icon_success":{"message":"erfolgreich hinzugefügt"},"no_more_reminder":{"message":"Nicht erneut anzeigen"},"username_cannot_empty":{"message":"Nutzername darf nicht leer bleiben"},"change_phone":{"message":"Telefonnummer ändern"},"safety_verification":{"message":"Sicherheitsprüfung"},"safety_verification_tips":{"message":"Bitte geben Sie den Bildverifizierungscode ein"},"click_img_to_refresh":{"message":"Klicken Sie auf das Bild, um sich zu aktualisieren"},"modify_email":{"message":"E-Mail ändern"}}
+{
+  "web_name": {
+    "message": "Homepage der Infinity"
+  },
+  "extension_name": {
+    "message": "Infinity New Tab für Mobile"
+  },
+  "extension_short_name": {
+    "message": "Infinity"
+  },
+  "name": {
+    "message": "Infinity New Tab "
+  },
+  "extension_des": {
+    "message": "Passen Sie Ihre neue Registerkarte an. Sie kompatibel mit Kiwi-Browser, Lemurbrowser usw."
+  },
+  "extension_edge_des": {
+    "message": "Passen Sie Ihren neuen Tab an, der jetzt an den mobilen Browser angepasst ist"
+  },
+  "add_to_infinity": {
+    "message": "Infinity Neue Tab-Seite hinzufügen"
+  },
+  "network_error": {
+    "message": "Netzwerkfehler"
+  },
+  "no_description": {
+    "message": "Keine Beschreibung"
+  },
+  "done": {
+    "message": "Fertig"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "confirm": {
+    "message": "Ok"
+  },
+  "folder": {
+    "message": "Ordner"
+  },
+  "add": {
+    "message": "Hinzufügen"
+  },
+  "wallpaper": {
+    "message": "Hintergrund"
+  },
+  "ambiguity": {
+    "message": "Weichzeichnen"
+  },
+  "five_star": {
+    "message": "Bewerte uns mit 5 Sternen"
+  },
+  "follow_us": {
+    "message": "Folge uns"
+  },
+  "about": {
+    "message": "Über"
+  },
+  "about_us": {
+    "message": "Über uns"
+  },
+  "contact_us": {
+    "message": "Kontaktiere uns"
+  },
+  "privacy_policy": {
+    "message": "Datenschutzrichtlinien"
+  },
+  "term_of_use": {
+    "message": "AGB"
+  },
+  "login": {
+    "message": "Anmelden"
+  },
+  "forget_password": {
+    "message": "Passwort vergessen"
+  },
+  "modify_password": {
+    "message": "Passwort ändern"
+  },
+  "welcome_infinity": {
+    "message": "Welcome to Infinity"
+  },
+  "next": {
+    "message": "Weiter"
+  },
+  "login_register": {
+    "message": "Anmelden / Registrieren"
+  },
+  "backup_now": {
+    "message": "Jetzt sichern"
+  },
+  "manage_backup_node": {
+    "message": "Verwalten von History-Backup-Knoten"
+  },
+  "backup_with_device": {
+    "message": "Mit anderen Geräten synchronisieren"
+  },
+  "ensure_logout": {
+    "message": "Bist du sicher, dass du dich abmelden willst?"
+  },
+  "logout_tips": {
+    "message": "Müssen Sie lokale Daten löschen, bevor Sie sich Ihres Kontos abmelden, um Daten aus verschiedenen Konten auf diesem Gerät von der Verbindung zu verhindern?"
+  },
+  "logout_clear_something": {
+    "message": "Klare personalisierte Einstellungen und andere Informationen zu diesem Gerät"
+  },
+  "manul_backup": {
+    "message": "Manueller Backup"
+  },
+  "recover_this": {
+    "message": "Wiederherstellen von diesem Knoten"
+  },
+  "scheduled_backup": {
+    "message": "Sicherung planen"
+  },
+  "current_node": {
+    "message": "Aktueller Knoten"
+  },
+  "mini_mode": {
+    "message": "Minimalistischer Stil"
+  },
+  "hide_search_input": {
+    "message": "Suchbox ausblenden"
+  },
+  "icon": {
+    "message": "Symbol"
+  },
+  "search_input": {
+    "message": "Suchfeld"
+  },
+  "set_setting_default": {
+    "message": "Standard wiederherstellen"
+  },
+  "search_website": {
+    "message": "Nach Websites suchen"
+  },
+  "share_by_user": {
+    "message": "Von anderen Nutzern geteilt"
+  },
+  "application": {
+    "message": "App"
+  },
+  "news": {
+    "message": "Nachrichten"
+  },
+  "photos": {
+    "message": "Bilder"
+  },
+  "finance": {
+    "message": "Finanzen"
+  },
+  "read": {
+    "message": "Lesen"
+  },
+  "others": {
+    "message": "Sonstige"
+  },
+  "account_format_error": {
+    "message": "Konto mit falschem Format"
+  },
+  "password_dont_empty": {
+    "message": "Das Passwortfeld darf nicht leer sein"
+  },
+  "reset_password_tips": {
+    "message": "Überprüfen Sie Ihr Passwort per E-Mail oder Mobiltelefonnummer"
+  },
+  "email_code": {
+    "message": "E-Mail-Verifizierung"
+  },
+  "baidu": {
+    "message": "Baidu"
+  },
+  "most_used_in_chinese": {
+    "message": "Die Suchmaschine benutzte am meisten von Chinesisch"
+  },
+  "html": {
+    "message": "Webseite"
+  },
+  "videos": {
+    "message": "Videos"
+  },
+  "map": {
+    "message": "Maps"
+  },
+  "google": {
+    "message": "Google"
+  },
+  "google_desc": {
+    "message": "Die Google-Suche ist eine von Google entwickelte Suchmaschine. Es ist die größte, einflussreichste Suchmaschine im Internet"
+  },
+  "bing": {
+    "message": "Bing"
+  },
+  "bing_desc": {
+    "message": "Bing ist eine von Microsoft entwickelte Suchmaschinen"
+  },
+  "yahoo": {
+    "message": "Yahoo"
+  },
+  "yahoo_desc": {
+    "message": "Yahoo-Suche ist eine von Yahoo betriebene Suchmaschine"
+  },
+  "yandex_desc": {
+    "message": "Yandex ist eines der wichtigsten Internet-Service-Portale in Russland"
+  },
+  "yandex": {
+    "message": "Yandex"
+  },
+  "duckduckgo": {
+    "message": "DuckDuckGo"
+  },
+  "duckduckgo_desc": {
+    "message": "Duckduckgo konzentriert sich auf den Import von Inhalten von den wichtigsten Web 2.0-Websites, außerdem ein traditioneller Suchmaschinen ist, ist die Philosophie der Website, die Privatsphäre der Benutzer zu respektieren, und vielversprechend, um den Inhalt nicht zu überwachen oder zu dokumentieren."
+  },
+  "n_360": {
+    "message": "360 Search"
+  },
+  "360_desc": {
+    "message": "Sichere Suchmaschine"
+  },
+  "sougou": {
+    "message": "Sogou"
+  },
+  "sougou_desc": {
+    "message": "Suchmaschine, die nach Inhalte suchen kann, die von Wechat offiziellen Konten gepostet hat"
+  },
+  "yarndex_ru": {
+    "message": "YandexRU"
+  },
+  "chrome_app_store": {
+    "message": "Chrome Web Store - Erweiterungen"
+  },
+  "exfans": {
+    "message": "Extfans"
+  },
+  "tian_mao": {
+    "message": "TMall"
+  },
+  "jindong_shopping": {
+    "message": "Jingdong"
+  },
+  "xie_cheng": {
+    "message": "Ctrip"
+  },
+  "i_taobao": {
+    "message": "taobao"
+  },
+  "no_data": {
+    "message": "Keine Daten"
+  },
+  "edit_icon": {
+    "message": "Symbol bearbeiten"
+  },
+  "confirm_cover_remote": {
+    "message": "Lokale Daten werden in einem manuellen Sicherungsknoten gespeichert"
+  },
+  "del_folder": {
+    "message": "Löschen"
+  },
+  "reset_password": {
+    "message": "Passwörter zurücksetzen"
+  },
+  "wallpaper_library": {
+    "message": "Hintergrund-Bibliothek"
+  },
+  "notes": {
+    "message": "Notizen"
+  },
+  "weather": {
+    "message": "Wetter"
+  },
+  "history": {
+    "message": "Verlauf"
+  },
+  "bookmarks": {
+    "message": "Lesezeichen"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "extension": {
+    "message": "Erweiterungen"
+  },
+  "todos": {
+    "message": "Aufgaben"
+  },
+  "infinity_wallpaper": {
+    "message": "Infinity Wallpaper Library bietet Ihnen reiche und aufregende Tapeten"
+  },
+  "infinity_extension": {
+    "message": "Verwalten Sie Ihre $browser$-Erweiterungen und -Apps einfach mit Infinity Extension Manager",
+    "placeholders": {
+      "browser": {
+        "content": "$1"
+      }
+    }
+  },
+  "infinity_weather": {
+    "message": "Infinity-Wetter bietet Ihnen Wettervorhersagen von Städten auf der ganzen Welt"
+  },
+  "infinity_history": {
+    "message": "Schnell ansehen und verwalten Sie Ihre Browsergeschichte mit der Infinity-Historie"
+  },
+  "infinity_bookmarks": {
+    "message": "Flogen Sie Ihre Bookmark-Ordnerhierarchie und finden Sie Lesezeichen noch einfacher mit der Infinity-Lesezeichen"
+  },
+  "infinity_settings": {
+    "message": "Personalisieren Sie Ihre Infinity-Registerkarte mit der Infinity-Registerkarte mit Infinity-Einstellungen"
+  },
+  "infinity_notes": {
+    "message": "Notieren Sie die Inspirationen des Lebens schnell mit Infinity-Notizen"
+  },
+  "infinity_todos": {
+    "message": "Ordnen Sie Ihre Aufgaben in der Reihenfolge an und verbessern Sie Ihre Arbeitseffizienz mit der Infinity-To-Do-Liste"
+  },
+  "reqeust_login_message": {
+    "message": "Um diese Funktion nutzen zu können, musst du angemeldet sein"
+  },
+  "send_success": {
+    "message": "Bestätigungs-E-Mail gesendet. Bitte Nachrichteneingang überprüfen"
+  },
+  "hint": {
+    "message": "Trinkgeld"
+  },
+  "request_logout_confirm": {
+    "message": "Dein Konto löschen?"
+  },
+  "edit_avatar": {
+    "message": "Avatar bearbeiten"
+  },
+  "upload_avatar_failure": {
+    "message": "Fehler beim Hochladen Ihres Avatar-Bildes"
+  },
+  "qq_zone": {
+    "message": "Qzone"
+  },
+  "douban": {
+    "message": "Douban"
+  },
+  "xin_lang_weibo": {
+    "message": "Weibo"
+  },
+  "confirm_recovery_data": {
+    "message": "Cloud-Daten ersetzen lokale Daten. Bist du sicher über diese Aktion?"
+  },
+  "use_local": {
+    "message": "Verwenden Sie lokale Daten"
+  },
+  "use_cloud": {
+    "message": "Verwenden Sie Cloud-Daten"
+  },
+  "revovery_data": {
+    "message": "Daten wiederherstellen"
+  },
+  "color_icon": {
+    "message": "Massivfarbsymbol"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "icon_all": {
+    "message": "Alle"
+  },
+  "most_popular": {
+    "message": "Am Beliebtesten"
+  },
+  "video_type": {
+    "message": "Audio und Video"
+  },
+  "shopping_type": {
+    "message": "Shopping"
+  },
+  "social_type": {
+    "message": "Soziales"
+  },
+  "travel_type": {
+    "message": "Reise"
+  },
+  "life_type": {
+    "message": "Leben"
+  },
+  "game_type": {
+    "message": "Spiele"
+  },
+  "education_type": {
+    "message": "Bildung"
+  },
+  "tech_type": {
+    "message": "Tech"
+  },
+  "experience_without_login": {
+    "message": "Testen"
+  },
+  "relogin_des": {
+    "message": "Das Konto ist ungültig. Melden Sie sich erneut an."
+  },
+  "relogin_out": {
+    "message": "Abmelden"
+  },
+  "sync_check_data": {
+    "message": "Auswahl der Kontodaten"
+  },
+  "sync_use_merge": {
+    "message": "Zusammenführen von lokalen und Cloud-Daten"
+  },
+  "sync_login_tips": {
+    "message": "Vi anbefaler, at du først logger ind på din konto_#_for at få kontodata og synkronisere med andre enheder"
+  },
+  "please_input_url": {
+    "message": "Bitte geben Sie die URL ein"
+  },
+  "please_input_url_search": {
+    "message": "Bitte geben Sie die URL ein (verwenden Sie%s anstelle von Suchbegriffen)"
+  },
+  "please_input_name": {
+    "message": "Bitte einen Namen angeben"
+  },
+  "online_icon_tab": {
+    "message": "Online-Symbol"
+  },
+  "local_upload": {
+    "message": "Hochladen"
+  },
+  "url_error_tips1": {
+    "message": "URL muss%s Zeichen enthalten"
+  },
+  "url_errror_tips_2": {
+    "message": "geben sie eine url-adresse ein"
+  },
+  "please_select_icon": {
+    "message": "Bitte wählen Sie das Symbol"
+  },
+  "text_icon_des": {
+    "message": "Text des Symbols, 1-2 Zeichen empfohlen"
+  },
+  "rollback_cropper": {
+    "message": "Rückgängig machen"
+  },
+  "custom_add_icon": {
+    "message": "Benutzerdefiniertes Hinzufügen"
+  },
+  "fetching_icon": {
+    "message": "Übertragen..."
+  },
+  "add_success": {
+    "message": "Erfolgreich hinzugefügt!"
+  },
+  "all_store": {
+    "message": "Favoritinnen"
+  },
+  "search_manage": {
+    "message": "Suchmaschinenmanagement"
+  },
+  "account_or_password_error": {
+    "message": "Nutzername oder Passwort inkorrekt!"
+  },
+  "tologin": {
+    "message": "Melden Sie sich jetzt an, um noch mehr Funktionen zu erleben"
+  },
+  "rigester_account": {
+    "message": "Konto registrieren"
+  },
+  "other_login_type": {
+    "message": "Andere Wege einloggen"
+  },
+  "please_input_and_continue": {
+    "message": "Bitte geben Sie die Validierung ein und schließen Sie sie ab, bevor Sie fortfahren"
+  },
+  "register_infinity": {
+    "message": "Registrieren Sie Infinity"
+  },
+  "password_less": {
+    "message": "Gebe ein Passwort mit mehr als 6 Zeichen ein"
+  },
+  "password_different": {
+    "message": "Die Passwörter stimmen nicht überein"
+  },
+  "please_set_password": {
+    "message": "Bitte ein Passwort festlegen"
+  },
+  "last_step": {
+    "message": "Vorheriger Schritt"
+  },
+  "reset_password_des": {
+    "message": "Setzen Sie Ihr neues Passwort zurück"
+  },
+  "setting_done": {
+    "message": "Einstellungen"
+  },
+  "feed_back": {
+    "message": "Feedback"
+  },
+  "wallpaper_center": {
+    "message": "Wallpaper Center"
+  },
+  "share_to_friends": {
+    "message": "Teilen"
+  },
+  "official_community": {
+    "message": "Offizielle Community"
+  },
+  "weixin_public_account": {
+    "message": "WeChat"
+  },
+  "enjoy_right_now": {
+    "message": "Genießen Sie sofort mehr Aufregung"
+  },
+  "shared_to": {
+    "message": "Teilen mit"
+  },
+  "whether_to_reset_all_setting": {
+    "message": "Alle Einstellungen zurücksetzen?"
+  },
+  "newtab_open": {
+    "message": "Öffnen Sie die Website auf neuer Registerkarte"
+  },
+  "newtab_open_search": {
+    "message": "Suchergebnis auf neuer Registerkarte anzeigen"
+  },
+  "icon_shape": {
+    "message": "Icon-Form"
+  },
+  "history_backup": {
+    "message": "Backup-Chronik"
+  },
+  "modify_nickname": {
+    "message": "Alias bearbeiten"
+  },
+  "modify_password_success": {
+    "message": "Passwort erfolgreich geändert"
+  },
+  "please_input_origin_password": {
+    "message": "Bitte geben Sie den Originalcode ein"
+  },
+  "please_input_new_password": {
+    "message": "Gib ein neues Passwort ein"
+  },
+  "please_input_new_password_2": {
+    "message": "Geben Sie das neue Kennwort noch einmal ein."
+  },
+  "modify_info": {
+    "message": "Profil bearbeiten"
+  },
+  "nickname": {
+    "message": "Spitzname"
+  },
+  "delete_account": {
+    "message": "Account löschen"
+  },
+  "logout_account": {
+    "message": "Abmelden"
+  },
+  "setting_fail": {
+    "message": "Einrichtung fehlgeschlagen"
+  },
+  "store_success": {
+    "message": "Zu Favoriten hinzugefügt"
+  },
+  "cancel_store_success": {
+    "message": "Gelöscht"
+  },
+  "mask": {
+    "message": "Maskieren"
+  },
+  "collection": {
+    "message": "Sammlungen"
+  },
+  "the_end": {
+    "message": "Keine Artikel mehr"
+  },
+  "icon_no_pic": {
+    "message": "Kein verwandtes Symbol wurde noch nicht abgestimmt~"
+  },
+  "search_from": {
+    "message": "Suche von: "
+  },
+  "edge_app_store": {
+    "message": "Edge add-on"
+  },
+  "firefox_app_store": {
+    "message": "Firefox Add-on-Store"
+  },
+  "version_does_not_support_this_feature": {
+    "message": "Die aktuelle Version unterstützt diese Funktion nicht!"
+  },
+  "open_failed": {
+    "message": "Gescheitert zu öffnen"
+  },
+  "default": {
+    "message": "Standardeinstellung"
+  },
+  "custom": {
+    "message": "Anpassen"
+  },
+  "attach": {
+    "message": "Anhang"
+  },
+  "custom_search_engine": {
+    "message": "Benutzerdefinierte Suchmaschine"
+  },
+  "attch_search_engine": {
+    "message": "Angepasste Suchmaschine"
+  },
+  "edit_custom_search_engine": {
+    "message": "Benutzerdefinierte Suchmaschine bearbeiten"
+  },
+  "email": {
+    "message": "E-Mail"
+  },
+  "password": {
+    "message": "Passwort"
+  },
+  "new_password": {
+    "message": "Neues Passwort eingeben"
+  },
+  "confirm_password": {
+    "message": "Passwort bestätigen"
+  },
+  "chrome": {
+    "message": "Chrome"
+  },
+  "edge": {
+    "message": "Microsoft Edge"
+  },
+  "firefox": {
+    "message": "Firefox"
+  },
+  "not_support_title": {
+    "message": "Fehleranzeige auf Seite"
+  },
+  "not_support_text": {
+    "message": "Damit Sie Infinity Experience_#_empfohlen, um Ihren Browser auf die neueste Version zu aktualisieren, empfehlen Sie den Browser, der mit Infinity kompatibel ist"
+  },
+  "failure": {
+    "message": "fehlgeschlagen"
+  },
+  "qq_group": {
+    "message": "Neue Registerkarte Seite 2 Gruppe"
+  },
+  "fb_group": {
+    "message": "Treten Sie der Facebook-Gruppe bei und chatten Sie mit jedem!"
+  },
+  "switch_failed": {
+    "message": "Umstellen fehlgeschlagen"
+  },
+  "nature": {
+    "message": "Natur"
+  },
+  "ocean": {
+    "message": "Ozean"
+  },
+  "architecture": {
+    "message": "Architektur"
+  },
+  "animals": {
+    "message": "Tier"
+  },
+  "travel": {
+    "message": "Reisen"
+  },
+  "food_drink": {
+    "message": "Essen"
+  },
+  "anime": {
+    "message": "Comics"
+  },
+  "athletics": {
+    "message": "Sport"
+  },
+  "technology": {
+    "message": "Technik"
+  },
+  "street_photography": {
+    "message": "Straße"
+  },
+  "experience_mode_tips": {
+    "message": "Im Erstellungsmodus werden die von Ihnen generierten Daten nicht mit anderen Geräten synchronisiert und können verloren gehen"
+  },
+  "qq_group_dialog_tips": {
+    "message": "Kopieren Sie die Gruppennummer und fahren fort"
+  },
+  "fb_group_dialog_tips": {
+    "message": "Link kopieren und fortfahren"
+  },
+  "delete_account_dialog_tips": {
+    "message": "Nach dem Löschen des Kontos werden alle Geräte gemäß diesem Konto entfernt (Anmerkungen und Bilder in der benutzerdefinierten Tapetenbibliothek werden möglicherweise unbrauchbar)"
+  },
+  "verity_code": {
+    "message": "Bestätigungscode senden"
+  },
+  "edit": {
+    "message": "Bearbeiten"
+  },
+  "no_collect_wallpaper_tips": {
+    "message": "Sie haben noch keine Tapete gesammelt"
+  },
+  "no_custom_search_engine_tips": {
+    "message": "Benutzerdefinierte Suchmaschine wurde noch nicht hinzugefügt"
+  },
+  "no_attach_search_engine_tips": {
+    "message": "Es wurde noch keine zusätzliche Suchmaschine hinzugefügt"
+  },
+  "login_failure": {
+    "message": "Anmeldung fehlgeschlagen"
+  },
+  "choose_user": {
+    "message": "Konto auswählen"
+  },
+  "upload_failure": {
+    "message": "Upload fehlgeschlagen"
+  },
+  "uploading": {
+    "message": "Wird hochgeladen"
+  },
+  "cancel_upload": {
+    "message": "Upload abbrechen"
+  },
+  "loading": {
+    "message": "Wird geladen"
+  },
+  "load_failure": {
+    "message": "Beim Laden ist ein Fehler aufgetreten"
+  },
+  "wallpaper_upload_file_size_exceed": {
+    "message": "Datei-Upload fehlgeschlagen. Grund: Größe überschreitet die Grenze"
+  },
+  "icon_network_error": {
+    "message": "Netzwerkausnahmefehler, zum Neuladen klicken"
+  },
+  "discover": {
+    "message": "Entdecken"
+  },
+  "backup_failed": {
+    "message": "Sicherung fehlgeschlagen"
+  },
+  "download_failure": {
+    "message": "Downloadfehler"
+  },
+  "search": {
+    "message": "Suche"
+  },
+  "current_wallpaper": {
+    "message": "Aktuell"
+  },
+  "cancel_collect": {
+    "message": "Aus Favoriten entfernen"
+  },
+  "qq_login_not_supported": {
+    "message": "QQ-Login wird im Desktop-Modus nicht unterstützt"
+  },
+  "search_engine_error": {
+    "message": "Name der Suchmaschine eingeben"
+  },
+  "cannot_change_profile": {
+    "message": "Benutzer von Drittanbietern, die sich anmelden, können die Profilinformationen nicht ändern"
+  },
+  "password_not_some": {
+    "message": "Die eingegebenen Passwörter stimmen nicht überein."
+  },
+  "no_permission": {
+    "message": "Keine Berechtigung"
+  },
+  "qrcode_success": {
+    "message": "Scan erfolgreich"
+  },
+  "qrcode_failed": {
+    "message": "Scannen fehlgeschlagen."
+  },
+  "camera_not_found": {
+    "message": "Kamera kann nicht gefunden werden"
+  },
+  "qrcode_login": {
+    "message": "Scannen Sie den QR-Code, um sich anzumelden"
+  },
+  "phone_number": {
+    "message": "Handynummer"
+  },
+  "password_login": {
+    "message": "Anmelden per Passwort"
+  },
+  "phone_login": {
+    "message": "Mobil-Anmeldung"
+  },
+  "enter_valid_phone_tips": {
+    "message": "Bitte gib die richtige Telefonnummer ein"
+  },
+  "enter_valid_email_tips": {
+    "message": "Geben Sie eine richtige E-Mail-Adresse ein"
+  },
+  "third_party": {
+    "message": "Konten von Drittanbietern"
+  },
+  "add_todo": {
+    "message": "Neue To-Do hinzufügen"
+  },
+  "todo_content": {
+    "message": "To-Do-Listen"
+  },
+  "todo_dont_empty": {
+    "message": "To-dos kann nicht leer sein"
+  },
+  "no_reminders": {
+    "message": "Keine Aufgaben"
+  },
+  "clear_done_todo": {
+    "message": "Erledigte löschen"
+  },
+  "todo_tip_time": {
+    "message": "Erinnerungszeit"
+  },
+  "confirm_delete_done_todos": {
+    "message": "Möchten Sie sicher, dass Sie die fertigen Artikel löschen möchten?"
+  },
+  "add_note": {
+    "message": "Notiz hinzufügen"
+  },
+  "add_first_note": {
+    "message": "Erstellen Sie Ihre erste Notiz"
+  },
+  "set_top": {
+    "message": "Oben"
+  },
+  "cancel_set_top": {
+    "message": "Anheften aufheben"
+  },
+  "note_title": {
+    "message": "Bitte Titel für Notiz eingeben"
+  },
+  "limit_input_length": {
+    "message": "Textlänge außerhalb der Grenze"
+  },
+  "no_title": {
+    "message": "Kein Titel"
+  },
+  "add_link": {
+    "message": "Link hinzufügen"
+  },
+  "please_input_right_link": {
+    "message": "Bitte eine gültige URL eingeben"
+  },
+  "note_upload_img_15": {
+    "message": "die bildgröße nicht über 15 mio"
+  },
+  "confirm_delete_note": {
+    "message": "Löschen von Notizen bestätigen?"
+  },
+  "no_permission_title": {
+    "message": "Diese Erlaubnis wurde noch nicht erteilt"
+  },
+  "no_permission_text": {
+    "message": "Es wird empfohlen, dass Sie versuchen, in die Browser-Adressleiste oder das Settings Center zu gelangen, um diese Erlaubnis zu eröffnen und zu gewähren."
+  },
+  "have_todo_item": {
+    "message": "Sie haben derzeit eine Aufgabe zu tun"
+  },
+  "bind": {
+    "message": "Verknüpfen"
+  },
+  "unbind": {
+    "message": "Löschen"
+  },
+  "unbind_2": {
+    "message": "Trennen"
+  },
+  "unbind_success": {
+    "message": "Erfolgreich gelöscht"
+  },
+  "phone_bind": {
+    "message": "Telefon zuordnen"
+  },
+  "phone_unbind": {
+    "message": "Handy-Nummer entkoppeln"
+  },
+  "email_unbind": {
+    "message": "E-Mail-Adresse trennen"
+  },
+  "phone_unbind_tips": {
+    "message": "Sind Sie sicher, dass Sie die Bindung Ihrer Telefonnummer $phone_number$ aufheben möchten?",
+    "placeholders": {
+      "phone_number": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirm_unbind_email": {
+    "message": "Sind Sie sicher, dass Sie die Bindung Ihrer E-Mail $email$ aufheben möchten?",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "email_bind": {
+    "message": "E-Mail-Bindung"
+  },
+  "verification_code": {
+    "message": "Bestätigungscode"
+  },
+  "bind_success": {
+    "message": "Zuordnung erfolgreich"
+  },
+  "unbind_email_title": {
+    "message": "Verknüpfung der E-Mail Adresse aufgehoben"
+  },
+  "unbind_tips": {
+    "message": "Geben Sie für Ihre Kontosicherheit ein Konto ein Konto ein"
+  },
+  "enter_password_tips": {
+    "message": "Passphrase eingeben"
+  },
+  "enter_verification_code_tips": {
+    "message": "Geben Sie den Bestätigungscode ein"
+  },
+  "email_or_phone_number_tips": {
+    "message": "E-Mail oder Mobiltelefonnummer"
+  },
+  "email_format_error": {
+    "message": "E-Mail-Format ist falsch"
+  },
+  "input_note_content": {
+    "message": "Geben Sie hier die Notizen ein..."
+  },
+  "confirm_unbind": {
+    "message": "Bestätigen Sie das Unbinding?"
+  },
+  "popup_title": {
+    "message": "In der Infinity -Kollektion hinzufügen"
+  },
+  "icon_name": {
+    "message": "Icon-Name"
+  },
+  "add_icon_success": {
+    "message": "erfolgreich hinzugefügt"
+  },
+  "no_more_reminder": {
+    "message": "Nicht erneut anzeigen"
+  },
+  "username_cannot_empty": {
+    "message": "Nutzername darf nicht leer bleiben"
+  },
+  "change_phone": {
+    "message": "Telefonnummer ändern"
+  },
+  "safety_verification": {
+    "message": "Sicherheitsprüfung"
+  },
+  "safety_verification_tips": {
+    "message": "Bitte geben Sie den Bildverifizierungscode ein"
+  },
+  "click_img_to_refresh": {
+    "message": "Klicken Sie auf das Bild, um sich zu aktualisieren"
+  },
+  "modify_email": {
+    "message": "E-Mail ändern"
+  },
+  "search_placeholder": {
+    "message": "Im Web suchen..."
+  },
+  "your_shortcuts": {
+    "message": "Deine Shortcuts"
+  },
+  "wallpaper_title": {
+    "message": "Hintergrundbild"
+  },
+  "no_wallpaper": {
+    "message": "Kein Hintergrundbild"
+  },
+  "upload_wallpaper": {
+    "message": "Hintergrundbild hochladen"
+  },
+  "mask_opacity": {
+    "message": "Maskenopazität"
+  },
+  "wallpaper_blur": {
+    "message": "Unschärfe"
+  },
+  "settings_title": {
+    "message": "Einstellungen"
+  },
+  "settings_appearance": {
+    "message": "Aussehen"
+  },
+  "settings_wallpaper": {
+    "message": "Hintergrundbild"
+  },
+  "settings_search_radius": {
+    "message": "Suchfeld-Ecken"
+  },
+  "settings_icon_radius": {
+    "message": "Icon-Ecken"
+  },
+  "settings_widgets": {
+    "message": "Widgets"
+  },
+  "settings_show_search": {
+    "message": "Suchleiste anzeigen"
+  },
+  "settings_show_clock": {
+    "message": "Uhr anzeigen"
+  },
+  "settings_show_sites": {
+    "message": "Shortcuts anzeigen"
+  },
+  "settings_account": {
+    "message": "Konto"
+  },
+  "settings_login": {
+    "message": "Anmelden"
+  },
+  "settings_sync": {
+    "message": "Synchronisieren"
+  },
+  "settings_other": {
+    "message": "Sonstiges"
+  },
+  "settings_language": {
+    "message": "Sprache"
+  },
+  "settings_about": {
+    "message": "Über"
+  },
+  "settings_third_party": {
+    "message": "Drittanbieter-Lizenzen"
+  },
+  "settings_user_title": {
+    "message": "Profil"
+  },
+  "sync_title": {
+    "message": "Synchronisieren"
+  },
+  "sync_last_synced": {
+    "message": "Zuletzt synchronisiert"
+  },
+  "sync_status": {
+    "message": "Status"
+  },
+  "sync_push": {
+    "message": "In die Cloud pushen"
+  },
+  "sync_pull": {
+    "message": "Aus der Cloud holen"
+  },
+  "sync_pending_restore_notice": {
+    "message": "Cloud-Daten ausstehend. Anwenden oder verwerfen?"
+  },
+  "sync_apply_restore": {
+    "message": "Cloud-Daten anwenden"
+  },
+  "sync_discard_restore": {
+    "message": "Verwerfen"
+  },
+  "sync_push_success": {
+    "message": "In die Cloud gepusht"
+  },
+  "sync_push_failed": {
+    "message": "Push fehlgeschlagen"
+  },
+  "sync_pull_success": {
+    "message": "Aus der Cloud geholt"
+  },
+  "sync_pull_failed": {
+    "message": "Abruf fehlgeschlagen"
+  },
+  "sync_restore_applied": {
+    "message": "Cloud-Daten angewendet"
+  },
+  "never": {
+    "message": "Nie"
+  },
+  "login_title": {
+    "message": "Anmelden"
+  },
+  "login_account": {
+    "message": "Konto"
+  },
+  "login_account_placeholder": {
+    "message": "E-Mail oder Telefonnummer"
+  },
+  "login_password": {
+    "message": "Passwort"
+  },
+  "login_password_placeholder": {
+    "message": "Passwort eingeben"
+  },
+  "login_submit": {
+    "message": "Anmelden"
+  },
+  "login_forgot_password": {
+    "message": "Passwort vergessen?"
+  },
+  "register_title": {
+    "message": "Konto erstellen"
+  },
+  "register_username": {
+    "message": "Benutzername"
+  },
+  "register_username_placeholder": {
+    "message": "Benutzernamen eingeben"
+  },
+  "register_account": {
+    "message": "E-Mail / Telefon"
+  },
+  "register_account_placeholder": {
+    "message": "E-Mail oder Telefonnummer"
+  },
+  "register_password": {
+    "message": "Passwort"
+  },
+  "register_password_placeholder": {
+    "message": "Passwort eingeben"
+  },
+  "register_code": {
+    "message": "Bestätigungscode"
+  },
+  "register_code_placeholder": {
+    "message": "Bestätigungscode eingeben"
+  },
+  "register_submit": {
+    "message": "Registrieren"
+  },
+  "reset_password_title": {
+    "message": "Passwort zurücksetzen"
+  },
+  "reset_account": {
+    "message": "E-Mail / Telefon"
+  },
+  "reset_account_placeholder": {
+    "message": "E-Mail oder Telefonnummer"
+  },
+  "reset_code": {
+    "message": "Bestätigungscode"
+  },
+  "reset_code_placeholder": {
+    "message": "Bestätigungscode eingeben"
+  },
+  "reset_new_password": {
+    "message": "Neues Passwort"
+  },
+  "reset_new_password_placeholder": {
+    "message": "Neues Passwort eingeben"
+  },
+  "reset_submit": {
+    "message": "Senden"
+  },
+  "reset_failed": {
+    "message": "Zurücksetzen fehlgeschlagen"
+  },
+  "reset_success": {
+    "message": "Passwort erfolgreich zurückgesetzt"
+  },
+  "change_email_title": {
+    "message": "E-Mail ändern"
+  },
+  "change_email_new": {
+    "message": "Neue E-Mail"
+  },
+  "change_email_placeholder": {
+    "message": "Neue E-Mail-Adresse eingeben"
+  },
+  "change_email_code": {
+    "message": "Bestätigungscode"
+  },
+  "change_phone_title": {
+    "message": "Telefon ändern"
+  },
+  "change_phone_new": {
+    "message": "Neue Telefonnummer"
+  },
+  "change_phone_placeholder": {
+    "message": "Telefonnummer eingeben"
+  },
+  "change_phone_code": {
+    "message": "Bestätigungscode"
+  },
+  "change_submit": {
+    "message": "Senden"
+  },
+  "change_success": {
+    "message": "Erfolgreich geändert"
+  },
+  "change_failed": {
+    "message": "Änderung fehlgeschlagen"
+  },
+  "change_code_placeholder": {
+    "message": "Bestätigungscode eingeben"
+  },
+  "change": {
+    "message": "Ändern"
+  },
+  "send_code": {
+    "message": "Code senden"
+  },
+  "send_code_failed": {
+    "message": "Code konnte nicht gesendet werden"
+  },
+  "code_sent": {
+    "message": "Code gesendet"
+  },
+  "set_password_title": {
+    "message": "Passwort ändern"
+  },
+  "set_password_old": {
+    "message": "Aktuelles Passwort"
+  },
+  "set_password_old_placeholder": {
+    "message": "Aktuelles Passwort eingeben"
+  },
+  "set_password_new": {
+    "message": "Neues Passwort"
+  },
+  "set_password_new_placeholder": {
+    "message": "Neues Passwort eingeben"
+  },
+  "set_password_confirm": {
+    "message": "Passwort bestätigen"
+  },
+  "set_password_confirm_placeholder": {
+    "message": "Neues Passwort erneut eingeben"
+  },
+  "set_password_submit": {
+    "message": "Senden"
+  },
+  "set_password_success": {
+    "message": "Passwort geändert"
+  },
+  "set_password_failed": {
+    "message": "Passwort konnte nicht geändert werden"
+  },
+  "not_support_desc": {
+    "message": "Bitte aktualisiere deinen Browser auf die neueste Version."
+  },
+  "not_support_download_chrome": {
+    "message": "Chrome herunterladen"
+  },
+  "not_support_download_firefox": {
+    "message": "Firefox herunterladen"
+  },
+  "about_title": {
+    "message": "Über"
+  },
+  "about_website": {
+    "message": "Offizielle Website"
+  },
+  "about_feedback": {
+    "message": "Feedback"
+  },
+  "about_rate": {
+    "message": "Bewerte uns"
+  },
+  "about_follow_wechat": {
+    "message": "Folge uns auf WeChat"
+  },
+  "about_privacy": {
+    "message": "Datenschutzrichtlinie"
+  },
+  "language_title": {
+    "message": "Sprache"
+  },
+  "language_changed": {
+    "message": "Sprache aktualisiert"
+  },
+  "third_party_title": {
+    "message": "Drittanbieter-Lizenzen"
+  },
+  "popup_open_newtab": {
+    "message": "Neuen Tab öffnen"
+  },
+  "popup_open_settings": {
+    "message": "Einstellungen"
+  },
+  "popup_footer": {
+    "message": "Infinity Neuer Tab"
+  },
+  "account_required": {
+    "message": "Bitte Konto eingeben"
+  },
+  "field_required": {
+    "message": "Dieses Feld ist erforderlich"
+  },
+  "email_invalid": {
+    "message": "Ungültige E-Mail-Adresse"
+  },
+  "password_mismatch": {
+    "message": "Passwörter stimmen nicht überein"
+  },
+  "password_too_short": {
+    "message": "Passwort muss mindestens 6 Zeichen lang sein"
+  },
+  "user_email": {
+    "message": "E-Mail"
+  },
+  "user_phone": {
+    "message": "Telefon"
+  },
+  "user_password": {
+    "message": "Passwort"
+  },
+  "logout": {
+    "message": "Abmelden"
+  },
+  "logout_confirm": {
+    "message": "Möchtest du dich wirklich abmelden?"
+  },
+  "not_set": {
+    "message": "Nicht festgelegt"
+  }
+}

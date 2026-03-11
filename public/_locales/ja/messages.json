@@ -1,1 +1,1307 @@
-{"web_name":{"message":"Infinity ホームページ"},"extension_name":{"message":"Infinityモバイル版の新タブ"},"extension_short_name":{"message":"Infinity"},"name":{"message":"Infinity New Tab "},"extension_des":{"message":"新しいタブページをカスタマイズします.Kiwiブラウザ、Lemurブラウザなどと互換性があります。"},"extension_edge_des":{"message":"カスタマイズは、現在のモバイルブラウザに適応されている新しいタブ"},"add_to_infinity":{"message":"Infinityに追加する新しいタブページ"},"network_error":{"message":"ネットワーク エラー"},"no_description":{"message":"説明がありません"},"done":{"message":"完了"},"cancel":{"message":"キャンセル"},"confirm":{"message":"OK"},"folder":{"message":"フォルダ"},"add":{"message":"追加"},"wallpaper":{"message":"壁紙"},"ambiguity":{"message":"ブラー"},"five_star":{"message":"5つ星の評価をします。"},"follow_us":{"message":"フォロー"},"about":{"message":"概要"},"about_us":{"message":"情報"},"contact_us":{"message":"お問い合わせ"},"privacy_policy":{"message":"プライバシーポリシー"},"term_of_use":{"message":"利用規約"},"login":{"message":"ログイン"},"forget_password":{"message":"忘れたパスワード"},"modify_password":{"message":"パスワードを編集"},"welcome_infinity":{"message":"Welcome to Infinity"},"next":{"message":"次へ"},"login_register":{"message":"ログイン / 無料登録"},"backup_now":{"message":"今すぐバックアップ"},"manage_backup_node":{"message":"履歴バックアップノードを管理します"},"backup_with_device":{"message":"他のデバイスと同期"},"ensure_logout":{"message":"本当にログアウトしますか？"},"logout_tips":{"message":"接続からこのデバイスのさまざまなアカウントからのデータを防ぐために、アカウントからログアウトする前にローカルデータを消去する必要がありますか？"},"logout_clear_something":{"message":"このデバイスのパーソナライズ設定とその他の情報をクリアします"},"manul_backup":{"message":"手動バックアップ"},"recover_this":{"message":"このノードから回復します"},"scheduled_backup":{"message":"スケジュールのバックアップ"},"current_node":{"message":"現在のノード"},"mini_mode":{"message":"ミニマリストモード"},"hide_search_input":{"message":"検索ボックスを隠す"},"icon":{"message":"アイコン"},"search_input":{"message":"検索ボックス"},"set_setting_default":{"message":"既定のスタイルに戻す"},"search_website":{"message":"サイトの検索"},"share_by_user":{"message":"ユーザのシェア"},"application":{"message":"アプリケーション"},"news":{"message":"ニュース"},"photos":{"message":"画像"},"finance":{"message":"ファイナンス"},"read":{"message":"読む"},"others":{"message":"その他"},"account_format_error":{"message":"間違った形式のアカウント"},"password_dont_empty":{"message":"パスワードを空白にすることはできません"},"reset_password_tips":{"message":"電子メールまたは携帯電話番号でパスワードを確認してください"},"email_code":{"message":"メール認証コード"},"baidu":{"message":"Baidu"},"most_used_in_chinese":{"message":"検索エンジンは中国語で最もよく使用されました"},"html":{"message":"Web"},"videos":{"message":"動画"},"map":{"message":"マップ"},"google":{"message":"Google"},"google_desc":{"message":"Google SearchはGoogleによって開発された検索エンジンです。 それはインターネット上で最大の最も影響力のある検索エンジンです"},"bing":{"message":"Bing"},"bing_desc":{"message":"BingはMicrosoftによって開発された検索エンジンです"},"yahoo":{"message":"ヤフー"},"yahoo_desc":{"message":"Yahoo SearchはYahooによって運営されている検索エンジンです"},"yandex_desc":{"message":"Yandexはロシアの最も重要なインターネットサービスポータルの1つです。"},"yandex":{"message":"Yandex"},"duckduckgo":{"message":"DuckDuckGo"},"duckduckgo_desc":{"message":"Duckduckgoは、主要なWeb 2.0サイトからのコンテンツの輸入に焦点を当てています。伝統的な検索エンジンであって、Webサイトの哲学はユーザーのプライバシーを尊重し、検索内容を監視または文書化しないことを約束します。"},"n_360":{"message":"360 Search"},"360_desc":{"message":"安全検索エンジン"},"sougou":{"message":"Sogou"},"sougou_desc":{"message":"WeChatの公式アカウントが投稿する内容を検索できる検索エンジン"},"yarndex_ru":{"message":"YandexRU"},"chrome_app_store":{"message":"Chrome Web Store  - 拡張子"},"exfans":{"message":"Extfans"},"tian_mao":{"message":"TMall"},"jindong_shopping":{"message":"Jingdong"},"xie_cheng":{"message":"Ctrip"},"i_taobao":{"message":"taobao"},"no_data":{"message":"データなし"},"edit_icon":{"message":"アイコンの編集"},"confirm_cover_remote":{"message":"ローカルデータは手動バックアップノードに保存されます"},"del_folder":{"message":"削除"},"reset_password":{"message":"パスワードをリセットします"},"wallpaper_library":{"message":"壁紙ライブラリ"},"notes":{"message":"ノート"},"weather":{"message":"気温の表示"},"history":{"message":"履歴"},"bookmarks":{"message":"ブックマーク"},"settings":{"message":"設定"},"extension":{"message":"拡張機能"},"todos":{"message":"To Do"},"infinity_wallpaper":{"message":"Infinityの壁紙ライブラリーはあなたに豊かでエキサイティングな壁紙を提供します"},"infinity_extension":{"message":"Infinity Extension Managerで簡単に$browser$ ExtensionsとAppsを管理する","placeholders":{"browser":{"content":"$1"}}},"infinity_weather":{"message":"無限天の天気は世界中の都市の天気予報を提供しています"},"infinity_history":{"message":"無限大履歴でブラウザの履歴をすばやく見て管理する"},"infinity_bookmarks":{"message":"ブックマークフォルダの階層を平らにして、Infinity Bookmarksを使って簡単にブックマークを見つける"},"infinity_settings":{"message":"無限大の新しいタブページを無限にパーソナライズします"},"infinity_notes":{"message":"人生のインスピレーションを迅速に無限大で記録する"},"infinity_todos":{"message":"あなたのタスクを順番に順番に手配し、Infinity To-Doリストを使って作業効率を向上させる"},"reqeust_login_message":{"message":"この機能を利用するにはログインが必要です"},"send_success":{"message":"確認メールを送信しました。受信箱を確認してください"},"hint":{"message":"ヒント"},"request_logout_confirm":{"message":"アカウントを削除しますか？"},"edit_avatar":{"message":"プロフィール写真を設定"},"upload_avatar_failure":{"message":"キャラクター画像のアップロードに失敗しました"},"qq_zone":{"message":"Qzone"},"douban":{"message":"Douban"},"xin_lang_weibo":{"message":"Weibo"},"confirm_recovery_data":{"message":"クラウドデータはローカルデータを置き換えます。 あなたはこの行動について確信していますか？"},"use_local":{"message":"ローカルデータを使用してください"},"use_cloud":{"message":"クラウドデータを使用してください"},"revovery_data":{"message":"データを復元"},"color_icon":{"message":"ソリッドカラーアイコン"},"language":{"message":"言語"},"icon_all":{"message":"すべて"},"most_popular":{"message":"一番人気"},"video_type":{"message":"オーディオとビデオ"},"shopping_type":{"message":"ショッピング"},"social_type":{"message":"ソーシャル"},"travel_type":{"message":"旅に出る"},"life_type":{"message":"人生"},"game_type":{"message":"ゲーム"},"education_type":{"message":"教育"},"tech_type":{"message":"テクノロジー"},"experience_without_login":{"message":"試す"},"relogin_des":{"message":"アカウントが無効です。再度ログインしてください"},"relogin_out":{"message":"ログアウト"},"sync_check_data":{"message":"アカウントデータの選択"},"sync_use_merge":{"message":"地域とクラウドデータのマージ"},"sync_login_tips":{"message":"私たちはあなたのアカウントに最初にログインすることをお勧めします_#_アカウントデータを取得し、他のデバイスと同期する"},"please_input_url":{"message":"URLを入力してください"},"please_input_url_search":{"message":"URLを入力してください（検索語の代わりに％sを使用してください）"},"please_input_name":{"message":"名前を入力してください"},"online_icon_tab":{"message":"オンラインアイコン"},"local_upload":{"message":"アップロード"},"url_error_tips1":{"message":"URLは％s文字を含める必要があります"},"url_errror_tips_2":{"message":"urlを入力してください"},"please_select_icon":{"message":"アイコンを選択してください"},"text_icon_des":{"message":"アイコンテキスト、1-2文字の推奨"},"rollback_cropper":{"message":"元に戻す"},"custom_add_icon":{"message":"カスタム追加"},"fetching_icon":{"message":"取得中..."},"add_success":{"message":"追加完了!"},"all_store":{"message":"favor favor"},"search_manage":{"message":"エンジンの検索管理"},"account_or_password_error":{"message":"アカウント名かパスワードが間違いました"},"tologin":{"message":"今すぐログインしてさらにより多くの機能を経験します"},"rigester_account":{"message":"アカウントを登録"},"other_login_type":{"message":"他の方法ログイン"},"please_input_and_continue":{"message":"続行する前に入力して検証を完了してください"},"register_infinity":{"message":"Infinityを登録する"},"password_less":{"message":"パスワードは6文字以上にしてください"},"password_different":{"message":"パスワードが一致しません"},"please_set_password":{"message":"パスポートをセット"},"last_step":{"message":"前のステップへ"},"reset_password_des":{"message":"新しいパスワードをリセットします"},"setting_done":{"message":"設定"},"feed_back":{"message":"フィードバック"},"wallpaper_center":{"message":"壁紙センター"},"share_to_friends":{"message":"友達と共有します"},"official_community":{"message":"公式コミュニティー"},"weixin_public_account":{"message":"WeChat"},"enjoy_right_now":{"message":"すぐに興奮を楽しんでください"},"shared_to":{"message":"共有先"},"whether_to_reset_all_setting":{"message":"すべての設定をリセットしますか？"},"newtab_open":{"message":"新しいタブでWebサイトを開く"},"newtab_open_search":{"message":"検索結果を[新しい]タブに表示します"},"icon_shape":{"message":"アイコンの形状"},"history_backup":{"message":"履歴をバックアップ"},"modify_nickname":{"message":"ニックネームを編集"},"modify_password_success":{"message":"パスワード変更成功"},"please_input_origin_password":{"message":"元のパスワードを入力してください"},"please_input_new_password":{"message":"新しいパスワードを入力"},"please_input_new_password_2":{"message":"新規パスワードを再入力"},"modify_info":{"message":"プロフィールの編集"},"nickname":{"message":"ニックネーム"},"delete_account":{"message":"アカウント削除"},"logout_account":{"message":"ログアウト"},"setting_fail":{"message":"セットアップに失敗しました"},"store_success":{"message":"お気に入り追加"},"cancel_store_success":{"message":"削除されました"},"mask":{"message":"マスク"},"collection":{"message":"コレクション"},"the_end":{"message":"最終的には"},"icon_no_pic":{"message":"関連するアイコンはまだ一致していません~"},"search_from":{"message":"から検索："},"edge_app_store":{"message":"Edge add-on"},"firefox_app_store":{"message":"Firefoxアドオンストア"},"version_does_not_support_this_feature":{"message":"現在のバージョンはこの機能をサポートしていません!"},"open_failed":{"message":"開けませんでした"},"default":{"message":"既定"},"custom":{"message":"カスタマイズ"},"attach":{"message":"添付"},"custom_search_engine":{"message":"カスタム"},"attch_search_engine":{"message":"添付の検索エンジン"},"edit_custom_search_engine":{"message":"カスタム検索エンジンを編集します"},"email":{"message":"メールアドレス"},"password":{"message":"パスワード"},"new_password":{"message":"新しいパスワードを入力"},"confirm_password":{"message":"新しいパスワードを確認してください"},"chrome":{"message":"Chrome"},"edge":{"message":"Microsoft Edge"},"firefox":{"message":"Firefox"},"not_support_title":{"message":"ページのエラー表示"},"not_support_text":{"message":"Infinityでより良いユーザーエクスペリエンスを楽しむために_#_ブラウザを最新バージョンにアップグレードすることをお勧めします。 Infinityと互換性のあるブラウザを使用することもお勧めです"},"failure":{"message":"失敗"},"qq_group":{"message":"新しいタブページ2グループ"},"fb_group":{"message":"Facebookグループに参加してすべてのチャット！"},"switch_failed":{"message":"切替失敗"},"nature":{"message":"自然"},"ocean":{"message":"海洋"},"architecture":{"message":"建物"},"animals":{"message":"動物"},"travel":{"message":"旅行"},"food_drink":{"message":"食品"},"anime":{"message":"コミック"},"athletics":{"message":"スポーツ"},"technology":{"message":"テクノロジー"},"street_photography":{"message":"ストリート"},"experience_mode_tips":{"message":"エクスペリエンスモードでは、生成したデータは他のデバイスと同期されず、失われる可能性があります。"},"qq_group_dialog_tips":{"message":"グループ番号をコピーして続行します"},"fb_group_dialog_tips":{"message":"リンクをコピーして続行します"},"delete_account_dialog_tips":{"message":"アカウントを削除した後、このアカウントの下のすべてのデバイスは削除されます（カスタム壁紙ライブラリのメモと写真は使用できなくなる可能性があります）"},"verity_code":{"message":"認証コードを送信"},"edit":{"message":"編集"},"no_collect_wallpaper_tips":{"message":"あなたはまだ壁紙を集めていません"},"no_custom_search_engine_tips":{"message":"カスタム検索エンジンはまだ追加されていません"},"no_attach_search_engine_tips":{"message":"追加の検索エンジンはまだ追加されていません"},"login_failure":{"message":"ログインできませんでした"},"choose_user":{"message":"アカウントの選択"},"upload_failure":{"message":"アップロードできませんでした"},"uploading":{"message":"アップロード中"},"cancel_upload":{"message":"アップロード中止"},"loading":{"message":"読み込み中"},"load_failure":{"message":"読み込みに失敗しました"},"wallpaper_upload_file_size_exceed":{"message":"ファイルのアップロードが失敗しました。 理由：サイズは制限を超えています"},"icon_network_error":{"message":"ネットワークエラー、再読み込みをクリックします。"},"discover":{"message":"発見"},"backup_failed":{"message":"バックアップに失敗しました"},"download_failure":{"message":"ダウンロード エラー"},"search":{"message":"検索"},"current_wallpaper":{"message":"現在"},"cancel_collect":{"message":"お気に入りから削除します"},"qq_login_not_supported":{"message":"QQログインはデスクトップモードではサポートされていません"},"search_engine_error":{"message":"検索エンジン名を入力"},"cannot_change_profile":{"message":"ログインできないサードパーティユーザープロファイル情報を変更できません"},"password_not_some":{"message":"入力されたパスワードが一致しません"},"no_permission":{"message":"許可なし"},"qrcode_success":{"message":"スキャンに成功しました"},"qrcode_failed":{"message":"スキャンに失敗しました"},"camera_not_found":{"message":"カメラが見つかりません"},"qrcode_login":{"message":"ログインするにはQRコードをスキャンします"},"phone_number":{"message":"電話番号"},"password_login":{"message":"パスワードによるログイン"},"phone_login":{"message":"モバイルログイン"},"enter_valid_phone_tips":{"message":"正しい電話番号を入力してください"},"enter_valid_email_tips":{"message":"正しいEメールアドレスを入力してください"},"third_party":{"message":"第三者のアカウント"},"add_todo":{"message":"To-Do を追加"},"todo_content":{"message":"未完了のタスク"},"todo_dont_empty":{"message":"To-Do を空にすることはできません"},"no_reminders":{"message":"チェックリストアイテムがありません"},"clear_done_todo":{"message":"クリア完了"},"todo_tip_time":{"message":"通知時間"},"confirm_delete_done_todos":{"message":"完成品を削除してよろしいですか？"},"add_note":{"message":"メモを追加"},"add_first_note":{"message":"メモを作成します"},"set_top":{"message":"上側"},"cancel_set_top":{"message":"ピン解除"},"note_title":{"message":"タイトルを入力してください"},"limit_input_length":{"message":"制限を超えたテキストの長さ"},"no_title":{"message":"タイトルなし"},"add_link":{"message":"リンクを追加"},"please_input_right_link":{"message":"有効なURLを入力してください"},"note_upload_img_15":{"message":"この画像サイズは15Mを超えることはできません"},"confirm_delete_note":{"message":"メモの削除を確認しますか？"},"no_permission_title":{"message":"このアクセス許可は、現在付与されていません"},"no_permission_text":{"message":"この権限を開いて付与するために、ブラウザのアドレスバーまたは設定センターに移動しようとすることをお勧めします。"},"have_todo_item":{"message":"現在、To Do 項目があります"},"bind":{"message":"関連付け"},"unbind":{"message":"削除"},"unbind_2":{"message":"関連付け解除"},"unbind_success":{"message":"削除されました"},"phone_bind":{"message":"電話番号を関連付ける"},"phone_unbind":{"message":"携帯番号のバインド解除"},"email_unbind":{"message":"メールとの紐付けを解除"},"phone_unbind_tips":{"message":"携帯番号$phone_number$バインド解除ですか?","placeholders":{"phone_number":{"content":"$1"}}},"confirm_unbind_email":{"message":"メールのバインドを解除してもよ$email$よ?","placeholders":{"email":{"content":"$1"}}},"email_bind":{"message":"メールアドレスと接続する"},"verification_code":{"message":"確認コード"},"bind_success":{"message":"関連付けに成功"},"unbind_email_title":{"message":"メールアドレスのリンク解除"},"unbind_tips":{"message":"アカウントセキュリティの場合は、アカウントパスワードを入力してください"},"enter_password_tips":{"message":"パスフレーズの入力"},"enter_verification_code_tips":{"message":"確認コードを入力してください"},"email_or_phone_number_tips":{"message":"電子メールまたは携帯電話番号"},"email_format_error":{"message":"電子メールの形式が正しくありません。"},"input_note_content":{"message":"ここにメモを入力してください..."},"confirm_unbind":{"message":"バインド解除を確認しますか?"},"popup_title":{"message":"Infinity Collectionに加えてください"},"icon_name":{"message":"アイコン名"},"add_icon_success":{"message":"追加に成功しました"},"no_more_reminder":{"message":"今後表示しない"},"username_cannot_empty":{"message":"ユーザー名は空欄にできません"},"change_phone":{"message":"電話番号を変更します"},"safety_verification":{"message":"セキュリティチェック"},"safety_verification_tips":{"message":"画像確認コードを入力してください"},"click_img_to_refresh":{"message":"画像の更新をクリック"},"modify_email":{"message":"メールを変更する"}}
+{
+  "web_name": {
+    "message": "Infinity ホームページ"
+  },
+  "extension_name": {
+    "message": "Infinityモバイル版の新タブ"
+  },
+  "extension_short_name": {
+    "message": "Infinity"
+  },
+  "name": {
+    "message": "Infinity New Tab "
+  },
+  "extension_des": {
+    "message": "新しいタブページをカスタマイズします.Kiwiブラウザ、Lemurブラウザなどと互換性があります。"
+  },
+  "extension_edge_des": {
+    "message": "カスタマイズは、現在のモバイルブラウザに適応されている新しいタブ"
+  },
+  "add_to_infinity": {
+    "message": "Infinityに追加する新しいタブページ"
+  },
+  "network_error": {
+    "message": "ネットワーク エラー"
+  },
+  "no_description": {
+    "message": "説明がありません"
+  },
+  "done": {
+    "message": "完了"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "confirm": {
+    "message": "OK"
+  },
+  "folder": {
+    "message": "フォルダ"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "wallpaper": {
+    "message": "壁紙"
+  },
+  "ambiguity": {
+    "message": "ブラー"
+  },
+  "five_star": {
+    "message": "5つ星の評価をします。"
+  },
+  "follow_us": {
+    "message": "フォロー"
+  },
+  "about": {
+    "message": "概要"
+  },
+  "about_us": {
+    "message": "情報"
+  },
+  "contact_us": {
+    "message": "お問い合わせ"
+  },
+  "privacy_policy": {
+    "message": "プライバシーポリシー"
+  },
+  "term_of_use": {
+    "message": "利用規約"
+  },
+  "login": {
+    "message": "ログイン"
+  },
+  "forget_password": {
+    "message": "忘れたパスワード"
+  },
+  "modify_password": {
+    "message": "パスワードを編集"
+  },
+  "welcome_infinity": {
+    "message": "Welcome to Infinity"
+  },
+  "next": {
+    "message": "次へ"
+  },
+  "login_register": {
+    "message": "ログイン / 無料登録"
+  },
+  "backup_now": {
+    "message": "今すぐバックアップ"
+  },
+  "manage_backup_node": {
+    "message": "履歴バックアップノードを管理します"
+  },
+  "backup_with_device": {
+    "message": "他のデバイスと同期"
+  },
+  "ensure_logout": {
+    "message": "本当にログアウトしますか？"
+  },
+  "logout_tips": {
+    "message": "接続からこのデバイスのさまざまなアカウントからのデータを防ぐために、アカウントからログアウトする前にローカルデータを消去する必要がありますか？"
+  },
+  "logout_clear_something": {
+    "message": "このデバイスのパーソナライズ設定とその他の情報をクリアします"
+  },
+  "manul_backup": {
+    "message": "手動バックアップ"
+  },
+  "recover_this": {
+    "message": "このノードから回復します"
+  },
+  "scheduled_backup": {
+    "message": "スケジュールのバックアップ"
+  },
+  "current_node": {
+    "message": "現在のノード"
+  },
+  "mini_mode": {
+    "message": "ミニマリストモード"
+  },
+  "hide_search_input": {
+    "message": "検索ボックスを隠す"
+  },
+  "icon": {
+    "message": "アイコン"
+  },
+  "search_input": {
+    "message": "検索ボックス"
+  },
+  "set_setting_default": {
+    "message": "既定のスタイルに戻す"
+  },
+  "search_website": {
+    "message": "サイトの検索"
+  },
+  "share_by_user": {
+    "message": "ユーザのシェア"
+  },
+  "application": {
+    "message": "アプリケーション"
+  },
+  "news": {
+    "message": "ニュース"
+  },
+  "photos": {
+    "message": "画像"
+  },
+  "finance": {
+    "message": "ファイナンス"
+  },
+  "read": {
+    "message": "読む"
+  },
+  "others": {
+    "message": "その他"
+  },
+  "account_format_error": {
+    "message": "間違った形式のアカウント"
+  },
+  "password_dont_empty": {
+    "message": "パスワードを空白にすることはできません"
+  },
+  "reset_password_tips": {
+    "message": "電子メールまたは携帯電話番号でパスワードを確認してください"
+  },
+  "email_code": {
+    "message": "メール認証コード"
+  },
+  "baidu": {
+    "message": "Baidu"
+  },
+  "most_used_in_chinese": {
+    "message": "検索エンジンは中国語で最もよく使用されました"
+  },
+  "html": {
+    "message": "Web"
+  },
+  "videos": {
+    "message": "動画"
+  },
+  "map": {
+    "message": "マップ"
+  },
+  "google": {
+    "message": "Google"
+  },
+  "google_desc": {
+    "message": "Google SearchはGoogleによって開発された検索エンジンです。 それはインターネット上で最大の最も影響力のある検索エンジンです"
+  },
+  "bing": {
+    "message": "Bing"
+  },
+  "bing_desc": {
+    "message": "BingはMicrosoftによって開発された検索エンジンです"
+  },
+  "yahoo": {
+    "message": "ヤフー"
+  },
+  "yahoo_desc": {
+    "message": "Yahoo SearchはYahooによって運営されている検索エンジンです"
+  },
+  "yandex_desc": {
+    "message": "Yandexはロシアの最も重要なインターネットサービスポータルの1つです。"
+  },
+  "yandex": {
+    "message": "Yandex"
+  },
+  "duckduckgo": {
+    "message": "DuckDuckGo"
+  },
+  "duckduckgo_desc": {
+    "message": "Duckduckgoは、主要なWeb 2.0サイトからのコンテンツの輸入に焦点を当てています。伝統的な検索エンジンであって、Webサイトの哲学はユーザーのプライバシーを尊重し、検索内容を監視または文書化しないことを約束します。"
+  },
+  "n_360": {
+    "message": "360 Search"
+  },
+  "360_desc": {
+    "message": "安全検索エンジン"
+  },
+  "sougou": {
+    "message": "Sogou"
+  },
+  "sougou_desc": {
+    "message": "WeChatの公式アカウントが投稿する内容を検索できる検索エンジン"
+  },
+  "yarndex_ru": {
+    "message": "YandexRU"
+  },
+  "chrome_app_store": {
+    "message": "Chrome Web Store  - 拡張子"
+  },
+  "exfans": {
+    "message": "Extfans"
+  },
+  "tian_mao": {
+    "message": "TMall"
+  },
+  "jindong_shopping": {
+    "message": "Jingdong"
+  },
+  "xie_cheng": {
+    "message": "Ctrip"
+  },
+  "i_taobao": {
+    "message": "taobao"
+  },
+  "no_data": {
+    "message": "データなし"
+  },
+  "edit_icon": {
+    "message": "アイコンの編集"
+  },
+  "confirm_cover_remote": {
+    "message": "ローカルデータは手動バックアップノードに保存されます"
+  },
+  "del_folder": {
+    "message": "削除"
+  },
+  "reset_password": {
+    "message": "パスワードをリセットします"
+  },
+  "wallpaper_library": {
+    "message": "壁紙ライブラリ"
+  },
+  "notes": {
+    "message": "ノート"
+  },
+  "weather": {
+    "message": "気温の表示"
+  },
+  "history": {
+    "message": "履歴"
+  },
+  "bookmarks": {
+    "message": "ブックマーク"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "extension": {
+    "message": "拡張機能"
+  },
+  "todos": {
+    "message": "To Do"
+  },
+  "infinity_wallpaper": {
+    "message": "Infinityの壁紙ライブラリーはあなたに豊かでエキサイティングな壁紙を提供します"
+  },
+  "infinity_extension": {
+    "message": "Infinity Extension Managerで簡単に$browser$ ExtensionsとAppsを管理する",
+    "placeholders": {
+      "browser": {
+        "content": "$1"
+      }
+    }
+  },
+  "infinity_weather": {
+    "message": "無限天の天気は世界中の都市の天気予報を提供しています"
+  },
+  "infinity_history": {
+    "message": "無限大履歴でブラウザの履歴をすばやく見て管理する"
+  },
+  "infinity_bookmarks": {
+    "message": "ブックマークフォルダの階層を平らにして、Infinity Bookmarksを使って簡単にブックマークを見つける"
+  },
+  "infinity_settings": {
+    "message": "無限大の新しいタブページを無限にパーソナライズします"
+  },
+  "infinity_notes": {
+    "message": "人生のインスピレーションを迅速に無限大で記録する"
+  },
+  "infinity_todos": {
+    "message": "あなたのタスクを順番に順番に手配し、Infinity To-Doリストを使って作業効率を向上させる"
+  },
+  "reqeust_login_message": {
+    "message": "この機能を利用するにはログインが必要です"
+  },
+  "send_success": {
+    "message": "確認メールを送信しました。受信箱を確認してください"
+  },
+  "hint": {
+    "message": "ヒント"
+  },
+  "request_logout_confirm": {
+    "message": "アカウントを削除しますか？"
+  },
+  "edit_avatar": {
+    "message": "プロフィール写真を設定"
+  },
+  "upload_avatar_failure": {
+    "message": "キャラクター画像のアップロードに失敗しました"
+  },
+  "qq_zone": {
+    "message": "Qzone"
+  },
+  "douban": {
+    "message": "Douban"
+  },
+  "xin_lang_weibo": {
+    "message": "Weibo"
+  },
+  "confirm_recovery_data": {
+    "message": "クラウドデータはローカルデータを置き換えます。 あなたはこの行動について確信していますか？"
+  },
+  "use_local": {
+    "message": "ローカルデータを使用してください"
+  },
+  "use_cloud": {
+    "message": "クラウドデータを使用してください"
+  },
+  "revovery_data": {
+    "message": "データを復元"
+  },
+  "color_icon": {
+    "message": "ソリッドカラーアイコン"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "icon_all": {
+    "message": "すべて"
+  },
+  "most_popular": {
+    "message": "一番人気"
+  },
+  "video_type": {
+    "message": "オーディオとビデオ"
+  },
+  "shopping_type": {
+    "message": "ショッピング"
+  },
+  "social_type": {
+    "message": "ソーシャル"
+  },
+  "travel_type": {
+    "message": "旅に出る"
+  },
+  "life_type": {
+    "message": "人生"
+  },
+  "game_type": {
+    "message": "ゲーム"
+  },
+  "education_type": {
+    "message": "教育"
+  },
+  "tech_type": {
+    "message": "テクノロジー"
+  },
+  "experience_without_login": {
+    "message": "試す"
+  },
+  "relogin_des": {
+    "message": "アカウントが無効です。再度ログインしてください"
+  },
+  "relogin_out": {
+    "message": "ログアウト"
+  },
+  "sync_check_data": {
+    "message": "アカウントデータの選択"
+  },
+  "sync_use_merge": {
+    "message": "地域とクラウドデータのマージ"
+  },
+  "sync_login_tips": {
+    "message": "私たちはあなたのアカウントに最初にログインすることをお勧めします_#_アカウントデータを取得し、他のデバイスと同期する"
+  },
+  "please_input_url": {
+    "message": "URLを入力してください"
+  },
+  "please_input_url_search": {
+    "message": "URLを入力してください（検索語の代わりに％sを使用してください）"
+  },
+  "please_input_name": {
+    "message": "名前を入力してください"
+  },
+  "online_icon_tab": {
+    "message": "オンラインアイコン"
+  },
+  "local_upload": {
+    "message": "アップロード"
+  },
+  "url_error_tips1": {
+    "message": "URLは％s文字を含める必要があります"
+  },
+  "url_errror_tips_2": {
+    "message": "urlを入力してください"
+  },
+  "please_select_icon": {
+    "message": "アイコンを選択してください"
+  },
+  "text_icon_des": {
+    "message": "アイコンテキスト、1-2文字の推奨"
+  },
+  "rollback_cropper": {
+    "message": "元に戻す"
+  },
+  "custom_add_icon": {
+    "message": "カスタム追加"
+  },
+  "fetching_icon": {
+    "message": "取得中..."
+  },
+  "add_success": {
+    "message": "追加完了!"
+  },
+  "all_store": {
+    "message": "favor favor"
+  },
+  "search_manage": {
+    "message": "エンジンの検索管理"
+  },
+  "account_or_password_error": {
+    "message": "アカウント名かパスワードが間違いました"
+  },
+  "tologin": {
+    "message": "今すぐログインしてさらにより多くの機能を経験します"
+  },
+  "rigester_account": {
+    "message": "アカウントを登録"
+  },
+  "other_login_type": {
+    "message": "他の方法ログイン"
+  },
+  "please_input_and_continue": {
+    "message": "続行する前に入力して検証を完了してください"
+  },
+  "register_infinity": {
+    "message": "Infinityを登録する"
+  },
+  "password_less": {
+    "message": "パスワードは6文字以上にしてください"
+  },
+  "password_different": {
+    "message": "パスワードが一致しません"
+  },
+  "please_set_password": {
+    "message": "パスポートをセット"
+  },
+  "last_step": {
+    "message": "前のステップへ"
+  },
+  "reset_password_des": {
+    "message": "新しいパスワードをリセットします"
+  },
+  "setting_done": {
+    "message": "設定"
+  },
+  "feed_back": {
+    "message": "フィードバック"
+  },
+  "wallpaper_center": {
+    "message": "壁紙センター"
+  },
+  "share_to_friends": {
+    "message": "友達と共有します"
+  },
+  "official_community": {
+    "message": "公式コミュニティー"
+  },
+  "weixin_public_account": {
+    "message": "WeChat"
+  },
+  "enjoy_right_now": {
+    "message": "すぐに興奮を楽しんでください"
+  },
+  "shared_to": {
+    "message": "共有先"
+  },
+  "whether_to_reset_all_setting": {
+    "message": "すべての設定をリセットしますか？"
+  },
+  "newtab_open": {
+    "message": "新しいタブでWebサイトを開く"
+  },
+  "newtab_open_search": {
+    "message": "検索結果を[新しい]タブに表示します"
+  },
+  "icon_shape": {
+    "message": "アイコンの形状"
+  },
+  "history_backup": {
+    "message": "履歴をバックアップ"
+  },
+  "modify_nickname": {
+    "message": "ニックネームを編集"
+  },
+  "modify_password_success": {
+    "message": "パスワード変更成功"
+  },
+  "please_input_origin_password": {
+    "message": "元のパスワードを入力してください"
+  },
+  "please_input_new_password": {
+    "message": "新しいパスワードを入力"
+  },
+  "please_input_new_password_2": {
+    "message": "新規パスワードを再入力"
+  },
+  "modify_info": {
+    "message": "プロフィールの編集"
+  },
+  "nickname": {
+    "message": "ニックネーム"
+  },
+  "delete_account": {
+    "message": "アカウント削除"
+  },
+  "logout_account": {
+    "message": "ログアウト"
+  },
+  "setting_fail": {
+    "message": "セットアップに失敗しました"
+  },
+  "store_success": {
+    "message": "お気に入り追加"
+  },
+  "cancel_store_success": {
+    "message": "削除されました"
+  },
+  "mask": {
+    "message": "マスク"
+  },
+  "collection": {
+    "message": "コレクション"
+  },
+  "the_end": {
+    "message": "最終的には"
+  },
+  "icon_no_pic": {
+    "message": "関連するアイコンはまだ一致していません~"
+  },
+  "search_from": {
+    "message": "から検索："
+  },
+  "edge_app_store": {
+    "message": "Edge add-on"
+  },
+  "firefox_app_store": {
+    "message": "Firefoxアドオンストア"
+  },
+  "version_does_not_support_this_feature": {
+    "message": "現在のバージョンはこの機能をサポートしていません!"
+  },
+  "open_failed": {
+    "message": "開けませんでした"
+  },
+  "default": {
+    "message": "既定"
+  },
+  "custom": {
+    "message": "カスタマイズ"
+  },
+  "attach": {
+    "message": "添付"
+  },
+  "custom_search_engine": {
+    "message": "カスタム"
+  },
+  "attch_search_engine": {
+    "message": "添付の検索エンジン"
+  },
+  "edit_custom_search_engine": {
+    "message": "カスタム検索エンジンを編集します"
+  },
+  "email": {
+    "message": "メールアドレス"
+  },
+  "password": {
+    "message": "パスワード"
+  },
+  "new_password": {
+    "message": "新しいパスワードを入力"
+  },
+  "confirm_password": {
+    "message": "新しいパスワードを確認してください"
+  },
+  "chrome": {
+    "message": "Chrome"
+  },
+  "edge": {
+    "message": "Microsoft Edge"
+  },
+  "firefox": {
+    "message": "Firefox"
+  },
+  "not_support_title": {
+    "message": "ページのエラー表示"
+  },
+  "not_support_text": {
+    "message": "Infinityでより良いユーザーエクスペリエンスを楽しむために_#_ブラウザを最新バージョンにアップグレードすることをお勧めします。 Infinityと互換性のあるブラウザを使用することもお勧めです"
+  },
+  "failure": {
+    "message": "失敗"
+  },
+  "qq_group": {
+    "message": "新しいタブページ2グループ"
+  },
+  "fb_group": {
+    "message": "Facebookグループに参加してすべてのチャット！"
+  },
+  "switch_failed": {
+    "message": "切替失敗"
+  },
+  "nature": {
+    "message": "自然"
+  },
+  "ocean": {
+    "message": "海洋"
+  },
+  "architecture": {
+    "message": "建物"
+  },
+  "animals": {
+    "message": "動物"
+  },
+  "travel": {
+    "message": "旅行"
+  },
+  "food_drink": {
+    "message": "食品"
+  },
+  "anime": {
+    "message": "コミック"
+  },
+  "athletics": {
+    "message": "スポーツ"
+  },
+  "technology": {
+    "message": "テクノロジー"
+  },
+  "street_photography": {
+    "message": "ストリート"
+  },
+  "experience_mode_tips": {
+    "message": "エクスペリエンスモードでは、生成したデータは他のデバイスと同期されず、失われる可能性があります。"
+  },
+  "qq_group_dialog_tips": {
+    "message": "グループ番号をコピーして続行します"
+  },
+  "fb_group_dialog_tips": {
+    "message": "リンクをコピーして続行します"
+  },
+  "delete_account_dialog_tips": {
+    "message": "アカウントを削除した後、このアカウントの下のすべてのデバイスは削除されます（カスタム壁紙ライブラリのメモと写真は使用できなくなる可能性があります）"
+  },
+  "verity_code": {
+    "message": "認証コードを送信"
+  },
+  "edit": {
+    "message": "編集"
+  },
+  "no_collect_wallpaper_tips": {
+    "message": "あなたはまだ壁紙を集めていません"
+  },
+  "no_custom_search_engine_tips": {
+    "message": "カスタム検索エンジンはまだ追加されていません"
+  },
+  "no_attach_search_engine_tips": {
+    "message": "追加の検索エンジンはまだ追加されていません"
+  },
+  "login_failure": {
+    "message": "ログインできませんでした"
+  },
+  "choose_user": {
+    "message": "アカウントの選択"
+  },
+  "upload_failure": {
+    "message": "アップロードできませんでした"
+  },
+  "uploading": {
+    "message": "アップロード中"
+  },
+  "cancel_upload": {
+    "message": "アップロード中止"
+  },
+  "loading": {
+    "message": "読み込み中"
+  },
+  "load_failure": {
+    "message": "読み込みに失敗しました"
+  },
+  "wallpaper_upload_file_size_exceed": {
+    "message": "ファイルのアップロードが失敗しました。 理由：サイズは制限を超えています"
+  },
+  "icon_network_error": {
+    "message": "ネットワークエラー、再読み込みをクリックします。"
+  },
+  "discover": {
+    "message": "発見"
+  },
+  "backup_failed": {
+    "message": "バックアップに失敗しました"
+  },
+  "download_failure": {
+    "message": "ダウンロード エラー"
+  },
+  "search": {
+    "message": "検索"
+  },
+  "current_wallpaper": {
+    "message": "現在"
+  },
+  "cancel_collect": {
+    "message": "お気に入りから削除します"
+  },
+  "qq_login_not_supported": {
+    "message": "QQログインはデスクトップモードではサポートされていません"
+  },
+  "search_engine_error": {
+    "message": "検索エンジン名を入力"
+  },
+  "cannot_change_profile": {
+    "message": "ログインできないサードパーティユーザープロファイル情報を変更できません"
+  },
+  "password_not_some": {
+    "message": "入力されたパスワードが一致しません"
+  },
+  "no_permission": {
+    "message": "許可なし"
+  },
+  "qrcode_success": {
+    "message": "スキャンに成功しました"
+  },
+  "qrcode_failed": {
+    "message": "スキャンに失敗しました"
+  },
+  "camera_not_found": {
+    "message": "カメラが見つかりません"
+  },
+  "qrcode_login": {
+    "message": "ログインするにはQRコードをスキャンします"
+  },
+  "phone_number": {
+    "message": "電話番号"
+  },
+  "password_login": {
+    "message": "パスワードによるログイン"
+  },
+  "phone_login": {
+    "message": "モバイルログイン"
+  },
+  "enter_valid_phone_tips": {
+    "message": "正しい電話番号を入力してください"
+  },
+  "enter_valid_email_tips": {
+    "message": "正しいEメールアドレスを入力してください"
+  },
+  "third_party": {
+    "message": "第三者のアカウント"
+  },
+  "add_todo": {
+    "message": "To-Do を追加"
+  },
+  "todo_content": {
+    "message": "未完了のタスク"
+  },
+  "todo_dont_empty": {
+    "message": "To-Do を空にすることはできません"
+  },
+  "no_reminders": {
+    "message": "チェックリストアイテムがありません"
+  },
+  "clear_done_todo": {
+    "message": "クリア完了"
+  },
+  "todo_tip_time": {
+    "message": "通知時間"
+  },
+  "confirm_delete_done_todos": {
+    "message": "完成品を削除してよろしいですか？"
+  },
+  "add_note": {
+    "message": "メモを追加"
+  },
+  "add_first_note": {
+    "message": "メモを作成します"
+  },
+  "set_top": {
+    "message": "上側"
+  },
+  "cancel_set_top": {
+    "message": "ピン解除"
+  },
+  "note_title": {
+    "message": "タイトルを入力してください"
+  },
+  "limit_input_length": {
+    "message": "制限を超えたテキストの長さ"
+  },
+  "no_title": {
+    "message": "タイトルなし"
+  },
+  "add_link": {
+    "message": "リンクを追加"
+  },
+  "please_input_right_link": {
+    "message": "有効なURLを入力してください"
+  },
+  "note_upload_img_15": {
+    "message": "この画像サイズは15Mを超えることはできません"
+  },
+  "confirm_delete_note": {
+    "message": "メモの削除を確認しますか？"
+  },
+  "no_permission_title": {
+    "message": "このアクセス許可は、現在付与されていません"
+  },
+  "no_permission_text": {
+    "message": "この権限を開いて付与するために、ブラウザのアドレスバーまたは設定センターに移動しようとすることをお勧めします。"
+  },
+  "have_todo_item": {
+    "message": "現在、To Do 項目があります"
+  },
+  "bind": {
+    "message": "関連付け"
+  },
+  "unbind": {
+    "message": "削除"
+  },
+  "unbind_2": {
+    "message": "関連付け解除"
+  },
+  "unbind_success": {
+    "message": "削除されました"
+  },
+  "phone_bind": {
+    "message": "電話番号を関連付ける"
+  },
+  "phone_unbind": {
+    "message": "携帯番号のバインド解除"
+  },
+  "email_unbind": {
+    "message": "メールとの紐付けを解除"
+  },
+  "phone_unbind_tips": {
+    "message": "携帯番号$phone_number$バインド解除ですか?",
+    "placeholders": {
+      "phone_number": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirm_unbind_email": {
+    "message": "メールのバインドを解除してもよ$email$よ?",
+    "placeholders": {
+      "email": {
+        "content": "$1"
+      }
+    }
+  },
+  "email_bind": {
+    "message": "メールアドレスと接続する"
+  },
+  "verification_code": {
+    "message": "確認コード"
+  },
+  "bind_success": {
+    "message": "関連付けに成功"
+  },
+  "unbind_email_title": {
+    "message": "メールアドレスのリンク解除"
+  },
+  "unbind_tips": {
+    "message": "アカウントセキュリティの場合は、アカウントパスワードを入力してください"
+  },
+  "enter_password_tips": {
+    "message": "パスフレーズの入力"
+  },
+  "enter_verification_code_tips": {
+    "message": "確認コードを入力してください"
+  },
+  "email_or_phone_number_tips": {
+    "message": "電子メールまたは携帯電話番号"
+  },
+  "email_format_error": {
+    "message": "電子メールの形式が正しくありません。"
+  },
+  "input_note_content": {
+    "message": "ここにメモを入力してください..."
+  },
+  "confirm_unbind": {
+    "message": "バインド解除を確認しますか?"
+  },
+  "popup_title": {
+    "message": "Infinity Collectionに加えてください"
+  },
+  "icon_name": {
+    "message": "アイコン名"
+  },
+  "add_icon_success": {
+    "message": "追加に成功しました"
+  },
+  "no_more_reminder": {
+    "message": "今後表示しない"
+  },
+  "username_cannot_empty": {
+    "message": "ユーザー名は空欄にできません"
+  },
+  "change_phone": {
+    "message": "電話番号を変更します"
+  },
+  "safety_verification": {
+    "message": "セキュリティチェック"
+  },
+  "safety_verification_tips": {
+    "message": "画像確認コードを入力してください"
+  },
+  "click_img_to_refresh": {
+    "message": "画像の更新をクリック"
+  },
+  "modify_email": {
+    "message": "メールを変更する"
+  },
+  "search_placeholder": {
+    "message": "ウェブを検索..."
+  },
+  "your_shortcuts": {
+    "message": "ショートカット"
+  },
+  "wallpaper_title": {
+    "message": "壁紙"
+  },
+  "no_wallpaper": {
+    "message": "壁紙なし"
+  },
+  "upload_wallpaper": {
+    "message": "壁紙をアップロード"
+  },
+  "mask_opacity": {
+    "message": "マスクの透明度"
+  },
+  "wallpaper_blur": {
+    "message": "ぼかし"
+  },
+  "settings_title": {
+    "message": "設定"
+  },
+  "settings_appearance": {
+    "message": "外観"
+  },
+  "settings_wallpaper": {
+    "message": "壁紙"
+  },
+  "settings_search_radius": {
+    "message": "検索ボックスの角丸"
+  },
+  "settings_icon_radius": {
+    "message": "アイコンの角丸"
+  },
+  "settings_widgets": {
+    "message": "ウィジェット"
+  },
+  "settings_show_search": {
+    "message": "検索バーを表示"
+  },
+  "settings_show_clock": {
+    "message": "時計を表示"
+  },
+  "settings_show_sites": {
+    "message": "ショートカットを表示"
+  },
+  "settings_account": {
+    "message": "アカウント"
+  },
+  "settings_login": {
+    "message": "サインイン"
+  },
+  "settings_sync": {
+    "message": "同期"
+  },
+  "settings_other": {
+    "message": "その他"
+  },
+  "settings_language": {
+    "message": "言語"
+  },
+  "settings_about": {
+    "message": "について"
+  },
+  "settings_third_party": {
+    "message": "サードパーティライセンス"
+  },
+  "settings_user_title": {
+    "message": "プロフィール"
+  },
+  "sync_title": {
+    "message": "同期"
+  },
+  "sync_last_synced": {
+    "message": "最終同期"
+  },
+  "sync_status": {
+    "message": "ステータス"
+  },
+  "sync_push": {
+    "message": "クラウドにプッシュ"
+  },
+  "sync_pull": {
+    "message": "クラウドからプル"
+  },
+  "sync_pending_restore_notice": {
+    "message": "保留中のクラウドデータがあります。適用しますか？"
+  },
+  "sync_apply_restore": {
+    "message": "クラウドデータを適用"
+  },
+  "sync_discard_restore": {
+    "message": "破棄"
+  },
+  "sync_push_success": {
+    "message": "クラウドにプッシュしました"
+  },
+  "sync_push_failed": {
+    "message": "プッシュ失敗"
+  },
+  "sync_pull_success": {
+    "message": "クラウドからプルしました"
+  },
+  "sync_pull_failed": {
+    "message": "プル失敗"
+  },
+  "sync_restore_applied": {
+    "message": "クラウドデータを適用しました"
+  },
+  "never": {
+    "message": "なし"
+  },
+  "login_title": {
+    "message": "サインイン"
+  },
+  "login_account": {
+    "message": "アカウント"
+  },
+  "login_account_placeholder": {
+    "message": "メールまたは電話番号"
+  },
+  "login_password": {
+    "message": "パスワード"
+  },
+  "login_password_placeholder": {
+    "message": "パスワードを入力"
+  },
+  "login_submit": {
+    "message": "サインイン"
+  },
+  "login_forgot_password": {
+    "message": "パスワードを忘れた方"
+  },
+  "register_title": {
+    "message": "アカウントを作成"
+  },
+  "register_username": {
+    "message": "ユーザー名"
+  },
+  "register_username_placeholder": {
+    "message": "ユーザー名を入力"
+  },
+  "register_account": {
+    "message": "メール / 電話"
+  },
+  "register_account_placeholder": {
+    "message": "メールまたは電話番号"
+  },
+  "register_password": {
+    "message": "パスワード"
+  },
+  "register_password_placeholder": {
+    "message": "パスワードを入力"
+  },
+  "register_code": {
+    "message": "確認コード"
+  },
+  "register_code_placeholder": {
+    "message": "確認コードを入力"
+  },
+  "register_submit": {
+    "message": "登録"
+  },
+  "reset_password_title": {
+    "message": "パスワードをリセット"
+  },
+  "reset_account": {
+    "message": "メール / 電話"
+  },
+  "reset_account_placeholder": {
+    "message": "メールまたは電話番号"
+  },
+  "reset_code": {
+    "message": "確認コード"
+  },
+  "reset_code_placeholder": {
+    "message": "確認コードを入力"
+  },
+  "reset_new_password": {
+    "message": "新しいパスワード"
+  },
+  "reset_new_password_placeholder": {
+    "message": "新しいパスワードを入力"
+  },
+  "reset_submit": {
+    "message": "送信"
+  },
+  "reset_failed": {
+    "message": "リセット失敗"
+  },
+  "reset_success": {
+    "message": "パスワードのリセットが完了しました"
+  },
+  "change_email_title": {
+    "message": "メールを変更"
+  },
+  "change_email_new": {
+    "message": "新しいメール"
+  },
+  "change_email_placeholder": {
+    "message": "新しいメールアドレスを入力"
+  },
+  "change_email_code": {
+    "message": "確認コード"
+  },
+  "change_phone_title": {
+    "message": "電話を変更"
+  },
+  "change_phone_new": {
+    "message": "新しい電話番号"
+  },
+  "change_phone_placeholder": {
+    "message": "電話番号を入力"
+  },
+  "change_phone_code": {
+    "message": "確認コード"
+  },
+  "change_submit": {
+    "message": "送信"
+  },
+  "change_success": {
+    "message": "変更しました"
+  },
+  "change_failed": {
+    "message": "変更に失敗しました"
+  },
+  "change_code_placeholder": {
+    "message": "確認コードを入力"
+  },
+  "change": {
+    "message": "変更"
+  },
+  "send_code": {
+    "message": "コードを送信"
+  },
+  "send_code_failed": {
+    "message": "コードの送信に失敗しました"
+  },
+  "code_sent": {
+    "message": "コードを送信しました"
+  },
+  "set_password_title": {
+    "message": "パスワードを変更"
+  },
+  "set_password_old": {
+    "message": "現在のパスワード"
+  },
+  "set_password_old_placeholder": {
+    "message": "現在のパスワードを入力"
+  },
+  "set_password_new": {
+    "message": "新しいパスワード"
+  },
+  "set_password_new_placeholder": {
+    "message": "新しいパスワードを入力"
+  },
+  "set_password_confirm": {
+    "message": "パスワードを確認"
+  },
+  "set_password_confirm_placeholder": {
+    "message": "新しいパスワードをもう一度入力"
+  },
+  "set_password_submit": {
+    "message": "送信"
+  },
+  "set_password_success": {
+    "message": "パスワードを変更しました"
+  },
+  "set_password_failed": {
+    "message": "パスワードの変更に失敗しました"
+  },
+  "not_support_desc": {
+    "message": "ブラウザを最新バージョンにアップデートしてください。"
+  },
+  "not_support_download_chrome": {
+    "message": "Chromeをダウンロード"
+  },
+  "not_support_download_firefox": {
+    "message": "Firefoxをダウンロード"
+  },
+  "about_title": {
+    "message": "について"
+  },
+  "about_website": {
+    "message": "公式サイト"
+  },
+  "about_feedback": {
+    "message": "フィードバック"
+  },
+  "about_rate": {
+    "message": "評価する"
+  },
+  "about_follow_wechat": {
+    "message": "WeChatをフォロー"
+  },
+  "about_privacy": {
+    "message": "プライバシーポリシー"
+  },
+  "language_title": {
+    "message": "言語"
+  },
+  "language_changed": {
+    "message": "言語を更新しました"
+  },
+  "third_party_title": {
+    "message": "サードパーティライセンス"
+  },
+  "popup_open_newtab": {
+    "message": "新しいタブを開く"
+  },
+  "popup_open_settings": {
+    "message": "設定"
+  },
+  "popup_footer": {
+    "message": "Infinity 新しいタブ"
+  },
+  "account_required": {
+    "message": "アカウントを入力してください"
+  },
+  "field_required": {
+    "message": "この項目は必須です"
+  },
+  "email_invalid": {
+    "message": "無効なメールアドレス"
+  },
+  "password_mismatch": {
+    "message": "パスワードが一致しません"
+  },
+  "password_too_short": {
+    "message": "パスワードは6文字以上である必要があります"
+  },
+  "user_email": {
+    "message": "メール"
+  },
+  "user_phone": {
+    "message": "電話"
+  },
+  "user_password": {
+    "message": "パスワード"
+  },
+  "logout": {
+    "message": "サインアウト"
+  },
+  "logout_confirm": {
+    "message": "サインアウトしてもよろしいですか？"
+  },
+  "not_set": {
+    "message": "未設定"
+  }
+}

@@ -12,7 +12,7 @@
   },
   "action": {
     "default_title": "__MSG_add_to_infinity__",
-    "default_popup": "src/popup/index.html",
+    "default_popup": "popup/index.html",
     "default_icon": {
       "32": "icon/icon32.png",
       "96": "icon/icon96.png",
@@ -20,7 +20,7 @@
     }
   },
   "chrome_url_overrides": {
-    "newtab": "src/newtab/index.html"
+    "newtab": "newtab/index.html"
   },
   "background": {
     "service_worker": "src/background/service-worker.ts",
