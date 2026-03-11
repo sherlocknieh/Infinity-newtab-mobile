@@ -1,1 +1,0 @@
-import{ae as a}from"./ajax.31203054.js";import{r as s,c as o,o as r}from"./vendor.28e7f1f0.js";function e(){const e=s(""),n=o((()=>"zh-CN"===e.value));return r((async()=>{e.value=await a()})),{lang:e,isZh:n}}export{e as u};
