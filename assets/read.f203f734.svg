@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="28px" viewBox="0 0 32 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>阅读</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.490511%" id="linearGradient-1">
+            <stop stop-color="#44EC8A" offset="0%"></stop>
+            <stop stop-color="#13C986" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4,18 L4,8 C4,6.8954305 4.8954305,6 6,6 L10.7896086,6 C11.5781976,6 12.3484843,6.2376467 13,6.68194381 C13.6032114,7.0933001 14.3967886,7.0933001 15,6.68194381 C15.6515157,6.2376467 16.4218024,6 17.2103914,6 L22,6 C23.1045695,6 24,6.8954305 24,8 L24,18 C24,19.1045695 23.1045695,20 22,20 L17.2103914,20 C16.4218024,20 15.6515157,20.2376467 15,20.6819438 C14.3967886,21.0933001 13.6032114,21.0933001 13,20.6819438 C12.3484843,20.2376467 11.5781976,20 10.7896086,20 L6,20 C4.8954305,20 4,19.1045695 4,18 Z" id="path-2"></path>
+        <filter x="-45.0%" y="-58.6%" width="190.0%" height="214.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.117934808   0 0 0 0 1   0 0 0 0 0.644594567  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.2主页_添加_类别" transform="translate(-219.000000, -476.000000)">
+            <g id="搜索" transform="translate(0.000000, 92.000000)">
+                <g id="切换" transform="translate(24.000000, 68.000000)">
+                    <g id="阅读" transform="translate(179.000000, 308.000000)">
+                        <g transform="translate(18.000000, 8.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="28" height="28"></rect>
+                            <g id="路径" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            </g>
+                            <rect id="矩形" fill="#7FFF7D" opacity="0.596856253" x="17" y="8" width="5" height="10" rx="1"></rect>
+                            <rect id="矩形" fill="#FFFFFF" x="6" y="9" width="6" height="2" rx="1"></rect>
+                            <rect id="矩形备份-7" fill="#FFFFFF" x="6" y="13" width="4" height="2" rx="1"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

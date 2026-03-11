@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="28px" viewBox="0 0 30 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>购物</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF5D70" offset="0%"></stop>
+            <stop stop-color="#F22351" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.5311289,6 L17.4688711,6 C19.4861642,6 21.1877682,7.50214577 21.4379826,9.50386106 L22.4379826,17.5038611 C22.7119926,19.6959408 21.1570898,21.6951015 18.9650101,21.9691115 C18.8004308,21.9896839 18.6347312,22 18.4688711,22 L9.53112887,22 C7.32198987,22 5.53112887,20.209139 5.53112887,18 C5.53112887,17.8341399 5.54144495,17.6684404 5.56201737,17.5038611 L6.56201737,9.50386106 C6.81223178,7.50214577 8.5138358,6 10.5311289,6 Z" id="path-2"></path>
+        <filter x="-47.0%" y="-56.2%" width="194.1%" height="212.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.988235294   0 0 0 0 0.117647059   0 0 0 0 0.29264967  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.2主页_添加_类别" transform="translate(-220.000000, -316.000000)">
+            <g id="搜索" transform="translate(0.000000, 92.000000)">
+                <g id="切换" transform="translate(24.000000, 68.000000)">
+                    <g id="购物" transform="translate(179.000000, 148.000000)">
+                        <g transform="translate(18.000000, 8.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="28" height="28"></rect>
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M17,9 C17.5128358,9 17.9355072,9.38604019 17.9932723,9.88337887 L18,10 L18,12 C18,14.209139 16.209139,16 14,16 C11.8578046,16 10.1089211,14.3160315 10.0048953,12.1996403 L10,12 L10,10 C10,9.44771525 10.4477153,9 11,9 C11.5128358,9 11.9355072,9.38604019 11.9932723,9.88337887 L12,10 L12,12 C12,13.1045695 12.8954305,14 14,14 C15.0543618,14 15.9181651,13.1841222 15.9945143,12.1492623 L16,12 L16,10 C16,9.44771525 16.4477153,9 17,9 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1 @@
+import{v as r}from"./ajax.31203054.js";import{aW as t}from"./vendor.28e7f1f0.js";let e;const a=async(a=!1)=>{if(e&&!a)return e;if("serviceWorker"in navigator){const a=new t(`/sw.js?v=${r}`);return a.register(),await a.active,await a.controlling,e=a,e}return null};export{a as createWorkBox};

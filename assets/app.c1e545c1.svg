@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>应用</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3AB0FF" offset="0%"></stop>
+            <stop stop-color="#4C46FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14.9805225,5.26554386 L20.9805225,8.75479552 C21.6102764,9.12102386 22,9.80994982 22,10.5569563 L22,17.4430437 C22,18.1900502 21.6102764,18.8789761 20.9805225,19.2452045 L14.9805225,22.7344561 C14.3716954,23.0885146 13.6283046,23.0885146 13.0194775,22.7344561 L7.01947752,19.2452045 C6.38972356,18.8789761 6,18.1900502 6,17.4430437 L6,10.5569563 C6,9.80994982 6.38972356,9.12102386 7.01947752,8.75479552 L13.0194775,5.26554386 C13.6283046,4.91148538 14.3716954,4.91148538 14.9805225,5.26554386 Z" id="path-2"></path>
+        <filter x="-56.2%" y="-50.0%" width="212.5%" height="200.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.149019608   0 0 0 0 0.38247144   0 0 0 0 0.968627451  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.2主页_添加_类别" transform="translate(-221.000000, -235.000000)">
+            <g id="搜索" transform="translate(0.000000, 92.000000)">
+                <g id="切换" transform="translate(24.000000, 68.000000)">
+                    <g id="应用" transform="translate(179.000000, 68.000000)">
+                        <g transform="translate(18.000000, 8.000000)">
+                            <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="28" height="28"></rect>
+                            <g id="形状结合" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M14,14.7953334 L14,20.4876505 C14,20.7706133 14.2238576,21 14.5,21 C14.5885273,21 14.6754675,20.9759153 14.7519355,20.9302072 L19.503871,18.08978 C19.8110887,17.9061433 20,17.5691183 20,17.2046666 L20,11.5123495 C20,11.2293867 19.7761424,11 19.5,11 C19.4114727,11 19.3245325,11.0240847 19.2480645,11.0697928 L14.496129,13.91022 C14.1889113,14.0938567 14,14.4308817 14,14.7953334 Z" id="路径-7" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
