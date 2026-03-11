@@ -62,10 +62,10 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { useSyncStore } from '@/stores/sync'
-import { useSettingsStore } from '@/stores/settings'
-import { useWallpaperStore } from '@/stores/wallpaper'
-import { useSitesStore } from '@/stores/sites'
+import { useSyncStore, type SyncPayload } from '@/stores/sync'
+import { useSettingsStore, type SettingsState } from '@/stores/settings'
+import { useWallpaperStore, type Wallpaper, type WallpaperSource } from '@/stores/wallpaper'
+import { useSitesStore, type Site } from '@/stores/sites'
 import { t } from '@/utils/i18n'
 import { Toast } from 'vant'
 
@@ -75,10 +75,39 @@ const settingsStore = useSettingsStore()
 const wallpaperStore = useWallpaperStore()
 const sitesStore = useSitesStore()
 
+interface SyncWallpaperPayload {
+  current: Wallpaper | null
+  source: WallpaperSource
+  maskOpacity: number
+  blur: boolean
+}
+
 const lastSyncedLabel = computed(() => {
   if (!syncStore.lastSyncedAt) return t('never')
   return new Date(syncStore.lastSyncedAt).toLocaleString()
 })
+
+async function applyPayload(data: SyncPayload): Promise<void> {
+  if (data.settings) {
+    await settingsStore.save(data.settings as Partial<SettingsState>)
+  }
+  if (data.wallpaper) {
+    const wp = data.wallpaper as SyncWallpaperPayload
+    if (wp.current) {
+      await wallpaperStore.setWallpaper(wp.current, wp.source ?? 'online')
+    }
+    if (typeof wp.maskOpacity === 'number') {
+      wallpaperStore.maskOpacity = wp.maskOpacity
+    }
+    if (typeof wp.blur === 'boolean') {
+      wallpaperStore.blur = wp.blur
+    }
+    await wallpaperStore.persist()
+  }
+  if (data.sites && Array.isArray(data.sites)) {
+    await sitesStore.reorder(data.sites as Site[])
+  }
+}
 
 async function handlePush() {
   try {
@@ -101,25 +130,7 @@ async function handlePush() {
 async function handlePull() {
   try {
     const data = await syncStore.pull()
-    if (data.settings) {
-      await settingsStore.save(data.settings as Parameters<typeof settingsStore.save>[0])
-    }
-    if (data.wallpaper) {
-      const wp = data.wallpaper as { current: Parameters<typeof wallpaperStore.setWallpaper>[0]; source: Parameters<typeof wallpaperStore.setWallpaper>[1]; maskOpacity: number; blur: boolean }
-      if (wp.current) {
-        await wallpaperStore.setWallpaper(wp.current, wp.source ?? 'online')
-      }
-      if (typeof wp.maskOpacity === 'number') {
-        wallpaperStore.maskOpacity = wp.maskOpacity
-      }
-      if (typeof wp.blur === 'boolean') {
-        wallpaperStore.blur = wp.blur
-      }
-      await wallpaperStore.persist()
-    }
-    if (data.sites && Array.isArray(data.sites)) {
-      await sitesStore.reorder(data.sites as Parameters<typeof sitesStore.reorder>[0])
-    }
+    await applyPayload(data)
     Toast(t('sync_pull_success'))
   } catch {
     Toast(t('sync_pull_failed'))
@@ -129,25 +140,7 @@ async function handlePull() {
 async function handleApplyRestore() {
   const data = syncStore.pendingRestore
   if (!data) return
-  if (data.settings) {
-    await settingsStore.save(data.settings as Parameters<typeof settingsStore.save>[0])
-  }
-  if (data.wallpaper) {
-    const wp = data.wallpaper as { current: Parameters<typeof wallpaperStore.setWallpaper>[0]; source: Parameters<typeof wallpaperStore.setWallpaper>[1]; maskOpacity: number; blur: boolean }
-    if (wp.current) {
-      await wallpaperStore.setWallpaper(wp.current, wp.source ?? 'online')
-    }
-    if (typeof wp.maskOpacity === 'number') {
-      wallpaperStore.maskOpacity = wp.maskOpacity
-    }
-    if (typeof wp.blur === 'boolean') {
-      wallpaperStore.blur = wp.blur
-    }
-    await wallpaperStore.persist()
-  }
-  if (data.sites && Array.isArray(data.sites)) {
-    await sitesStore.reorder(data.sites as Parameters<typeof sitesStore.reorder>[0])
-  }
+  await applyPayload(data)
   syncStore.clearPendingRestore()
   Toast(t('sync_restore_applied'))
 }
