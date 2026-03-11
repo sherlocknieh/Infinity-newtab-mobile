@@ -37,7 +37,7 @@ import { useRouter } from 'vue-router'
 import { onUnmounted } from 'vue'
 import { useSettingsStore } from '@/stores/settings'
 import { t } from '@/utils/i18n'
-import { showToast } from 'vant'
+import { Toast } from 'vant'
 
 const router = useRouter()
 const settingsStore = useSettingsStore()
@@ -69,11 +69,11 @@ const LANGUAGES = [
   { code: 'vi', nativeName: 'Tiếng Việt', englishName: 'Vietnamese' },
 ]
 
-let reloadTimer: ReturnType<typeof setTimeout>
+let reloadTimer: ReturnType<typeof setTimeout> | undefined
 
 async function handleSelect(code: string) {
   await settingsStore.setLang(code)
-  showToast(t('language_changed'))
+  Toast(t('language_changed'))
   // Reload so all static translated strings update.
   reloadTimer = setTimeout(() => window.location.reload(), 600)
 }

@@ -69,7 +69,7 @@ import { ref, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useUserStore } from '@/stores/user'
 import { t } from '@/utils/i18n'
-import { showToast } from 'vant'
+import { Toast } from 'vant'
 
 const router = useRouter()
 const userStore = useUserStore()
@@ -83,13 +83,13 @@ const cooldown = ref(0)
 let cooldownTimer: ReturnType<typeof setInterval>
 
 async function sendCode() {
-  if (!account.value) { showToast(t('account_required')); return }
+  if (!account.value) { Toast(t('account_required')); return }
   try {
     await userStore.sendVerificationCode(account.value)
-    showToast(t('code_sent'))
+    Toast(t('code_sent'))
     cooldown.value = 60
     cooldownTimer = setInterval(() => { cooldown.value--; if (cooldown.value <= 0) clearInterval(cooldownTimer) }, 1000)
-  } catch { showToast(t('send_code_failed')) }
+  } catch { Toast(t('send_code_failed')) }
 }
 
 onUnmounted(() => {
@@ -100,10 +100,10 @@ async function handleSubmit() {
   isLoading.value = true
   try {
     await userStore.resetPassword(account.value, code.value, newPassword.value)
-    showToast(t('reset_success'))
+    Toast(t('reset_success'))
     router.replace({ name: 'login' })
   } catch (e: unknown) {
-    showToast(e instanceof Error ? e.message : t('reset_failed'))
+    Toast(e instanceof Error ? e.message : t('reset_failed'))
   } finally {
     isLoading.value = false
   }

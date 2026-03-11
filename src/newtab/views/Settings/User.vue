@@ -63,13 +63,13 @@
 import { useRouter } from 'vue-router'
 import { useUserStore } from '@/stores/user'
 import { t } from '@/utils/i18n'
-import { showConfirmDialog } from 'vant'
+import { Dialog } from 'vant'
 
 const router = useRouter()
 const userStore = useUserStore()
 
 async function handleLogout() {
-  await showConfirmDialog({ message: t('logout_confirm') })
+  await Dialog.confirm({ message: t('logout_confirm') })
   await userStore.logout()
   router.replace({ name: 'home' })
 }

@@ -61,7 +61,7 @@ import { ref, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useUserStore } from '@/stores/user'
 import { t } from '@/utils/i18n'
-import { showToast } from 'vant'
+import { Toast } from 'vant'
 
 const router = useRouter()
 const userStore = useUserStore()
@@ -74,13 +74,13 @@ const cooldown = ref(0)
 let cooldownTimer: ReturnType<typeof setInterval>
 
 async function sendCode() {
-  if (!phone.value) { showToast(t('field_required')); return }
+  if (!phone.value) { Toast(t('field_required')); return }
   try {
     await userStore.sendVerificationCode(phone.value)
-    showToast(t('code_sent'))
+    Toast(t('code_sent'))
     cooldown.value = 60
     cooldownTimer = setInterval(() => { cooldown.value--; if (cooldown.value <= 0) clearInterval(cooldownTimer) }, 1000)
-  } catch { showToast(t('send_code_failed')) }
+  } catch { Toast(t('send_code_failed')) }
 }
 
 onUnmounted(() => {
@@ -91,10 +91,10 @@ async function handleSubmit() {
   isLoading.value = true
   try {
     await userStore.changePhone(phone.value, code.value)
-    showToast(t('change_success'))
+    Toast(t('change_success'))
     router.back()
   } catch (e: unknown) {
-    showToast(e instanceof Error ? e.message : t('change_failed'))
+    Toast(e instanceof Error ? e.message : t('change_failed'))
   } finally {
     isLoading.value = false
   }

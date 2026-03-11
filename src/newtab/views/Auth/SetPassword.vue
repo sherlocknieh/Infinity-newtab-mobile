@@ -61,7 +61,7 @@ import { ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { useUserStore } from '@/stores/user'
 import { t } from '@/utils/i18n'
-import { showToast } from 'vant'
+import { Toast } from 'vant'
 
 const router = useRouter()
 const userStore = useUserStore()
@@ -79,10 +79,10 @@ async function handleSubmit() {
   isLoading.value = true
   try {
     await userStore.setPassword(oldPassword.value, newPassword.value)
-    showToast(t('set_password_success'))
+    Toast(t('set_password_success'))
     router.back()
   } catch (e: unknown) {
-    showToast(e instanceof Error ? e.message : t('set_password_failed'))
+    Toast(e instanceof Error ? e.message : t('set_password_failed'))
   } finally {
     isLoading.value = false
   }
